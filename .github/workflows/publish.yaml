@@ -15,7 +15,7 @@ permissions:
   contents: write
 
 jobs:
-  pkgdown:
+  update_site:
     runs-on: ubuntu-latest
     # Only restrict concurrency for non-PR jobs
     concurrency:
@@ -33,14 +33,7 @@ jobs:
         with:
           use-public-rspm: true
 
-      - uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          dependencies: '"hard"'
-          cache: false
-          extra-packages: |
-            any::knitr
-            any::rmarkdown
-          needs: check
+      - uses: r-lib/actions/setup-renv@v2
 
       - name: Update data
         run: source("update_site.R")
