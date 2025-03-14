@@ -1,0 +1,25 @@
+---
+title: "TMS"
+---
+
+The **Theory Methods Society** is a new scholarly community dedicated to advancing theory development across the (social) sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining, and reusing theory, or developing the methods to do so.
+
+Whether you are developing novel theoretical frameworks, exploring computational modeling, or seeking better ways to integrate theory and data, our society provides a platform for connecting with like-minded others, critical engagement, and methodological innovation. Join us in shaping the future of theory in the social sciences!
+
+::: {.callout-tip}
+## Join us if you have an interest in:
+
+* Theory development
+* Formal theories
+* Toy models
+* Philosophy of science
+* (Interpretable) machine learning
+* Simulation studies
+* Meta-science
+* Open science
+
+:::
+
+
+
+

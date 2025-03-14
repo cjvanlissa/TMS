@@ -1,0 +1,18 @@
+---
+title: "News"
+---
+
+```{r}
+#| echo: false
+source("functions.R")
+events <- readRDS("websitedata.RData")
+events <- events[events$category == "News", ,drop = FALSE]
+events$Title <- events$tite
+if(any(!is.na(events$link))){
+  events$Title[which(!is.na(events$link))] <- paste0('<a href = "', events$link[which(!is.na(events$link))], '">', events$title[which(!is.na(events$link))], '</a>')
+}
+names(events) <- c("Date", "Until", "removeby", "category", "title", "description", "link", "picture", "Title")
+
+events[, c("Title", "Date", "Until", "description")] |>
+  dt_wrap("description", options = list(dom = 't', "pageLength" = 40))
+```
