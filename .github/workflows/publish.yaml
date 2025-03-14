@@ -37,6 +37,14 @@ jobs:
       #   with:
       #     extra-packages: any::pkgdown, local::.
       #     needs: website
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          dependencies: '"hard"'
+          cache: false
+          extra-packages: |
+            any::knitr
+            any::rmarkdown
+          needs: check
 
       - name: Update data
         run: source("update_site.R")
