@@ -39,7 +39,7 @@ jobs:
         run: source("update_site.R")
         shell: Rscript {0}
         env:
-          GOOGLESHEETS4_KEY: ${{ secrets.GOOGLESHEETS4_KEY }}
+          GOOGLE_DRIVE: ${{ secrets.GOOGLE_DRIVE }}
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
