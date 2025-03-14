@@ -1,6 +1,10 @@
 get_data <- function(){
-websitedata <- read.csv("googlesheet.csv", stringsAsFactors = FALSE)
+websitedata <- googlesheets4::read_sheet('https://docs.google.com/spreadsheets/d/1ii_T5tXEp1CzUWivy4f0QFFkQcoKhefxqX2UmpuvELo/edit?usp=sharing')
+names(websitedata) <- c("Timestamp", "category", "title", "description", "date", "enddate", "removeby", "link", "picture")
 websitedata[c("date", "enddate", "removeby")] <- lapply(websitedata[c("date", "enddate", "removeby")], as.Date, format = "%d-%m-%Y")
+if(any(is.na(websitedata$date))){
+  websitedata$date[which(is.na(websitedata$date))] <- as.Date(websitedata$Timestamp[which(is.na(websitedata$date))], format = "%d-%m-%Y")
+}
 removethese <- which(websitedata$removeby <= Sys.Date())
 if(length(removethese) > 0){
   websitedata <- websitedata[-removethese, , drop = FALSE]
