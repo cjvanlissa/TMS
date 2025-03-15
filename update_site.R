@@ -1,4 +1,5 @@
 get_data <- function(){
+  # https://www.obrien.page/blog/2023/03_10_google_and_github_actions/
   if(!Sys.info()["user"] == "vanlissa") googlesheets4::gs4_auth(path = Sys.getenv('GOOGLE_DRIVE'))
   websitedata <- googlesheets4::read_sheet('https://docs.google.com/spreadsheets/d/1ii_T5tXEp1CzUWivy4f0QFFkQcoKhefxqX2UmpuvELo/edit?usp=sharing')
   names(websitedata) <- c("Timestamp", "category", "title", "description", "date", "enddate", "removeby", "link", "picture")
@@ -24,15 +25,18 @@ get_data <- function(){
   }
 
   # Write People page
-  ppl <- websitedata[websitedata$category == "People", , drop = FALSE]
-  if(nrow(ppl) > 0){
-    lnz <- c("---", "title: \"People\"", "---", "", '::: {layout="[20,-2,20]" layout-valign="center"}')
-    lnz <- c(lnz,
-             sapply(1:nrow(ppl), function(i){ paste0("### [", ppl$title[i], "](", ppl$link[i], ")\n\n", paste0("![](", ppl$picture[i], ")"), "\n\n", ppl$description[i], "\n\n")}),
-             ":::", "")
-    writeLines(lnz, "people.qmd")
+  # ppl <- websitedata[websitedata$category == "People", , drop = FALSE]
+  # if(nrow(ppl) > 0){
+  #   for(i in 1:nrow(ppl)){
+  #
+  #   }
+  #   lnz <- c("---", "title: \"People\"", "---", "", '::: {layout="[20,-2,20]" layout-valign="center"}')
+  #   lnz <- c(lnz,
+  #            sapply(1:nrow(ppl), function(i){ paste0("### [", ppl$title[i], "](", ppl$link[i], ")\n\n", paste0("![](", ppl$picture[i], ")"), "\n\n", ppl$description[i], "\n\n")}),
+  #            ":::", "")
+    #writeLines(lnz, "people.qmd")
 
-  }
+  # }
 
   # Calendar
 

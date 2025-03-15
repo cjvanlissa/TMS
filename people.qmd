@@ -1,21 +1,22 @@
 ---
 title: "People"
+format:
+  html:
+    toc: true
 ---
 
-::: {layout="[20,-2,20]" layout-valign="center"}
-### [Caspar J. Van Lissa](https://cjvanlissa.github.io/resume)
 
-![](https://www.tilburguniversity.edu/sites/default/files/styles/speaker_160x160_x2/public/profile_pictures/2023-02/passphoto2023square.webp)
-
-My Vidi-funded research line uses machine learning for rigorous exploration, and uses the resulting data-driven insights to complement blind spots in theory.
-
-
-### [Noah N. N. Van Dongen](https://noahvandongen.com/)
-
-![](https://static.wixstatic.com/media/fba80f_c7ecf6da08d04881b513ea4f586a1820~mv2.jpg/v1/fill/w_265,h_391,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/noahvandongen_edited.jpg)
-
-Noah Van Dongen works as a postdoctoral researcher at the Theory Methods Lab and as a methodologist at the Amsterdam School of Law.
-
-
-:::
-
+```{r}
+#| output: asis
+#| echo: false
+ppl <- readRDS("websitedata.RData")
+ppl <- ppl[ppl$category == "People", , drop = FALSE]
+if(nrow(ppl) > 0){
+  cat('::: {layout="[20,-2,20]" layout-valign="center"}\n',
+    glue::glue("\n\n# [{ppl$title}]({ppl$link})\n\n![]({ppl$picture})\n\n{ppl$description}\n\n"),
+    "\n",
+    ":::", "",
+    sep = ""
+)
+}
+```
