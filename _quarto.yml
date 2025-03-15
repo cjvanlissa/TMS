@@ -8,6 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - news.qmd
+      - events.qmd
       - people.qmd
       - about.qmd
 
