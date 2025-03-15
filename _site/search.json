@@ -19,5 +19,12 @@
     "title": "News",
     "section": "",
     "text": "events &lt;- read.csv(\"googlesheet.csv\", stringsAsFactors = FALSE)\nDT::datatable(events[events$category == \"News\", ,drop = FALSE])"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Caspar J. Van Lissa\n\n\n\n \n\n\nMy Vidi-funded research line uses machine learning for rigorous exploration, and uses the resulting data-driven insights to complement blind spots in theory.\n\n\n\n\nNoah N. N. Van Dongen\n\n\n\n \n\n\nNoah Van Dongen works as a postdoctoral researcher at the Theory Methods Lab and as a methodologist at the Amsterdam School of Law."
   }
 ]

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+PRODID:ATFutures/calendar
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:IC2S2 tutorial on FAIR Theory
+DTSTART:20250721T000000
+DTEND:20250721T000000
+SUMMARY:FAIR theory: Applying Open Science Principles to the Construction and Iterative Improvement of Theories
+END:VEVENT
+BEGIN:VEVENT
+UID:FOS Conference 2025 - Theory Development
+DTSTART:20250515T000000
+DTEND:20250316T000000
+SUMMARY:University of Freiburg Open Science mini-conference. The focus of the meeting will be on theory development and its intersections with Open Science. Invited speakers: Prof. Daniel Lakens (Technical University Eindhoven, Netherlands), Dr. Priya Silverstein (Ashland University & Psychological Science Accelerator, USA), Freek Oude Maatman (University of Groningen & Radboud University Nijmegen, Netherlands), Sajedeh Rasti (Technical University Eindhoven, Netherlands).
+END:VEVENT
+END:VCALENDAR
