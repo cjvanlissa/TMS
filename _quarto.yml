@@ -10,6 +10,7 @@ website:
       - news.qmd
       - events.qmd
       - people.qmd
+      - resources.qmd
       - about.qmd
 
 format:

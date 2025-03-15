@@ -30,8 +30,22 @@
   {
     "objectID": "events.html",
     "href": "events.html",
-    "title": "News",
+    "title": "Events",
     "section": "",
     "text": "Download the calendar"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "See the TMS Zenodo library to access a bibliography of relevant papers."
+  },
+  {
+    "objectID": "resources.html#papers-of-interest",
+    "href": "resources.html#papers-of-interest",
+    "title": "Resources",
+    "section": "",
+    "text": "See the TMS Zenodo library to access a bibliography of relevant papers."
   }
 ]
