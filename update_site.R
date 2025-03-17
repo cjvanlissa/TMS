@@ -24,30 +24,6 @@ get_data <- function(){
     websitedata <- websitedata[-removethese, , drop = FALSE]
   }
 
-  # Write People page
-  # ppl <- websitedata[websitedata$category == "People", , drop = FALSE]
-  # if(nrow(ppl) > 0){
-  #   for(i in 1:nrow(ppl)){
-  #
-  #   }
-  #   lnz <- c("---", "title: \"People\"", "---", "", '::: {layout="[20,-2,20]" layout-valign="center"}')
-  #   lnz <- c(lnz,
-  #            sapply(1:nrow(ppl), function(i){ paste0("### [", ppl$title[i], "](", ppl$link[i], ")\n\n", paste0("![](", ppl$picture[i], ")"), "\n\n", ppl$description[i], "\n\n")}),
-  #            ":::", "")
-    #writeLines(lnz, "people.qmd")
-
-  # }
-
-  # Calendar
-
-  cal <- websitedata[websitedata$category == "Events", , drop = FALSE]
-  if(nrow(cal) > 0){
-    cal <- do.call(rbind, lapply(1:nrow(cal), function(i){
-      calendar::ic_event(uid = cal$title[i], start_time = as.POSIXct(cal$date[i]), end_time = as.POSIXct(cal$enddate[i]), summary = cal$description[i])
-    }))
-    cal <- calendar::ical(cal) |>
-    calendar::ic_write(file = "tms.ics")
-  }
 
   saveRDS(websitedata, "websitedata.RData")
 }
