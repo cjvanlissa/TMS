@@ -5,17 +5,16 @@ format:
     toc: true
 ---
 
-
 ```{r}
 #| output: asis
 #| echo: false
 ppl <- readRDS("websitedata.RData")
 ppl <- ppl[ppl$category == "People", , drop = FALSE]
 if(nrow(ppl) > 0){
-  cat('::: {layout="[20,-2,20]" layout-valign="center"}\n',
-    glue::glue("\n\n# [{ppl$title}]({ppl$link})\n\n![]({ppl$picture})\n\n{ppl$description}\n\n"),
+  cat('',
+    glue::glue('\n\n## [{{ppl$title}}]({{ppl$link}})\n\n::: {layout="[20,-2,20]" layout-valign="center"}\n\n![]({{ppl$picture}})\n\n{{ppl$description}}\n\n:::', .open = "{{", .close = "}}"),
     "\n",
-    ":::", "",
+    "",
     sep = ""
 )
 }

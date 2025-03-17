@@ -2,8 +2,19 @@
 title: "Resources"
 ---
 
+## Connect on Discord
+
+We wanted to create a low-threshold place for everybody to connect. If you haven't already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas: https://discord.gg/rttXVEmU
+
 ## Papers of Interest
 
 See the [TMS Zotero library](https://www.zotero.org/groups/5852219/theory_methods_society/library) to access a bibliography of relevant papers.
+
+## Educational Materials
+
+
+## Software Packages
+
+https://cjvanlissa.github.io/theorytools
 
 
