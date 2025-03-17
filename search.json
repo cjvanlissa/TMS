@@ -4,21 +4,63 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "See the TMS Zotero library to access a bibliography of relevant papers."
+    "text": "We wanted to create a low-threshold place for everybody to connect. If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas: https://discord.gg/rttXVEmU"
+  },
+  {
+    "objectID": "resources.html#connect-on-discord",
+    "href": "resources.html#connect-on-discord",
+    "title": "Resources",
+    "section": "",
+    "text": "We wanted to create a low-threshold place for everybody to connect. If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas: https://discord.gg/rttXVEmU"
   },
   {
     "objectID": "resources.html#papers-of-interest",
     "href": "resources.html#papers-of-interest",
     "title": "Resources",
-    "section": "",
-    "text": "See the TMS Zotero library to access a bibliography of relevant papers."
+    "section": "Papers of Interest",
+    "text": "Papers of Interest\nSee the TMS Zotero library to access a bibliography of relevant papers."
+  },
+  {
+    "objectID": "resources.html#educational-materials",
+    "href": "resources.html#educational-materials",
+    "title": "Resources",
+    "section": "Educational Materials",
+    "text": "Educational Materials"
+  },
+  {
+    "objectID": "resources.html#software-packages",
+    "href": "resources.html#software-packages",
+    "title": "Resources",
+    "section": "Software Packages",
+    "text": "Software Packages\nhttps://cjvanlissa.github.io/theorytools"
   },
   {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "Caspar J. Van Lissa\n\n\n\n \n\n\nMy Vidi-funded research line uses machine learning for rigorous exploration, and uses the resulting data-driven insights to complement blind spots in theory.\n\n\n\n\nNoah N. N. Van Dongen\n\n\n\n \n\n\nNoah Van Dongen works as a postdoctoral researcher at the Theory Methods Lab and as a methodologist at the Amsterdam School of Law.\n\n\n\n\nDaniel Lakens\n\n\n\n \n\n\nAssociate Professor in the Human-Technology interaction group at Eindhoven University of Technology (TU/e). Daniel’s expertise includes meta-science, research methods and applied statistics."
+    "text": "My Vidi-funded research line uses machine learning for rigorous exploration, and uses the resulting data-driven insights to complement blind spots in theory."
+  },
+  {
+    "objectID": "people.html#caspar-j.-van-lissa",
+    "href": "people.html#caspar-j.-van-lissa",
+    "title": "People",
+    "section": "",
+    "text": "My Vidi-funded research line uses machine learning for rigorous exploration, and uses the resulting data-driven insights to complement blind spots in theory."
+  },
+  {
+    "objectID": "people.html#noah-n.-n.-van-dongen",
+    "href": "people.html#noah-n.-n.-van-dongen",
+    "title": "People",
+    "section": "Noah N. N. Van Dongen",
+    "text": "Noah N. N. Van Dongen\n\n\n\n\n\n\n\n\n\n \n\n\nNoah Van Dongen works as a postdoctoral researcher at the Theory Methods Lab and as a methodologist at the Amsterdam School of Law."
+  },
+  {
+    "objectID": "people.html#daniel-lakens",
+    "href": "people.html#daniel-lakens",
+    "title": "People",
+    "section": "Daniel Lakens",
+    "text": "Daniel Lakens\n\n\n\n\n\n\n\n\n\n \n\n\nAssociate Professor in the Human-Technology interaction group at Eindhoven University of Technology (TU/e). Daniel’s expertise includes meta-science, research methods and applied statistics."
   },
   {
     "objectID": "index.html",
