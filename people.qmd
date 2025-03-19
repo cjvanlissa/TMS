@@ -11,12 +11,26 @@ format:
 ppl <- readRDS("websitedata.RData")
 ppl <- ppl[ppl$category == "People", , drop = FALSE]
 ppl <- ppl[order(ppl$title), , drop = FALSE]
+if(any(is.na(ppl$picture))){
+  theseppl <- ppl$title[which(is.na(ppl$picture))]
+  pic_urls <- sapply(theseppl, function(p){
+    p <- gsub('\\b(\\pL)\\pL{2,}|.','\\1', p, perl = TRUE)
+    if(!file.exists(glue::glue("fig_{p}.svg"))){
+      clr <- sample(grDevices::colors()[grep('gr(a|e)y', grDevices::colors(), invert = T)], 1)
+      g <- ggplot2::ggplot(data = NULL) + ggplot2::geom_point(ggplot2::aes(x = 0, y = 0), fill = colorspace::lighten(clr), color = colorspace::darken(clr), stroke = 4, alpha =.7, shape = 21, size = 50) + ggplot2::geom_text(ggplot2::aes(x = 0, y = 0, label = p), color = "white", size = 14) + ggplot2::theme_void() + ggplot2::theme(legend.position = "none")
+      ggplot2::ggsave(glue::glue("fig_{p}.svg"), g, device = "svg", width = 2, height = 2)
+    }
+    p
+  })
+  ppl$picture[which(is.na(ppl$picture))] <- glue::glue("https://raw.githubusercontent.com/cjvanlissa/TMS/refs/heads/main/fig_{pic_urls}.svg")
+}
+
 if(nrow(ppl) > 0){
   cat('',
-    glue::glue('\n\n## [{{ppl$title}}]({{ppl$link}})\n\n::: {layout="[20,-2,20]" layout-valign="center"}\n\n![]({{ppl$picture}})\n\n{{ppl$description}}\n\n:::', .open = "{{", .close = "}}"),
-    "\n",
-    "",
-    sep = ""
-)
+      glue::glue('\n\n## [{{ppl$title}}]({{ppl$link}})\n\n::: {layout="[20,-2,20]" layout-valign="center"}\n\n![]({{ppl$picture}})\n\n{{ppl$description}}\n\n:::', .open = "{{", .close = "}}"),
+      "\n",
+      "",
+      sep = ""
+  )
 }
 ```
