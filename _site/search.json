@@ -25,7 +25,7 @@
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "My Vidi-funded research line uses machine learning for rigorous exploration, and uses the resulting data-driven insights to complement blind spots in theory."
+    "text": "I love exploring science from first principles, tracing its impact all the way to the everyday decisions researchers make. I dabble in statistics, computer science, and philosophy of science."
   },
   {
     "objectID": "events.html",
@@ -39,28 +39,28 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "See the TMS Zotero library to access a bibliography of relevant papers."
+    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
   },
   {
     "objectID": "resources.html#papers-of-interest",
     "href": "resources.html#papers-of-interest",
     "title": "Resources",
-    "section": "",
-    "text": "See the TMS Zotero library to access a bibliography of relevant papers."
+    "section": "Papers of Interest",
+    "text": "Papers of Interest\nSee the TMS Zotero library to access a bibliography of relevant papers."
   },
   {
     "objectID": "people.html#caspar-j.-van-lissa",
     "href": "people.html#caspar-j.-van-lissa",
     "title": "People",
-    "section": "",
-    "text": "My Vidi-funded research line uses machine learning for rigorous exploration, and uses the resulting data-driven insights to complement blind spots in theory."
+    "section": "Caspar J. Van Lissa",
+    "text": "Caspar J. Van Lissa\n\n\n\n\n\n\n \n\n\nMy Vidi-funded research line uses machine learning for rigorous exploration, and uses the resulting data-driven insights to complement blind spots in theory."
   },
   {
     "objectID": "people.html#noah-n.-n.-van-dongen",
     "href": "people.html#noah-n.-n.-van-dongen",
     "title": "People",
     "section": "Noah N. N. Van Dongen",
-    "text": "Noah N. N. Van Dongen\n\n\n\n\n\n\n \n\n\nNoah Van Dongen works as a postdoctoral researcher at the Theory Methods Lab and as a methodologist at the Amsterdam School of Law."
+    "text": "Noah N. N. Van Dongen\n\n\n\n\n\n\n \n\n\nNoah Van Dongen works as a methodologist at the Amsterdam School of Law."
   },
   {
     "objectID": "people.html#daniel-lakens",
@@ -89,5 +89,40 @@
     "title": "People",
     "section": "Daniel Lakens",
     "text": "Daniel Lakens\n\n\n\n\n\n\n \n\n\nAssociate Professor in the Human-Technology interaction group at Eindhoven University of Technology (TU/e). Daniel’s expertise includes meta-science, research methods and applied statistics."
+  },
+  {
+    "objectID": "resources.html#connect-on-discord",
+    "href": "resources.html#connect-on-discord",
+    "title": "Resources",
+    "section": "",
+    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
+  },
+  {
+    "objectID": "resources.html#software",
+    "href": "resources.html#software",
+    "title": "Resources",
+    "section": "Software",
+    "text": "Software\n\ntheorytools (R package)\nR-package for creating, maintaining, and reusing FAIR theories. The package enables users to formalize theories, track changes with version control, assess pre-empirical coherence, derive testable hypotheses, and facilitates the systematic improvement of theoretical frameworks within open science frameworks. Please feel free to contribute datasets, tutorial exercises, and new functions to this package!\nhttps://cjvanlissa.github.io/theorytools\n\n\nInsight Maker\nAn online and free software package for ABM and system dynamics modeling. It is user-friendly, intuitive, and has a nice GUI.\nhttps://insightmaker.com/"
+  },
+  {
+    "objectID": "resources.html#educational-materials",
+    "href": "resources.html#educational-materials",
+    "title": "Resources",
+    "section": "Educational Materials",
+    "text": "Educational Materials\n\nGitBook “Theory Construction and Statistical Modeling”\nA free, open source GitBook for a Structural Equation Modeling course with attention to theory. Includes video lectures and formative assessments.\nhttps://cjvanlissa.github.io/TCSM\n\n\nFundamentals: Becoming better at explaining and understanding\nCourse material for a Honours Programme course for bachelor students (from any program) at the UvA and VU in Amsterdam, the Netherlands. It is a “hands on” course on scientific theory development. It takes students from figuring out which effects/phenomena/findings they would like to explain with a theory, through verbally describing and formalizing their theory, to deriving hypotheses and designing experiments to test their theories.\nhttps://osf.io/abxut/"
+  },
+  {
+    "objectID": "resources.html#software-packages",
+    "href": "resources.html#software-packages",
+    "title": "Resources",
+    "section": "Software Packages",
+    "text": "Software Packages\nhttps://cjvanlissa.github.io/theorytools"
+  },
+  {
+    "objectID": "people.html#aaron-peikert",
+    "href": "people.html#aaron-peikert",
+    "title": "People",
+    "section": "",
+    "text": "I love exploring science from first principles, tracing its impact all the way to the everyday decisions researchers make. I dabble in statistics, computer science, and philosophy of science."
   }
 ]

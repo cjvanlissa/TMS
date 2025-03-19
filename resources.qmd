@@ -4,17 +4,33 @@ title: "Resources"
 
 ## Connect on Discord
 
-We wanted to create a low-threshold place for everybody to connect. If you haven't already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas: https://discord.gg/rttXVEmU
+If you haven't already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society.
 
 ## Papers of Interest
 
 See the [TMS Zotero library](https://www.zotero.org/groups/5852219/theory_methods_society/library) to access a bibliography of relevant papers.
 
-## Educational Materials
 
-
-## Software Packages
-
-https://cjvanlissa.github.io/theorytools
-
+```{r}
+#| output: asis
+#| echo: false
+dat <- readRDS("websitedata.RData")
+dat <- dat[dat$category %in% c("Media", "Software", "Educational Materials"), , drop = FALSE]
+if(any(is.na(dat$picture))) dat$picture[which(is.na(dat$picture))] <- ""
+if(any(!is.na(dat$link))) dat$link[which(!is.na(dat$link))] <- paste0("<", dat$link[which(!is.na(dat$link))], ">")
+if(any(is.na(dat$link))) dat$link[which(is.na(dat$link))] <- ""
+if(nrow(dat) > 0){
+  for(thisc in c("Media", "Software", "Educational Materials")){
+    tmp <- dat[dat$category == thisc, , drop = FALSE]
+    if(nrow(tmp) > 0){
+      cat(glue::glue('\n\n## {thisc}\n\n'),
+          glue::glue('\n\n### {{dat$title[dat$category == thisc]}}\n\n{{dat$picture[dat$category == thisc]}}\n\n{{dat$description[dat$category == thisc]}}\n\n{{dat$link[dat$category == thisc]}}\n\n', .open = "{{", .close = "}}"),
+    "\n",
+    "",
+    sep = ""
+)
+    }
+  }
+}
+```
 
