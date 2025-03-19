@@ -10,6 +10,7 @@ format:
 #| echo: false
 ppl <- readRDS("websitedata.RData")
 ppl <- ppl[ppl$category == "People", , drop = FALSE]
+ppl <- ppl[order(ppl$title), , drop = FALSE]
 if(nrow(ppl) > 0){
   cat('',
     glue::glue('\n\n## [{{ppl$title}}]({{ppl$link}})\n\n::: {layout="[20,-2,20]" layout-valign="center"}\n\n![]({{ppl$picture}})\n\n{{ppl$description}}\n\n:::', .open = "{{", .close = "}}"),
