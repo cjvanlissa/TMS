@@ -32,7 +32,7 @@
     "href": "resources.html#educational-materials",
     "title": "Resources",
     "section": "Educational Materials",
-    "text": "Educational Materials\n\nGitBook “Theory Construction and Statistical Modeling”\nA free, open source GitBook for a Structural Equation Modeling course with attention to theory. Includes video lectures and formative assessments.\nhttps://cjvanlissa.github.io/TCSM\n\n\nFundamentals: Becoming better at explaining and understanding\nCourse material for a Honours Programme course for bachelor students (from any program) at the UvA and VU in Amsterdam, the Netherlands. It is a “hands on” course on scientific theory development. It takes students from figuring out which effects/phenomena/findings they would like to explain with a theory, through verbally describing and formalizing their theory, to deriving hypotheses and designing experiments to test their theories.\nhttps://osf.io/abxut/"
+    "text": "Educational Materials\n\nGitBook “Theory Construction and Statistical Modeling”\nA free, open source GitBook for a Structural Equation Modeling course with attention to theory. Includes video lectures and formative assessments.\nhttps://cjvanlissa.github.io/TCSM\n\n\nFundamentals: Becoming better at explaining and understanding\nCourse material for a Honours Programme course for bachelor students (from any program) at the UvA and VU in Amsterdam, the Netherlands. It is a “hands on” course on scientific theory development. It takes students from figuring out which effects/phenomena/findings they would like to explain with a theory, through verbally describing and formalizing their theory, to deriving hypotheses and designing experiments to test their theories.\nhttps://osf.io/abxut/\n\n\nFOMO-Psy: Formal Modeling of Psychological Theories\nThis is a 14-week course, instructed by Felix Schönbrodt at the LMU Munich in winter term 2023 and 2024, with contributions from Daniel Leising and Aaron Peikert, with many inspirations taken from a course from Noah van Dongen. The material is work in progress and will be continuously updated along with each new run of the course.\nhttps://nicebread.github.io/FOMO-Psy/"
   },
   {
     "objectID": "people.html",
@@ -75,6 +75,13 @@
     "title": "People",
     "section": "Daniel Lakens",
     "text": "Daniel Lakens\n\n\n\n\n\n\n\n\n\n \n\n\nAssociate Professor in the Human-Technology interaction group at Eindhoven University of Technology (TU/e). Daniel’s expertise includes meta-science, research methods and applied statistics."
+  },
+  {
+    "objectID": "people.html#felix-schönbrodt",
+    "href": "people.html#felix-schönbrodt",
+    "title": "People",
+    "section": "Felix Schönbrodt",
+    "text": "Felix Schönbrodt\n\n\n\n\n\n\n\n\n\n \n\n\nProf. at Department of Psychology, Ludwig-Maximilians-Universität München, Germany. Managing director of the LMU Open Science Center and board member of the META-REP priority program (“A meta-scientific research program to analyse and optimise replicability in the behavioral, social, and cognitive Sciences”). Interested in Open Science, Metascience, implicit motives, machine learning, responsible research assessment (CoARA), solarpunk, piano, and cooking."
   },
   {
     "objectID": "people.html#noah-n.-n.-van-dongen",
