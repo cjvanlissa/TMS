@@ -21,18 +21,25 @@
     "text": "Papers of Interest\nSee the TMS Zotero library to access a bibliography of relevant papers."
   },
   {
+    "objectID": "resources.html#media",
+    "href": "resources.html#media",
+    "title": "Resources",
+    "section": "Media",
+    "text": "Media\n\nPodcast Nullius in Verba\nNullius in Verba is a podcast about science—what it is and what it could be. It is hosted by Smriti Mehta from UC Berkeley and Daniël Lakens from Eindhoven University of Technology.\nhttps://nulliusinverba.podbean.com/\n\n\nScience with Sabine\nYoutube channel of physicist Sabine Hossenfelder on science.\nhttps://www.youtube.com/@SabineHossenfelder"
+  },
+  {
     "objectID": "resources.html#software",
     "href": "resources.html#software",
     "title": "Resources",
     "section": "Software",
-    "text": "Software\n\ntheorytools (R package)\nR-package for creating, maintaining, and reusing FAIR theories. The package enables users to formalize theories, track changes with version control, assess pre-empirical coherence, derive testable hypotheses, and facilitates the systematic improvement of theoretical frameworks within open science frameworks. Please feel free to contribute datasets, tutorial exercises, and new functions to this package!\nhttps://cjvanlissa.github.io/theorytools\n\n\nInsight Maker\nAn online and free software package for ABM and system dynamics modeling. It is user-friendly, intuitive, and has a nice GUI.\nhttps://insightmaker.com/"
+    "text": "Software\n\ntheorytools (R package)\nR-package for creating, maintaining, and reusing FAIR theories. The package enables users to formalize theories, track changes with version control, assess pre-empirical coherence, derive testable hypotheses, and facilitates the systematic improvement of theoretical frameworks within open science frameworks. Please feel free to contribute datasets, tutorial exercises, and new functions to this package!\nhttps://cjvanlissa.github.io/theorytools\n\n\nInsight Maker\nAn online and free software package for ABM and system dynamics modeling. It is user-friendly, intuitive, and has a nice GUI.\nhttps://insightmaker.com/\n\n\nLoopy\nLoopy is an open-source online software tool developed by Nicky Case for drawing and running simple stock-and-flow models.\nhttps://ncase.me/loopy/"
   },
   {
     "objectID": "resources.html#educational-materials",
     "href": "resources.html#educational-materials",
     "title": "Resources",
     "section": "Educational Materials",
-    "text": "Educational Materials\n\nGitBook “Theory Construction and Statistical Modeling”\nA free, open source GitBook for a Structural Equation Modeling course with attention to theory. Includes video lectures and formative assessments.\nhttps://cjvanlissa.github.io/TCSM\n\n\nFundamentals: Becoming better at explaining and understanding\nCourse material for a Honours Programme course for bachelor students (from any program) at the UvA and VU in Amsterdam, the Netherlands. It is a “hands on” course on scientific theory development. It takes students from figuring out which effects/phenomena/findings they would like to explain with a theory, through verbally describing and formalizing their theory, to deriving hypotheses and designing experiments to test their theories.\nhttps://osf.io/abxut/\n\n\nFOMO-Psy: Formal Modeling of Psychological Theories\nThis is a 14-week course, instructed by Felix Schönbrodt at the LMU Munich in winter term 2023 and 2024, with contributions from Daniel Leising and Aaron Peikert, with many inspirations taken from a course from Noah van Dongen. The material is work in progress and will be continuously updated along with each new run of the course.\nhttps://nicebread.github.io/FOMO-Psy/"
+    "text": "Educational Materials\n\nTheory Construction and Statistical Modeling\nA free, open source GitBook for a Structural Equation Modeling course with attention to theory. Includes video lectures and formative assessments.\nhttps://cjvanlissa.github.io/TCSM\n\n\nFundamentals: Becoming better at explaining and understanding\nCourse material for a Honours Programme course for bachelor students (from any program) at the UvA and VU in Amsterdam, the Netherlands. It is a “hands on” course on scientific theory development. It takes students from figuring out which effects/phenomena/findings they would like to explain with a theory, through verbally describing and formalizing their theory, to deriving hypotheses and designing experiments to test their theories.\nhttps://osf.io/abxut/\n\n\nFOMO-Psy: Formal Modeling of Psychological Theories\nThis is a 14-week course, instructed by Felix Schönbrodt at the LMU Munich in winter term 2023 and 2024, with contributions from Daniel Leising and Aaron Peikert, with many inspirations taken from a course from Noah van Dongen. The material is work in progress and will be continuously updated along with each new run of the course.\nhttps://nicebread.github.io/FOMO-Psy/"
   },
   {
     "objectID": "people.html",
