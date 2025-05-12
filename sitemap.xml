@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cjvanlissa.github.io/TMS/news.qm.html</loc>
-    <lastmod>2025-05-05T01:05:24.537Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cjvanlissa.github.io/TMS/index.html</loc>
-    <lastmod>2025-05-05T01:05:24.537Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cjvanlissa.github.io/TMS/people.html</loc>
-    <lastmod>2025-05-05T01:05:24.537Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cjvanlissa.github.io/TMS/events.html</loc>
-    <lastmod>2025-05-05T01:05:24.536Z</lastmod>
+    <loc>https://cjvanlissa.github.io/TMS/about.html</loc>
+    <lastmod>2025-05-12T01:05:40.871Z</lastmod>
   </url>
   <url>
     <loc>https://cjvanlissa.github.io/TMS/news.html</loc>
-    <lastmod>2025-05-05T01:05:24.537Z</lastmod>
+    <lastmod>2025-05-12T01:05:40.872Z</lastmod>
   </url>
   <url>
-    <loc>https://cjvanlissa.github.io/TMS/about.html</loc>
-    <lastmod>2025-05-05T01:05:24.536Z</lastmod>
+    <loc>https://cjvanlissa.github.io/TMS/events.html</loc>
+    <lastmod>2025-05-12T01:05:40.871Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cjvanlissa.github.io/TMS/news.qm.html</loc>
+    <lastmod>2025-05-12T01:05:40.872Z</lastmod>
   </url>
   <url>
     <loc>https://cjvanlissa.github.io/TMS/resources.html</loc>
-    <lastmod>2025-05-05T01:05:24.538Z</lastmod>
+    <lastmod>2025-05-12T01:05:40.873Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cjvanlissa.github.io/TMS/people.html</loc>
+    <lastmod>2025-05-12T01:05:40.872Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cjvanlissa.github.io/TMS/index.html</loc>
+    <lastmod>2025-05-12T01:05:40.872Z</lastmod>
   </url>
 </urlset>
