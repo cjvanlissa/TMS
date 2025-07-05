@@ -12,6 +12,7 @@ ppl <- readRDS("websitedata.RData")
 ppl <- ppl[ppl$category == "People", , drop = FALSE]
 ppl <- ppl[order(ppl$title), , drop = FALSE]
 if(any(is.na(ppl$picture))){
+  library(ggplot2)
   theseppl <- ppl$title[which(is.na(ppl$picture))]
   pic_urls <- sapply(theseppl, function(p){
     p <- gsub('\\b(\\pL)\\pL{2,}|.','\\1', p, perl = TRUE)
