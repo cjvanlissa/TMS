@@ -1,45 +1,17 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
-    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
+    "text": "Download the calendar"
   },
   {
-    "objectID": "resources.html#connect-on-discord",
-    "href": "resources.html#connect-on-discord",
-    "title": "Resources",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
-  },
-  {
-    "objectID": "resources.html#papers-of-interest",
-    "href": "resources.html#papers-of-interest",
-    "title": "Resources",
-    "section": "Papers of Interest",
-    "text": "Papers of Interest\nSee the TMS Zotero library to access a bibliography of relevant papers."
-  },
-  {
-    "objectID": "resources.html#media",
-    "href": "resources.html#media",
-    "title": "Resources",
-    "section": "Media",
-    "text": "Media\n\nPodcast Nullius in Verba\nNullius in Verba is a podcast about science—what it is and what it could be. It is hosted by Smriti Mehta from UC Berkeley and Daniël Lakens from Eindhoven University of Technology.\nhttps://nulliusinverba.podbean.com/"
-  },
-  {
-    "objectID": "resources.html#software",
-    "href": "resources.html#software",
-    "title": "Resources",
-    "section": "Software",
-    "text": "Software\n\ntheorytools (R package)\nR-package for creating, maintaining, and reusing FAIR theories. The package enables users to formalize theories, track changes with version control, assess pre-empirical coherence, derive testable hypotheses, and facilitates the systematic improvement of theoretical frameworks within open science frameworks. Please feel free to contribute datasets, tutorial exercises, and new functions to this package!\nhttps://cjvanlissa.github.io/theorytools\n\n\nInsight Maker\nAn online and free software package for ABM and system dynamics modeling. It is user-friendly, intuitive, and has a nice GUI.\nhttps://insightmaker.com/\n\n\nLoopy\nLoopy is an open-source online software tool developed by Nicky Case for drawing and running simple stock-and-flow models.\nhttps://ncase.me/loopy/"
-  },
-  {
-    "objectID": "resources.html#educational-materials",
-    "href": "resources.html#educational-materials",
-    "title": "Resources",
-    "section": "Educational Materials",
-    "text": "Educational Materials\n\nTheory Construction and Statistical Modeling\nA free, open source GitBook for a Structural Equation Modeling course with attention to theory. Includes video lectures and formative assessments.\nhttps://cjvanlissa.github.io/TCSM\n\n\nFundamentals: Becoming better at explaining and understanding\nCourse material for a Honours Programme course for bachelor students (from any program) at the UvA and VU in Amsterdam, the Netherlands. It is a “hands on” course on scientific theory development. It takes students from figuring out which effects/phenomena/findings they would like to explain with a theory, through verbally describing and formalizing their theory, to deriving hypotheses and designing experiments to test their theories.\nhttps://osf.io/abxut/\n\n\nFOMO-Psy: Formal Modeling of Psychological Theories\nThis is a 14-week course, instructed by Felix Schönbrodt at the LMU Munich in winter term 2023 and 2024, with contributions from Daniel Leising and Aaron Peikert, with many inspirations taken from a course from Noah van Dongen. The material is work in progress and will be continuously updated along with each new run of the course.\nhttps://nicebread.github.io/FOMO-Psy/"
+    "text": "The Theory Methods Society was founded by Caspar van Lissa and Noah van Dongen, who received NWO Vidi- and Veni-grants, respectively, for research on theory methods in the social sciences. Both applied for funds to advance community building, which will be used to kick-start this society.\nThe bylaws and governance structure of the society will be established in due course, most likely during the planned Lorentz workshop on theory methods.\nBy participating in the Theory Methods Society, you agree to adhere to the Contributor Covenant, a code of conduct designed to ensure safety and accountability in communities."
   },
   {
     "objectID": "index.html",
@@ -47,13 +19,6 @@
     "title": "TMS",
     "section": "",
     "text": "The Theory Methods Society is a new scholarly community dedicated to advancing theory development across the (social) sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining, and reusing theory, or developing the methods to do so.\nWhether you are developing novel theoretical frameworks, exploring computational modeling, or seeking better ways to integrate theory and data, our society provides a platform for connecting with like-minded others, critical engagement, and methodological innovation. Join us in shaping the future of theory in the social sciences!\n\n\n\n\n\n\nJoin us if you have an interest in:\n\n\n\n\nTheory development\nFormal theories\nToy models\nPhilosophy of science\n(Interpretable) machine learning\nSimulation studies\nMeta-science\nOpen science\n\n\n\n\nSign up or contribute to website\nAll members can contribute to the Theory Methods Society by adding an item to this Google form. To prevent abuse by bots and malicious actors, you must first request permission to fill out the form.\nTo join the Theory Methods Society, add yourself in the category “People”. It is helpful if you include a link to your personal website, to an image of yourself, and your email address (to receive communications from us)."
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "Download the calendar"
   },
   {
     "objectID": "people.html",
@@ -273,10 +238,45 @@
     "text": "Willem Frankenhuis\n\n\n\n\n\n\n \n\n\nWillem Frankenhuis is Associate Professor at the Institute for Biodiversity and Ecosystem Dynamics of the University of Amsterdam. He is also Senior Researcher at the Max Planck Institute for Research on Crime, Security and Law in Germany. Before his current position, he worked at Utrecht University (2020-2023) and Radboud University (2012-2020). He studies how people develop in harsh and unpredictable conditions. His empirical work focuses on ‘hidden talents’, abilities enhanced by adversity, and ‘reasonable responses’, decisions and behavior tailored to the demands of adverse environments. In his theoretical work, he uses mathematical modeling to understand how adaptive processes operating on different timescales—evolution, development, and learning—tailor individuals to their environments."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "The Theory Methods Society was founded by Caspar van Lissa and Noah van Dongen, who received NWO Vidi- and Veni-grants, respectively, for research on theory methods in the social sciences. Both applied for funds to advance community building, which will be used to kick-start this society.\nThe bylaws and governance structure of the society will be established in due course, most likely during the planned Lorentz workshop on theory methods.\nBy participating in the Theory Methods Society, you agree to adhere to the Contributor Covenant, a code of conduct designed to ensure safety and accountability in communities."
+    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
+  },
+  {
+    "objectID": "resources.html#connect-on-discord",
+    "href": "resources.html#connect-on-discord",
+    "title": "Resources",
+    "section": "",
+    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
+  },
+  {
+    "objectID": "resources.html#papers-of-interest",
+    "href": "resources.html#papers-of-interest",
+    "title": "Resources",
+    "section": "Papers of Interest",
+    "text": "Papers of Interest\nSee the TMS Zotero library to access a bibliography of relevant papers."
+  },
+  {
+    "objectID": "resources.html#media",
+    "href": "resources.html#media",
+    "title": "Resources",
+    "section": "Media",
+    "text": "Media\n\nPodcast Nullius in Verba\nNullius in Verba is a podcast about science—what it is and what it could be. It is hosted by Smriti Mehta from UC Berkeley and Daniël Lakens from Eindhoven University of Technology.\nhttps://nulliusinverba.podbean.com/"
+  },
+  {
+    "objectID": "resources.html#software",
+    "href": "resources.html#software",
+    "title": "Resources",
+    "section": "Software",
+    "text": "Software\n\ntheorytools (R package)\nR-package for creating, maintaining, and reusing FAIR theories. The package enables users to formalize theories, track changes with version control, assess pre-empirical coherence, derive testable hypotheses, and facilitates the systematic improvement of theoretical frameworks within open science frameworks. Please feel free to contribute datasets, tutorial exercises, and new functions to this package!\nhttps://cjvanlissa.github.io/theorytools\n\n\nInsight Maker\nAn online and free software package for ABM and system dynamics modeling. It is user-friendly, intuitive, and has a nice GUI.\nhttps://insightmaker.com/\n\n\nLoopy\nLoopy is an open-source online software tool developed by Nicky Case for drawing and running simple stock-and-flow models.\nhttps://ncase.me/loopy/"
+  },
+  {
+    "objectID": "resources.html#educational-materials",
+    "href": "resources.html#educational-materials",
+    "title": "Resources",
+    "section": "Educational Materials",
+    "text": "Educational Materials\n\nTheory Construction and Statistical Modeling\nA free, open source GitBook for a Structural Equation Modeling course with attention to theory. Includes video lectures and formative assessments.\nhttps://cjvanlissa.github.io/TCSM\n\n\nFundamentals: Becoming better at explaining and understanding\nCourse material for a Honours Programme course for bachelor students (from any program) at the UvA and VU in Amsterdam, the Netherlands. It is a “hands on” course on scientific theory development. It takes students from figuring out which effects/phenomena/findings they would like to explain with a theory, through verbally describing and formalizing their theory, to deriving hypotheses and designing experiments to test their theories.\nhttps://osf.io/abxut/\n\n\nFOMO-Psy: Formal Modeling of Psychological Theories\nThis is a 14-week course, instructed by Felix Schönbrodt at the LMU Munich in winter term 2023 and 2024, with contributions from Daniel Leising and Aaron Peikert, with many inspirations taken from a course from Noah van Dongen. The material is work in progress and will be continuously updated along with each new run of the course.\nhttps://nicebread.github.io/FOMO-Psy/"
   }
 ]
