@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The Theory Methods Society was founded by Caspar van Lissa and Noah van Dongen, who received NWO Vidi- and Veni-grants, respectively, for research on theory methods in the social sciences. Both applied for funds to advance community building, which will be used to kick-start this society.\nThe bylaws and governance structure of the society will be established in due course, most likely during the planned Lorentz workshop on theory methods.\nBy participating in the Theory Methods Society, you agree to adhere to the Contributor Covenant, a code of conduct designed to ensure safety and accountability in communities."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Download the calendar"
+  },
+  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
@@ -40,13 +54,6 @@
     "title": "Resources",
     "section": "Educational Materials",
     "text": "Educational Materials\n\nTheory Construction and Statistical Modeling\nA free, open source GitBook for a Structural Equation Modeling course with attention to theory. Includes video lectures and formative assessments.\nhttps://cjvanlissa.github.io/TCSM\n\n\nFundamentals: Becoming better at explaining and understanding\nCourse material for a Honours Programme course for bachelor students (from any program) at the UvA and VU in Amsterdam, the Netherlands. It is a “hands on” course on scientific theory development. It takes students from figuring out which effects/phenomena/findings they would like to explain with a theory, through verbally describing and formalizing their theory, to deriving hypotheses and designing experiments to test their theories.\nhttps://osf.io/abxut/\n\n\nFOMO-Psy: Formal Modeling of Psychological Theories\nThis is a 14-week course, instructed by Felix Schönbrodt at the LMU Munich in winter term 2023 and 2024, with contributions from Daniel Leising and Aaron Peikert, with many inspirations taken from a course from Noah van Dongen. The material is work in progress and will be continuously updated along with each new run of the course.\nhttps://nicebread.github.io/FOMO-Psy/"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "Download the calendar"
   },
   {
     "objectID": "people.html",
@@ -278,13 +285,6 @@
     "title": "People",
     "section": "Willem Frankenhuis",
     "text": "Willem Frankenhuis\n\n\n\n\n\n\n \n\n\nWillem Frankenhuis is Associate Professor at the Institute for Biodiversity and Ecosystem Dynamics of the University of Amsterdam. He is also Senior Researcher at the Max Planck Institute for Research on Crime, Security and Law in Germany. Before his current position, he worked at Utrecht University (2020-2023) and Radboud University (2012-2020). He studies how people develop in harsh and unpredictable conditions. His empirical work focuses on ‘hidden talents’, abilities enhanced by adversity, and ‘reasonable responses’, decisions and behavior tailored to the demands of adverse environments. In his theoretical work, he uses mathematical modeling to understand how adaptive processes operating on different timescales—evolution, development, and learning—tailor individuals to their environments."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The Theory Methods Society was founded by Caspar van Lissa and Noah van Dongen, who received NWO Vidi- and Veni-grants, respectively, for research on theory methods in the social sciences. Both applied for funds to advance community building, which will be used to kick-start this society.\nThe bylaws and governance structure of the society will be established in due course, most likely during the planned Lorentz workshop on theory methods.\nBy participating in the Theory Methods Society, you agree to adhere to the Contributor Covenant, a code of conduct designed to ensure safety and accountability in communities."
   },
   {
     "objectID": "index.html",
