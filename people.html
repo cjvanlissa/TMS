@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-936cc4fa08b46368b3504167baf1c6f5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ca6ef412952242cddf6c3fdbe739bbca.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,6 +80,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">TMS</span>
     </a>
@@ -160,6 +163,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#rasoul-norouzi" id="toc-rasoul-norouzi" class="nav-link" data-scroll-target="#rasoul-norouzi">Rasoul Norouzi</a></li>
   <li><a href="#riet-van-bork" id="toc-riet-van-bork" class="nav-link" data-scroll-target="#riet-van-bork">Riet van Bork</a></li>
   <li><a href="#tessa-blanken" id="toc-tessa-blanken" class="nav-link" data-scroll-target="#tessa-blanken">Tessa Blanken</a></li>
+  <li><a href="#w.-fred-garvey" id="toc-w.-fred-garvey" class="nav-link" data-scroll-target="#w.-fred-garvey">W. Fred Garvey</a></li>
   <li><a href="#willem-frankenhuis" id="toc-willem-frankenhuis" class="nav-link" data-scroll-target="#willem-frankenhuis">Willem Frankenhuis</a></li>
   </ul>
 </nav>
@@ -690,6 +694,22 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
+<section id="w.-fred-garvey" class="level2">
+<h2 class="anchored" data-anchor-id="w.-fred-garvey"><a href="https://www.linkedin.com/in/william-garvey-600a9a7b">W. Fred Garvey</a></h2>
+<div class="quarto-layout-panel" data-layout="[20,-2,20]">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 47.6%;justify-content: center;">
+<p><img src="https://media.licdn.com/dms/image/v2/D4D03AQGTd82PpcwFLA/profile-displayphoto-shrink_800_800/B4DZU9L29hG4Ag-/0/1740488274278?e=1759968000&amp;v=beta&amp;t=PEMuXc17I2BcrWKB-cC6i0_QmoUm18vTIBMsENJpLko.png" class="img-fluid"></p>
+</div>
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 4.8%;justify-content: flex-start;">
+<p>&nbsp;</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 47.6%;justify-content: flex-start;">
+<p>I am a PhD student of the Cognitive Abilities and Plasticity Lab at the University of Sheffield. I am interested in individual differences and underlying processes of cognition, especially working memory, intelligence, attention control, and long-term memory.</p>
+</div>
+</div>
+</div>
+</section>
 <section id="willem-frankenhuis" class="level2">
 <h2 class="anchored" data-anchor-id="willem-frankenhuis"><a href="https://www.willemfrankenhuis.com">Willem Frankenhuis</a></h2>
 <div class="quarto-layout-panel" data-layout="[20,-2,20]">
@@ -761,13 +781,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
