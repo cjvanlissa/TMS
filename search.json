@@ -270,14 +270,14 @@
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "Warning: Removed 1 row containing missing values or values outside the scale range\n(`geom_text()`)."
+    "text": "I love exploring science from first principles, tracing its impact all the way to the everyday decisions researchers make. I dabble in statistics, computer science, and philosophy of science."
   },
   {
     "objectID": "people.html#aaron-peikert",
     "href": "people.html#aaron-peikert",
     "title": "People",
-    "section": "Aaron Peikert",
-    "text": "Aaron Peikert\n\n\n\n\n\n\n \n\n\nI love exploring science from first principles, tracing its impact all the way to the everyday decisions researchers make. I dabble in statistics, computer science, and philosophy of science."
+    "section": "",
+    "text": "I love exploring science from first principles, tracing its impact all the way to the everyday decisions researchers make. I dabble in statistics, computer science, and philosophy of science."
   },
   {
     "objectID": "people.html#alejandra-manco",
@@ -530,12 +530,5 @@
     "title": "People",
     "section": "Willem Frankenhuis",
     "text": "Willem Frankenhuis\n\n\n\n\n\n\n \n\n\nWillem Frankenhuis is Associate Professor at the Institute for Biodiversity and Ecosystem Dynamics of the University of Amsterdam. He is also Senior Researcher at the Max Planck Institute for Research on Crime, Security and Law in Germany. Before his current position, he worked at Utrecht University (2020-2023) and Radboud University (2012-2020). He studies how people develop in harsh and unpredictable conditions. His empirical work focuses on ‘hidden talents’, abilities enhanced by adversity, and ‘reasonable responses’, decisions and behavior tailored to the demands of adverse environments. In his theoretical work, he uses mathematical modeling to understand how adaptive processes operating on different timescales—evolution, development, and learning—tailor individuals to their environments."
-  },
-  {
-    "objectID": "people.html#na",
-    "href": "people.html#na",
-    "title": "People",
-    "section": "NA",
-    "text": "NA\n\n\n\n\n\n\n \n\n\nNA"
   }
 ]
