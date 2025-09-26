@@ -8,8 +8,9 @@ format:
 ```{r}
 #| output: asis
 #| echo: false
+#| warning: false
 ppl <- readRDS("websitedata.RData")
-ppl <- ppl[ppl$category == "People", , drop = FALSE]
+ppl <- ppl[which(ppl$category == "People"), , drop = FALSE]
 ppl <- ppl[order(ppl$title), , drop = FALSE]
 if(any(is.na(ppl$picture))){
   library(ggplot2)
