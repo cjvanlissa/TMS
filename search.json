@@ -151,7 +151,7 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Download the calendar"
+    "text": "Warning in calendar::ic_event(uid = cal$title[i], start_time =\nas.POSIXct(cal$date[i]), : no value provided for end time\nWarning in calendar::ic_event(uid = cal$title[i], start_time =\nas.POSIXct(cal$date[i]), : no value provided for end time\n\n\nDownload the calendar"
   },
   {
     "objectID": "index.html",
@@ -270,14 +270,7 @@
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "Would like to join the society :-)"
-  },
-  {
-    "objectID": "people.html#section",
-    "href": "people.html#section",
-    "title": "People",
-    "section": "",
-    "text": "Would like to join the society :-)"
+    "text": "Warning: Removed 1 row containing missing values or values outside the scale range\n(`geom_text()`)."
   },
   {
     "objectID": "people.html#aaron-peikert",
@@ -390,13 +383,6 @@
     "title": "People",
     "section": "Gidon T. Frischkorn",
     "text": "Gidon T. Frischkorn\n\n\n\n\n\n\n \n\n\nI currently work as an SNF Ambizione Fellow associated with the Cognitive Psychology Lab at the Department of Psychology of the University of Zurich. I am a psychometrician focussing on 1) the theory guided measurement of cognitive processes, such as working memory, processing speed, and attention, as well as 2) evaluating experimental manipulations that might affect these processes."
-  },
-  {
-    "objectID": "people.html#holly-levin-aspenson",
-    "href": "people.html#holly-levin-aspenson",
-    "title": "People",
-    "section": "Holly Levin-Aspenson",
-    "text": "Holly Levin-Aspenson\n\n\n\n\n\n\n \n\n\n[no need to add me to the website–I just want to get updates!]"
   },
   {
     "objectID": "people.html#joscha-dutli",
@@ -544,5 +530,12 @@
     "title": "People",
     "section": "Willem Frankenhuis",
     "text": "Willem Frankenhuis\n\n\n\n\n\n\n \n\n\nWillem Frankenhuis is Associate Professor at the Institute for Biodiversity and Ecosystem Dynamics of the University of Amsterdam. He is also Senior Researcher at the Max Planck Institute for Research on Crime, Security and Law in Germany. Before his current position, he worked at Utrecht University (2020-2023) and Radboud University (2012-2020). He studies how people develop in harsh and unpredictable conditions. His empirical work focuses on ‘hidden talents’, abilities enhanced by adversity, and ‘reasonable responses’, decisions and behavior tailored to the demands of adverse environments. In his theoretical work, he uses mathematical modeling to understand how adaptive processes operating on different timescales—evolution, development, and learning—tailor individuals to their environments."
+  },
+  {
+    "objectID": "people.html#na",
+    "href": "people.html#na",
+    "title": "People",
+    "section": "NA",
+    "text": "NA\n\n\n\n\n\n\n \n\n\nNA"
   }
 ]
