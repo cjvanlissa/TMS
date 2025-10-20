@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://theorymethodssociety.org/resources.html</loc>
-    <lastmod>2025-10-13T01:03:19.323Z</lastmod>
-  </url>
-  <url>
-    <loc>https://theorymethodssociety.org/news.html</loc>
-    <lastmod>2025-10-13T01:03:19.318Z</lastmod>
-  </url>
-  <url>
-    <loc>https://theorymethodssociety.org/news.qm.html</loc>
-    <lastmod>2025-10-13T01:03:19.318Z</lastmod>
-  </url>
-  <url>
-    <loc>https://theorymethodssociety.org/bylaws.html</loc>
-    <lastmod>2025-10-13T01:03:19.314Z</lastmod>
-  </url>
-  <url>
     <loc>https://theorymethodssociety.org/events.html</loc>
-    <lastmod>2025-10-13T01:03:19.316Z</lastmod>
+    <lastmod>2025-10-20T01:05:20.267Z</lastmod>
   </url>
   <url>
     <loc>https://theorymethodssociety.org/index.html</loc>
-    <lastmod>2025-10-13T01:03:19.317Z</lastmod>
+    <lastmod>2025-10-20T01:05:20.267Z</lastmod>
   </url>
   <url>
-    <loc>https://theorymethodssociety.org/about.html</loc>
-    <lastmod>2025-10-13T01:03:19.313Z</lastmod>
+    <loc>https://theorymethodssociety.org/news.qm.html</loc>
+    <lastmod>2025-10-20T01:05:20.269Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theorymethodssociety.org/news.html</loc>
+    <lastmod>2025-10-20T01:05:20.269Z</lastmod>
   </url>
   <url>
     <loc>https://theorymethodssociety.org/people.html</loc>
-    <lastmod>2025-10-13T01:03:19.322Z</lastmod>
+    <lastmod>2025-10-20T01:05:20.274Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theorymethodssociety.org/about.html</loc>
+    <lastmod>2025-10-20T01:05:20.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theorymethodssociety.org/bylaws.html</loc>
+    <lastmod>2025-10-20T01:05:20.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theorymethodssociety.org/resources.html</loc>
+    <lastmod>2025-10-20T01:05:20.276Z</lastmod>
   </url>
 </urlset>
