@@ -11,6 +11,7 @@ website:
       - events.qmd
       - people.qmd
       - resources.qmd
+      - summer_school.qmd
       - about.qmd
 
 format:
