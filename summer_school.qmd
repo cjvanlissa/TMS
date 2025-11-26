@@ -1,10 +1,11 @@
 ---
 title: "Summerschool"
 ---
-# Summer School Theory Building in Psychology (July 6-10, 2026)
+# Summer School Theory Building in Psychology 
+## July 6-10, 2026
 
 <p align="center">
-  <img src="SummerSchool_logo.png" alt="Summer School Logo" style="max-width: 360px; width: 60%; height: auto;" />
+  <img src="SummerSchool_logo.png" alt="Summer School Logo" style="max-width: 240px; width: 60%; height: auto;" />
 </p>
 
 We are excited to announce the very **first edition of the summer school Theory Building in Psychology**, organized by the Theory Methods Society, hosted at the University of Amsterdam. Join us for a tour de force in diverse approaches to theory construction from **July 6 to July 10 (2026)**!
