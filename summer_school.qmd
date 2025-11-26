@@ -1,7 +1,8 @@
 ---
 title: "Summerschool"
 ---
-# Summer School Theory Building in Psychology (July 6-10, 2026)
+# Summer School Theory Building in Psychology 
+## July 6-10, 2026
 
 <p align="center">
   <img src="SummerSchool_logo.png" alt="Summer School Logo" style="max-width: 360px; width: 60%; height: auto;" />
@@ -10,39 +11,42 @@ title: "Summerschool"
 We are excited to announce the very **first edition of the summer school Theory Building in Psychology**, organized by the Theory Methods Society, hosted at the University of Amsterdam. Join us for a tour de force in diverse approaches to theory construction from **July 6 to July 10 (2026)**!
 
 ## What To Expect
-In recent years, psychology has entered what many call a theory crisis: an urgent need to strengthen how we develop and evaluate psychological theories. This summer school serves as an introduction to contemporary approaches addressing this challenge. Throughout the week, leading experts in methodology and theoretical psychology will guide participants through diverse strategies for building, evaluating, and improving psychological theories. The program combines lectures, interactive discussions, and hands-on exercises designed to integrate conceptual reflection (e.g., the structure and function of psychological theories) with practical tools for theory building. By the end of the week, participants will have a deeper understanding of what makes a theory transparent, robust, and explanatory.
+In recent years, psychology has entered what many call a theory crisis: an urgent need to strengthen how we develop and evaluate psychological theories. This summer school serves as an introduction to contemporary approaches addressing this challenge. Throughout the week, leading experts in methodology and theoretical psychology will guide participants through diverse strategies for building, evaluating, and improving psychological theories. The program combines lectures, interactive discussions, and hands-on exercises to help participants integrate conceptual reflection on psychological theories (e.g., their structure and function) with concrete tools for building them.
 
 ## Learning Goals
 After the summer school, participants will be able to:
 
-- Reflect on the role and value of theory and formal models in psychological research
-- Link data, phenomena, models, and theories in a coherent framework
-- Apply tools and techniques for theory construction
-- Experiment with formal models
-- Question their own theoretical assumptions
-- Derive and test falsifiable hypotheses from theories
+* Reflect on the role and value of theory and formal models in psychological research
+* Link data, phenomena, models, and theories in a coherent framework
+* Apply tools and techniques for theory building
+* Experiment with formal models
+* Critically reflect on their own assumptions about the nature and purpose of psychological theories
+* Derive and test falsifiable hypotheses from theories
 
 ## Covered Topics
-- The importance of conceptual clarification and phenomena
-- Problems with ambiguous theories and how to address them
-- Perspectives on prediction and explanation
-- The promise and challenges of analogical modelling
-- An introduction to causal loop diagrams, dynamical systems, and agent-based modelling
-- The value and pitfalls of formal models used in contemporary psychological research
-- New developments in the field to improve psychological theory
+The following topics and more will be covered during the summer school:
+
+* The importance of conceptual clarification and phenomena
+* Problems with psychology’s predominantly ambiguous theories and how to address them
+* Perspectives on prediction and explanation
+* The promise and challenges of analogical modelling 
+* An introduction to causal loop diagrams, dynamical systems, and agent-based modelling
+* The value and pitfalls of formal models used in contemporary psychological research
+* New developments in the field to improve psychological theory
+
 
 ## Requirements
-This summer school is specifically made for doctoral students (i.e., PhDs) who are familiar with the programming language R. Participants are expected to bring their own laptop. Familiarity with mathematics beyond high school level is not required. If you do not fulfill these requirements, registration is at your own risk.
+This summer school is designed for participants at the doctoral (i.e., PhD) or postdoctoral level who possess familiarity with the R programming language. Participants are expected to bring their own laptop. Familiarity with mathematics beyond the high school level is not required. If you do not fulfill these requirements, registration is at your own risk. 
 
 ## Participation Costs
 800.00 euros. The costs include participation in all lectures and practical sessions (from 09:00 to 17:00), lunch, drinks on Monday, and dinner on Thursday.
 
 ## Registration
-You can apply for the summer school via [this registration link](). We can accommodate a maximum of 45 participants. Please note that participants will be selected on a first-come, first-served basis, and registration is only confirmed after you have received an email from us. We maintain a waiting list for participants who sign up beyond the first 45. You can expect to receive information regarding your registration in April (2026). If fewer than 22 participants sign up, the summer school can unfortunately not take place.
+You can apply for the summer school via [this registration link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05VdsRYEQLS1Kh6tZxF6D6DZUMEhZUkhYTTlVTkk1WTJGRjRDTlNRM0NPNi4u). Please note that participants will be selected on a first-come, first-served basis, and registration is only confirmed after you have received an email from us. You can expect to receive information regarding your registration in April (2026). If the minimum number of participants is not reached, the summer school will unfortunately be cancelled.
 
 ## Stay Informed
-To receive updates on the summer school, sign up for the mailing list [here]().
+If you don’t want to register yet but do receive updates on the summer school, sign up for the mailing list [here](https://docs.google.com/forms/d/e/1FAIpQLSfeUD7QctGK_D8mIpZOieELN3s_xCgUp5fKk_v2umPz9av3jA/viewform?usp=dialog).
 
 ## Contact
-For any questions, please email theorysummerschool@googlegroups.com
+For any questions, please email [theorybuildingsummerschool@gmail.com](mailto:theorybuildingsummerschool@gmail.com)
 
