@@ -1,66 +1,66 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "summer_school.html",
+    "href": "summer_school.html",
+    "title": "Summerschool",
     "section": "",
-    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
+    "text": "We are excited to announce the very first edition of the summer school Theory Building in Psychology, organized by the Theory Methods Society, hosted at the University of Amsterdam. Join us for a tour de force in diverse approaches to theory construction from July 6 to July 10 (2026)!\n\n\nIn recent years, psychology has entered what many call a theory crisis: an urgent need to strengthen how we develop and evaluate psychological theories. This summer school serves as an introduction to contemporary approaches addressing this challenge. Throughout the week, leading experts in methodology and theoretical psychology will guide participants through diverse strategies for building, evaluating, and improving psychological theories. The program combines lectures, interactive discussions, and hands-on exercises designed to integrate conceptual reflection (e.g., the structure and function of psychological theories) with practical tools for theory building. By the end of the week, participants will have a deeper understanding of what makes a theory transparent, robust, and explanatory.\n\n\n\nAfter the summer school, participants will be able to:\n\nReflect on the role and value of theory and formal models in psychological research\nLink data, phenomena, models, and theories in a coherent framework\nApply tools and techniques for theory construction\nExperiment with formal models\nQuestion their own theoretical assumptions\nDerive and test falsifiable hypotheses from theories\n\n\n\n\n\nThe importance of conceptual clarification and phenomena\nProblems with ambiguous theories and how to address them\nPerspectives on prediction and explanation\nThe promise and challenges of analogical modelling\nAn introduction to causal loop diagrams, dynamical systems, and agent-based modelling\nThe value and pitfalls of formal models used in contemporary psychological research\nNew developments in the field to improve psychological theory\n\n\n\n\nThis summer school is specifically made for doctoral students (i.e., PhDs) who are familiar with the programming language R. Participants are expected to bring their own laptop. Familiarity with mathematics beyond high school level is not required. If you do not fulfill these requirements, registration is at your own risk.\n\n\n\n800.00 euros. The costs include participation in all lectures and practical sessions (from 09:00 to 17:00), lunch, drinks on Monday, and dinner on Thursday.\n\n\n\nYou can apply for the summer school via this registration link. We can accommodate a maximum of 45 participants. Please note that participants will be selected on a first-come, first-served basis, and registration is only confirmed after you have received an email from us. We maintain a waiting list for participants who sign up beyond the first 45. You can expect to receive information regarding your registration in April (2026). If fewer than 22 participants sign up, the summer school can unfortunately not take place.\n\n\n\nTo receive updates on the summer school, sign up for the mailing list here.\n\n\n\nFor any questions, please email theorysummerschool@googlegroups.com"
   },
   {
-    "objectID": "resources.html#connect-on-discord",
-    "href": "resources.html#connect-on-discord",
-    "title": "Resources",
+    "objectID": "summer_school.html#what-to-expect",
+    "href": "summer_school.html#what-to-expect",
+    "title": "Summerschool",
     "section": "",
-    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
+    "text": "In recent years, psychology has entered what many call a theory crisis: an urgent need to strengthen how we develop and evaluate psychological theories. This summer school serves as an introduction to contemporary approaches addressing this challenge. Throughout the week, leading experts in methodology and theoretical psychology will guide participants through diverse strategies for building, evaluating, and improving psychological theories. The program combines lectures, interactive discussions, and hands-on exercises designed to integrate conceptual reflection (e.g., the structure and function of psychological theories) with practical tools for theory building. By the end of the week, participants will have a deeper understanding of what makes a theory transparent, robust, and explanatory."
   },
   {
-    "objectID": "resources.html#papers-of-interest",
-    "href": "resources.html#papers-of-interest",
-    "title": "Resources",
-    "section": "Papers of Interest",
-    "text": "Papers of Interest\nSee the TMS Zotero library to access a bibliography of relevant papers."
-  },
-  {
-    "objectID": "resources.html#media",
-    "href": "resources.html#media",
-    "title": "Resources",
-    "section": "Media",
-    "text": "Media\n\nPodcast Nullius in Verba\nNullius in Verba is a podcast about science—what it is and what it could be. It is hosted by Smriti Mehta from UC Berkeley and Daniël Lakens from Eindhoven University of Technology.\nhttps://nulliusinverba.podbean.com/"
-  },
-  {
-    "objectID": "resources.html#software",
-    "href": "resources.html#software",
-    "title": "Resources",
-    "section": "Software",
-    "text": "Software\n\ntheorytools (R package)\nR-package for creating, maintaining, and reusing FAIR theories. The package enables users to formalize theories, track changes with version control, assess pre-empirical coherence, derive testable hypotheses, and facilitates the systematic improvement of theoretical frameworks within open science frameworks. Please feel free to contribute datasets, tutorial exercises, and new functions to this package!\nhttps://cjvanlissa.github.io/theorytools\n\n\nInsight Maker\nAn online and free software package for ABM and system dynamics modeling. It is user-friendly, intuitive, and has a nice GUI.\nhttps://insightmaker.com/\n\n\nLoopy\nLoopy is an open-source online software tool developed by Nicky Case for drawing and running simple stock-and-flow models.\nhttps://ncase.me/loopy/"
-  },
-  {
-    "objectID": "resources.html#educational-materials",
-    "href": "resources.html#educational-materials",
-    "title": "Resources",
-    "section": "Educational Materials",
-    "text": "Educational Materials\n\nTheory Construction and Statistical Modeling\nA free, open source GitBook for a Structural Equation Modeling course with attention to theory. Includes video lectures and formative assessments.\nhttps://cjvanlissa.github.io/TCSM\n\n\nFundamentals: Becoming better at explaining and understanding\nCourse material for a Honours Programme course for bachelor students (from any program) at the UvA and VU in Amsterdam, the Netherlands. It is a “hands on” course on scientific theory development. It takes students from figuring out which effects/phenomena/findings they would like to explain with a theory, through verbally describing and formalizing their theory, to deriving hypotheses and designing experiments to test their theories.\nhttps://osf.io/abxut/\n\n\nFOMO-Psy: Formal Modeling of Psychological Theories\nThis is a 14-week course, instructed by Felix Schönbrodt at the LMU Munich in winter term 2023 and 2024, with contributions from Daniel Leising and Aaron Peikert, with many inspirations taken from a course from Noah van Dongen. The material is work in progress and will be continuously updated along with each new run of the course.\nhttps://nicebread.github.io/FOMO-Psy/"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "TMS",
+    "objectID": "summer_school.html#learning-goals",
+    "href": "summer_school.html#learning-goals",
+    "title": "Summerschool",
     "section": "",
-    "text": "The Theory Methods Society is a new scholarly community dedicated to advancing theory development across the (social) sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining, and reusing theory, or developing the methods to do so.\n\nWhether you are developing novel theoretical frameworks, exploring computational modeling, or seeking better ways to integrate theory and data, our society provides a platform for connecting with like-minded others, critical engagement, and methodological innovation. Join us in shaping the future of theory in the social sciences!\n\n\n\n\n\n\nJoin us if you have an interest in:\n\n\n\n\nTheory development\nFormal theories\nToy models\nPhilosophy of science\n(Interpretable) machine learning\nSimulation studies\nMeta-science\nOpen science\n\n\n\n\nSign up or contribute to website\nAll members can contribute to the Theory Methods Society by adding an item to this Google form. To prevent abuse by bots and malicious actors, you must first request permission to fill out the form.\nTo join the Theory Methods Society, add yourself in the category “People”. It is helpful if you include a link to your personal website, to an image of yourself, and your email address (to receive communications from us)."
+    "text": "After the summer school, participants will be able to:\n\nReflect on the role and value of theory and formal models in psychological research\nLink data, phenomena, models, and theories in a coherent framework\nApply tools and techniques for theory construction\nExperiment with formal models\nQuestion their own theoretical assumptions\nDerive and test falsifiable hypotheses from theories"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "summer_school.html#covered-topics",
+    "href": "summer_school.html#covered-topics",
+    "title": "Summerschool",
     "section": "",
-    "text": "The Theory Methods Society was founded by Caspar van Lissa and Noah van Dongen, who received NWO Vidi- and Veni-grants, respectively, for research on theory methods in the social sciences. Both applied for funds to advance community building, which will be used to kick-start this society.\nThe bylaws and governance structure of the society will be established in due course, most likely during the planned Lorentz workshop on theory methods.\nBy participating in the Theory Methods Society, you agree to adhere to the Contributor Covenant, a code of conduct designed to ensure safety and accountability in communities."
+    "text": "The importance of conceptual clarification and phenomena\nProblems with ambiguous theories and how to address them\nPerspectives on prediction and explanation\nThe promise and challenges of analogical modelling\nAn introduction to causal loop diagrams, dynamical systems, and agent-based modelling\nThe value and pitfalls of formal models used in contemporary psychological research\nNew developments in the field to improve psychological theory"
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
+    "objectID": "summer_school.html#requirements",
+    "href": "summer_school.html#requirements",
+    "title": "Summerschool",
     "section": "",
-    "text": "Download the calendar"
+    "text": "This summer school is specifically made for doctoral students (i.e., PhDs) who are familiar with the programming language R. Participants are expected to bring their own laptop. Familiarity with mathematics beyond high school level is not required. If you do not fulfill these requirements, registration is at your own risk."
+  },
+  {
+    "objectID": "summer_school.html#participation-costs",
+    "href": "summer_school.html#participation-costs",
+    "title": "Summerschool",
+    "section": "",
+    "text": "800.00 euros. The costs include participation in all lectures and practical sessions (from 09:00 to 17:00), lunch, drinks on Monday, and dinner on Thursday."
+  },
+  {
+    "objectID": "summer_school.html#registration",
+    "href": "summer_school.html#registration",
+    "title": "Summerschool",
+    "section": "",
+    "text": "You can apply for the summer school via this registration link. We can accommodate a maximum of 45 participants. Please note that participants will be selected on a first-come, first-served basis, and registration is only confirmed after you have received an email from us. We maintain a waiting list for participants who sign up beyond the first 45. You can expect to receive information regarding your registration in April (2026). If fewer than 22 participants sign up, the summer school can unfortunately not take place."
+  },
+  {
+    "objectID": "summer_school.html#stay-informed",
+    "href": "summer_school.html#stay-informed",
+    "title": "Summerschool",
+    "section": "",
+    "text": "To receive updates on the summer school, sign up for the mailing list here."
+  },
+  {
+    "objectID": "summer_school.html#contact",
+    "href": "summer_school.html#contact",
+    "title": "Summerschool",
+    "section": "",
+    "text": "For any questions, please email theorysummerschool@googlegroups.com"
   },
   {
     "objectID": "people.html",
@@ -77,6 +77,20 @@
     "text": "I love exploring science from first principles, tracing its impact all the way to the everyday decisions researchers make. I dabble in statistics, computer science, and philosophy of science."
   },
   {
+    "objectID": "people.html#alejandra-manco",
+    "href": "people.html#alejandra-manco",
+    "title": "People",
+    "section": "Alejandra Manco",
+    "text": "Alejandra Manco\n\n\n\n\n\n\n \n\n\nNA"
+  },
+  {
+    "objectID": "people.html#alexander-nicolai-wendt",
+    "href": "people.html#alexander-nicolai-wendt",
+    "title": "People",
+    "section": "Alexander Nicolai Wendt",
+    "text": "Alexander Nicolai Wendt\n\n\n\n\n\n\n \n\n\nAlexander Nicolai Wendt is interested in philosophical and theoretical psychology as well as their history, especially phenomenological psychology. He is in charge of organising the Arbeitsgemeinschaft Philosophie & Psychologie, a German working collective for the interdisciplinary exchange between philosophy and psychology: www.phi-psy.de"
+  },
+  {
     "objectID": "people.html#alexandra-sarafoglou",
     "href": "people.html#alexandra-sarafoglou",
     "title": "People",
@@ -84,11 +98,25 @@
     "text": "Alexandra Sarafoglou\n\n\n\n\n\n\n \n\n\nI dabble in advanced Bayesian modelling, analysis blinding and the many-analysts approach. I joined the Theory Methods Society since I am particularly interested in researching how the many-analysts approach can help researchers improve theory development."
   },
   {
+    "objectID": "people.html#andrea-van-langerak",
+    "href": "people.html#andrea-van-langerak",
+    "title": "People",
+    "section": "Andrea van Langerak",
+    "text": "Andrea van Langerak\n\n\n\n\n\n\n \n\n\nI’m a PhD candidate at Leiden University. My work focuses primarily on self-correction within psychological research."
+  },
+  {
     "objectID": "people.html#andreas-brandmaier",
     "href": "people.html#andreas-brandmaier",
     "title": "People",
     "section": "Andreas Brandmaier",
     "text": "Andreas Brandmaier\n\n\n\n\n\n\n \n\n\nProfessor for Research Methodology (Psychology); Computer & Data Scientist; Tool Developer; likes research methods, multivariate models, latent variables, individual differences, reproducibility, and R"
+  },
+  {
+    "objectID": "people.html#anouk-bouma",
+    "href": "people.html#anouk-bouma",
+    "title": "People",
+    "section": "Anouk Bouma",
+    "text": "Anouk Bouma\n\n\n\n\n\n\n \n\n\nAs a PhD student at the Meta-Research Center at Tilburg University I am interested in all things Meta-Science. My project specifically focusses on the trustworthiness of simulation studies within the social/behavioral sciences. I am also active as a board member of the Platform for Young Meta-Scientists (PYMS)."
   },
   {
     "objectID": "people.html#ben-kretzler",
@@ -105,6 +133,13 @@
     "text": "Caspar J. Van Lissa\n\n\n\n\n\n\n \n\n\nMy Vidi-funded research line uses machine learning for rigorous exploration, and uses the resulting data-driven insights to complement blind spots in theory."
   },
   {
+    "objectID": "people.html#claudia-neuendorf",
+    "href": "people.html#claudia-neuendorf",
+    "title": "People",
+    "section": "Claudia Neuendorf",
+    "text": "Claudia Neuendorf\n\n\n\n\n\n\n \n\n\nI am an educational pschologist interested in the social integration of students in their classroom. I love learning and adopting new methods and thinking about science. As a former research data manager, I have been drawn into Open Science by advocating Open Data and from there step by step developed my passion for promoting Open Science and research integrity."
+  },
+  {
     "objectID": "people.html#daniel-lakens",
     "href": "people.html#daniel-lakens",
     "title": "People",
@@ -119,11 +154,25 @@
     "text": "Denny Borsboom\n\n\n\n\n\n\n \n\n\nI have a long standing interest in theory construction and have developed various methodological tools to assist researchers in building theories."
   },
   {
+    "objectID": "people.html#eiko-fried",
+    "href": "people.html#eiko-fried",
+    "title": "People",
+    "section": "Eiko Fried",
+    "text": "Eiko Fried\n\n\n\n\n\n\n \n\n\nMy interests are how to best describe, measure, predict, and understand mental health problems. To do so, I conceptualize them as emergent properties that arise from complex, dynamical, biopsychosocial, transdiagnostic systems, rather than as clear-cut categories with simple causes. My team and I work at the intersection of mental health science and data science, and follow open scholarship principles."
+  },
+  {
     "objectID": "people.html#felix-schönbrodt",
     "href": "people.html#felix-schönbrodt",
     "title": "People",
     "section": "Felix Schönbrodt",
     "text": "Felix Schönbrodt\n\n\n\n\n\n\n \n\n\nProf. at Department of Psychology, Ludwig-Maximilians-Universität München, Germany. Managing director of the LMU Open Science Center and board member of the META-REP priority program (“A meta-scientific research program to analyse and optimise replicability in the behavioral, social, and cognitive Sciences”). Interested in Open Science, Metascience, implicit motives, machine learning, responsible research assessment (CoARA), solarpunk, piano, and cooking."
+  },
+  {
+    "objectID": "people.html#frances-grace-hart",
+    "href": "people.html#frances-grace-hart",
+    "title": "People",
+    "section": "Frances Grace Hart",
+    "text": "Frances Grace Hart\n\n\n\n\n\n\n \n\n\nGrace is a Postgraduate Associate in Yale University’s Psychology Department and lab manager of Dr. Shirley Wang’s Computational Clinical Science Lab.\n\n\n\n\nShe is broadly interested in existential psychology and metascience, including suicide; death beliefs and attitudes; measurement; and theory formalization."
   },
   {
     "objectID": "people.html#gidon-t.-frischkorn",
@@ -152,6 +201,62 @@
     "title": "People",
     "section": "Klaus Oberauer",
     "text": "Klaus Oberauer\n\n\n\n\n\n\n \n\n\nI am a cognitive psychologist interested in the capacity limits of cognition. I study primarily working memory and its relations to attention, long-term memory, reasoning, as well as individual differences in cognition. I do behavioral experiments and try to understand their results with the help of computational models."
+  },
+  {
+    "objectID": "people.html#kyra-evers",
+    "href": "people.html#kyra-evers",
+    "title": "People",
+    "section": "Kyra Evers",
+    "text": "Kyra Evers\n\n\n\n\n\n\n \n\n\nPhD student at the Psychological Methods department at the University of Amsterdam. In my research, I develop computational tools to aid theory formation in psychology. My main interest lies in applying a system dynamics perspective to psychopathology."
+  },
+  {
+    "objectID": "people.html#kyuri-park",
+    "href": "people.html#kyuri-park",
+    "title": "People",
+    "section": "Kyuri Park",
+    "text": "Kyuri Park\n\n\n\n\n\n\n \n\n\nI’m a PhD candidate at the Computational Science Lab, University of Amsterdam. My research focuses on modeling complex dynamical systems in (mental) health and other human-centered domains."
+  },
+  {
+    "objectID": "people.html#laura-bringmann",
+    "href": "people.html#laura-bringmann",
+    "title": "People",
+    "section": "Laura Bringmann",
+    "text": "Laura Bringmann\n\n\n\n\n\n\n \n\n\nLaura Bringmann is an associate professor at the Department of Psychometrics and Statistics (University of Groningen), and heads the LaBlab (Laura Bringmann’s intensive longitudinal data lab; https://www.laurabringmannlab.com/). Her research focuses on bridging the gap between fields such as statistics, philosophy, methodology, and clinical psychology."
+  },
+  {
+    "objectID": "people.html#leonhard-volz",
+    "href": "people.html#leonhard-volz",
+    "title": "People",
+    "section": "Leonhard Volz",
+    "text": "Leonhard Volz\n\n\n\n\n\n\n \n\n\nMy focus is on computational methods and infrastructure for formal theories of psychological processes as part of the Department Methodology and Statistics at Tilburg University. In that context, I work on different approaches to psychological modelling, such as network analysis, cognitive modelling, and machine-learning-inspired methods for theory construction. Besides that, I am passionate about open and sound research methods in (psychological) science and has been active in various topical (student) initiatives."
+  },
+  {
+    "objectID": "people.html#marianne-skogbrott-birkeland",
+    "href": "people.html#marianne-skogbrott-birkeland",
+    "title": "People",
+    "section": "Marianne Skogbrott Birkeland",
+    "text": "Marianne Skogbrott Birkeland\n\n\n\n\n\n\n \n\n\nMarianne Skogbrott Birkeland is a Clinical Psychologist and Research Professor at the Norwegian Centre for Violence and Traumatic Stress Studies. I would like to contribute to the theory building in the field of trauma and stress. I am particularly interested in understanding change processes and developing innovative theoretical frameworks that can advance our understanding of traumatic stress responses."
+  },
+  {
+    "objectID": "people.html#marieke-a.-helmich",
+    "href": "people.html#marieke-a.-helmich",
+    "title": "People",
+    "section": "Marieke A. Helmich",
+    "text": "Marieke A. Helmich\n\n\n\n\n\n\n \n\n\nMarieke is a postdoctoral researcher with the i-Care research line (Radboudumc/Tilburg University). Her research focuses on understanding changes in psychopathology from a complex dynamical systems point of view."
+  },
+  {
+    "objectID": "people.html#markus-eronen",
+    "href": "people.html#markus-eronen",
+    "title": "People",
+    "section": "Markus Eronen",
+    "text": "Markus Eronen\n\n\n\n\n\n\n \n\n\nI am a philosopher of science at the University of Groningen, working on the limits and possibilities of developing psychological theories and causal explanations."
+  },
+  {
+    "objectID": "people.html#michael-s.-truong",
+    "href": "people.html#michael-s.-truong",
+    "title": "People",
+    "section": "Michael S. Truong",
+    "text": "Michael S. Truong\n\n\n\n\n\n\n \n\n\nPhD student in the Quantitative Methods program of York University. I am interested in the possibility of using what generative models imply is impossible to facilitate data analysis and advance theory."
   },
   {
     "objectID": "people.html#nick-ballou",
@@ -196,11 +301,144 @@
     "text": "Riet van Bork\n\n\n\n\n\n\n \n\n\nAssistant professor in psychological methods at the University of Amsterdam. My main area of research concerns how theory underlying psychological measurement relates to the statistical models that are used as measurement models in psychology."
   },
   {
+    "objectID": "people.html#tessa-blanken",
+    "href": "people.html#tessa-blanken",
+    "title": "People",
+    "section": "Tessa Blanken",
+    "text": "Tessa Blanken\n\n\n\n\n\n\n \n\n\nAssistant professor in clinical methodology at the Departments of Clinical Psychology and Psychological Methods at the University of Amsterdam. My research focuses on the role of sleep in well-being, where I integrate biology and behaviour through network science and computational modelling."
+  },
+  {
+    "objectID": "people.html#ven-popov",
+    "href": "people.html#ven-popov",
+    "title": "People",
+    "section": "Ven Popov",
+    "text": "Ven Popov\n\n\n\n\n\n\n \n\n\nI am tenured senior scientist at the University of Zurich. I use computational models, behavioral experiments and neuroimaging data to understand cognition. I am passionate about the history and philosophy of science, and about improving the state of theorizing in psychology."
+  },
+  {
+    "objectID": "people.html#w.-fred-garvey",
+    "href": "people.html#w.-fred-garvey",
+    "title": "People",
+    "section": "W. Fred Garvey",
+    "text": "W. Fred Garvey\n\n\n\n\n\n\n \n\n\nI am a PhD student of the Cognitive Abilities and Plasticity Lab at the University of Sheffield. I am interested in individual differences and underlying processes of cognition, especially working memory, intelligence, attention control, and long-term memory."
+  },
+  {
     "objectID": "people.html#willem-frankenhuis",
     "href": "people.html#willem-frankenhuis",
     "title": "People",
     "section": "Willem Frankenhuis",
     "text": "Willem Frankenhuis\n\n\n\n\n\n\n \n\n\nWillem Frankenhuis is Associate Professor at the Institute for Biodiversity and Ecosystem Dynamics of the University of Amsterdam. He is also Senior Researcher at the Max Planck Institute for Research on Crime, Security and Law in Germany. Before his current position, he worked at Utrecht University (2020-2023) and Radboud University (2012-2020). He studies how people develop in harsh and unpredictable conditions. His empirical work focuses on ‘hidden talents’, abilities enhanced by adversity, and ‘reasonable responses’, decisions and behavior tailored to the demands of adverse environments. In his theoretical work, he uses mathematical modeling to understand how adaptive processes operating on different timescales—evolution, development, and learning—tailor individuals to their environments."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Warning in calendar::ic_event(uid = cal$title[i], start_time =\nas.POSIXct(cal$date[i]), : no value provided for end time\nWarning in calendar::ic_event(uid = cal$title[i], start_time =\nas.POSIXct(cal$date[i]), : no value provided for end time\n\n\nDownload the calendar"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The Theory Methods Society was founded by Caspar van Lissa and Noah van Dongen, who received NWO Vidi- and Veni-grants, respectively, for research on theory methods in the social sciences. Both applied for funds to advance community building, which will be used to kick-start this society.\nThe bylaws and governance structure of the society will be established in due course, most likely during the planned Lorentz workshop on theory methods.\nBy participating in the Theory Methods Society, you agree to adhere to the Contributor Covenant, a code of conduct designed to ensure safety and accountability in communities."
+  },
+  {
+    "objectID": "about.html#context",
+    "href": "about.html#context",
+    "title": "About",
+    "section": "Context",
+    "text": "Context\nResearch on Theory is gaining momentum in the social sciences; there is a critical mass of scholars to establish a society dedicated to the topic. Caspar van Lissa and Noah van Dongen both acquired funds to establish (under different names) a “Theory Methods Society” (TMS); they decided to join forces and recruit early adopters. The Lorentz workshop “Taskforce Theoretical Psychology”, organized in September 2025, offers a timely opportunity to formalize the organizational structure of the TMS and set a course for its future. This document is a first draft of the bylaws for the TMS, and we actively invite community feedback to further improve it."
+  },
+  {
+    "objectID": "about.html#article-1.-denomination-and-domicile",
+    "href": "about.html#article-1.-denomination-and-domicile",
+    "title": "About",
+    "section": "Article 1. Denomination and Domicile",
+    "text": "Article 1. Denomination and Domicile\nThe Theory Methods Society (hereafter referred to as TMS) is a scholarly society that unites researchers, educators, and practitioners with an interest in advancing theoretical and methodological innovation across disciplines and nationalities.\nTMS is registered in the Netherlands as a “stichting”, i.e., a charitable organization."
+  },
+  {
+    "objectID": "about.html#article-2.-mission-and-objectives",
+    "href": "about.html#article-2.-mission-and-objectives",
+    "title": "About",
+    "section": "Article 2. Mission and Objectives",
+    "text": "Article 2. Mission and Objectives\nThe mission of the Theory Methods Society is to build a global scholarly community dedicated to advancing theory development across the social sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining and reusing theory, or developing the methods to do so.\nThe TMS’ objectives are to:\n\nfacilitate exchange between scholars working on theoretical and methodological issues;\npromote education and training in theory and methods;\nsupport transparency, rigor, and innovation in research practices.\npromoting interdisciplinary collaboration and building bridges to other disciplines.\n\nTMS pursues these objectives by:\n\nEnsuring the continued existence of the TMS\nGrowing its membership and engaging in community building\nServing members’ needs by organizing meetings and providing a platform for knowledge exchange. What members’ needs are, and whether the Society succeeds in meeting these, ought to be assessed at least annually."
+  },
+  {
+    "objectID": "about.html#article-3.-membership-and-administration",
+    "href": "about.html#article-3.-membership-and-administration",
+    "title": "About",
+    "section": "Article 3. Membership and Administration",
+    "text": "Article 3. Membership and Administration\nTMS consists of Members, a General Assembly, a TMS Board, and TMS Working Groups.\nMembership is open to anyone with an interest in theory and methods who agrees to abide by the bylaws and Code of Conduct, regardless of background, identity, or experience, and regardless of discipline, career stage, or institutional affiliation.\nMembers are entitled to participate in elections, working groups, and events organized by TMS.\nThe TMS Board governs a registry of members and affiliated working groups."
+  },
+  {
+    "objectID": "about.html#article-4.-members-and-representatives",
+    "href": "about.html#article-4.-members-and-representatives",
+    "title": "About",
+    "section": "Article 4. Members and Representatives",
+    "text": "Article 4. Members and Representatives\nEach member has one vote in General Assembly meetings.\nMembers may form local, national, or thematic working groups within TMS. Working groups are established by notification of the Board, which votes on the approval of the working group at the next board meeting. If working groups require funding, their budget must be submitted annually and also be subject to a Board vote.\nEach working group selects its own Representative to communicate with the TMS Board.\nThe Board can set and change membership conditions, dues, and collection policies via a regular majority vote.\nVoting regularities are described in Article 8."
+  },
+  {
+    "objectID": "about.html#article-5.-tms-board",
+    "href": "about.html#article-5.-tms-board",
+    "title": "About",
+    "section": "Article 5. TMS Board",
+    "text": "Article 5. TMS Board\nThe TMS Board (hereinafter referred to as the Board) manages TMS and is legally responsible for the society.\nIn addition to executing legal obligations associated with managing a charitable organization (Stichting), the Board is responsible for:\n\nadvancing the mission of TMS;\norganizing elections and meetings;\nmaintaining external relations;\nensuring financial accountability;\nenforcing the code of conduct, https://berlincodeofconduct.org/en\n\nThe Board roles consist of:\n\nA Chair, who oversees meetings, sets agendas, and ensures decisions are implemented.\nA Vice-Chair, who supports and substitutes for the Chair when needed.\nA Treasurer, who manages the finances and prepares budgets and reports.\nA Secretary, who manages internal communications, plans meetings, oversees membership registries, and keeps meeting records.\nA Community Manager, who manages external communication to the members and serves as the point-of-contact for violations of the code of conduct"
+  },
+  {
+    "objectID": "about.html#article-6.-elections-and-formation-of-the-board",
+    "href": "about.html#article-6.-elections-and-formation-of-the-board",
+    "title": "About",
+    "section": "Article 6. Elections and Formation of the Board",
+    "text": "Article 6. Elections and Formation of the Board\nBoard members are elected biannually and serve two-year terms.\nAll members of TMS are eligible to run for election to the Board.\nNo Board member may serve more than two consecutive terms.\nIf vacancies arise mid-term, the Board may either hold an ad hoc election or redistribute responsibilities until the next regular election."
+  },
+  {
+    "objectID": "about.html#article-7.-meetings",
+    "href": "about.html#article-7.-meetings",
+    "title": "About",
+    "section": "Article 7. Meetings",
+    "text": "Article 7. Meetings\nThe board will organize at least one annual General Assembly of Members, virtually or physically while allowing for virtual attendance.\nThe Board shall meet at least quarterly, virtually or physically while allowing for virtual attendance."
+  },
+  {
+    "objectID": "about.html#article-8.-decision-making",
+    "href": "about.html#article-8.-decision-making",
+    "title": "About",
+    "section": "Article 8. Decision-Making",
+    "text": "Article 8. Decision-Making\nBoard decisions require a quorum of three board members present. All present Board members have one vote.\nGeneral Assembly decisions do not require a quorum as long as the meeting is announced two months in advance and all members, in principle, have an opportunity to participate physically or virtually. All present members of the General Assembly have one vote.\nDecisions are made by a simple majority of present (board) members, unless specified otherwise in the bylaws.\nIn case of a tie in Board decisions, the matter is put to debate, followed by a second vote. If the second vote ends in a tie, the matter is put to a vote in the General Assembly. In case the General Assembly vote results in a tie, the decision is not adopted.\nBoard decisions may be made outside of meetings if all Board members are consulted in writing."
+  },
+  {
+    "objectID": "about.html#article-9.-termination-of-membership",
+    "href": "about.html#article-9.-termination-of-membership",
+    "title": "About",
+    "section": "Article 9. Termination of Membership",
+    "text": "Article 9. Termination of Membership\nMembership ends when a member either:\n\nresigns voluntarily;\nfails to comply with the TMS Code of Conduct, see Article 13;\nor is dismissed by a two-thirds vote of the General Assembly."
+  },
+  {
+    "objectID": "about.html#article-10.-tms-working-groups",
+    "href": "about.html#article-10.-tms-working-groups",
+    "title": "About",
+    "section": "Article 10. TMS Working Groups",
+    "text": "Article 10. TMS Working Groups\nWorking Groups are specific projects or communities of practice within TMS.\nAny member may propose a Working Group, subject to Board approval.\nWorking Groups report regularly to the Board and the General Assembly."
+  },
+  {
+    "objectID": "about.html#article-11.-modification-of-bylaws",
+    "href": "about.html#article-11.-modification-of-bylaws",
+    "title": "About",
+    "section": "Article 11. Modification of Bylaws",
+    "text": "Article 11. Modification of Bylaws\nThe bylaws may be modified by a two-thirds vote of the Board.\nModifications shall be registered with the legal authorities, if applicable."
+  },
+  {
+    "objectID": "about.html#article-12.-dissolution",
+    "href": "about.html#article-12.-dissolution",
+    "title": "About",
+    "section": "Article 12. Dissolution",
+    "text": "Article 12. Dissolution\nThe Board may propose the dissolution of TMS. This requires approval by a two-thirds majority of the General Assembly.\nIn case of dissolution, any remaining funds or assets shall be allocated to an organization with similar aims."
+  },
+  {
+    "objectID": "about.html#article-13.-code-of-conduct",
+    "href": "about.html#article-13.-code-of-conduct",
+    "title": "About",
+    "section": "Article 13. Code of Conduct",
+    "text": "Article 13. Code of Conduct\nThe TMS adopts the Berlin Code of Conduct to ensure a safe and inclusive community, https://berlincodeofconduct.org/en.\nThe point of contact for reporting CC violations is the Community Manager. The Community Manager solicits written evidence and counterevidence, and - if possible - anonymizes them.\nThe Board is presented with the (anonymized) evidence and votes on action to be taken. Enforcement options include:\n\nA written warning\nProbationary period\nWithdrawal of membership as described under Article 9."
   },
   {
     "objectID": "bylaws.html",
@@ -308,101 +546,52 @@
     "text": "The TMS adopts the Berlin Code of Conduct to ensure a safe and inclusive community, https://berlincodeofconduct.org/en.\nThe point of contact for reporting CC violations is the Community Manager. The Community Manager solicits written evidence and counterevidence, and - if possible - anonymizes them.\nThe Board is presented with the (anonymized) evidence and votes on action to be taken. Enforcement options include:\n\nA written warning\nProbationary period\nWithdrawal of membership as described under Article 9."
   },
   {
-    "objectID": "about.html#context",
-    "href": "about.html#context",
-    "title": "About",
-    "section": "Context",
-    "text": "Context\nResearch on Theory is gaining momentum in the social sciences; there is a critical mass of scholars to establish a society dedicated to the topic. Caspar van Lissa and Noah van Dongen both acquired funds to establish (under different names) a “Theory Methods Society” (TMS); they decided to join forces and recruit early adopters. The Lorentz workshop “Taskforce Theoretical Psychology”, organized in September 2025, offers a timely opportunity to formalize the organizational structure of the TMS and set a course for its future. This document is a first draft of the bylaws for the TMS, and we actively invite community feedback to further improve it."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Theory Methods Society",
+    "section": "",
+    "text": "The Theory Methods Society is a new scholarly community dedicated to advancing theory development across the (social) sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining, and reusing theory, or developing the methods to do so.\n\nWhether you are developing novel theoretical frameworks, exploring computational modeling, or seeking better ways to integrate theory and data, our society provides a platform for connecting with like-minded others, critical engagement, and methodological innovation. Join us in shaping the future of theory in the social sciences!\n\n\n\n\n\n\nJoin us if you have an interest in:\n\n\n\n\nTheory development\nFormal theories\nToy models\nPhilosophy of science\n(Interpretable) machine learning\nSimulation studies\nMeta-science\nOpen science\n\n\n\n\nSign up or contribute to website\nAll members can contribute to the Theory Methods Society by adding an item to this Google form. To prevent abuse by bots and malicious actors, you must first request permission to fill out the form.\nTo join the Theory Methods Society, add yourself in the category “People”. It is helpful if you include a link to your personal website, to an image of yourself, and your email address (to receive communications from us)."
   },
   {
-    "objectID": "about.html#article-1.-denomination-and-domicile",
-    "href": "about.html#article-1.-denomination-and-domicile",
-    "title": "About",
-    "section": "Article 1. Denomination and Domicile",
-    "text": "Article 1. Denomination and Domicile\nThe Theory Methods Society (hereafter referred to as TMS) is a scholarly society that unites researchers, educators, and practitioners with an interest in advancing theoretical and methodological innovation across disciplines and nationalities.\nTMS is registered in the Netherlands as a “stichting”, i.e., a charitable organization."
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
   },
   {
-    "objectID": "about.html#article-2.-mission-and-objectives",
-    "href": "about.html#article-2.-mission-and-objectives",
-    "title": "About",
-    "section": "Article 2. Mission and Objectives",
-    "text": "Article 2. Mission and Objectives\nThe mission of the Theory Methods Society is to build a global scholarly community dedicated to advancing theory development across the social sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining and reusing theory, or developing the methods to do so.\nThe TMS’ objectives are to:\n\nfacilitate exchange between scholars working on theoretical and methodological issues;\npromote education and training in theory and methods;\nsupport transparency, rigor, and innovation in research practices.\npromoting interdisciplinary collaboration and building bridges to other disciplines.\n\nTMS pursues these objectives by:\n\nEnsuring the continued existence of the TMS\nGrowing its membership and engaging in community building\nServing members’ needs by organizing meetings and providing a platform for knowledge exchange. What members’ needs are, and whether the Society succeeds in meeting these, ought to be assessed at least annually."
+    "objectID": "resources.html#connect-on-discord",
+    "href": "resources.html#connect-on-discord",
+    "title": "Resources",
+    "section": "",
+    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
   },
   {
-    "objectID": "about.html#article-3.-membership-and-administration",
-    "href": "about.html#article-3.-membership-and-administration",
-    "title": "About",
-    "section": "Article 3. Membership and Administration",
-    "text": "Article 3. Membership and Administration\nTMS consists of Members, a General Assembly, a TMS Board, and TMS Working Groups.\nMembership is open to anyone with an interest in theory and methods who agrees to abide by the bylaws and Code of Conduct, regardless of background, identity, or experience, and regardless of discipline, career stage, or institutional affiliation.\nMembers are entitled to participate in elections, working groups, and events organized by TMS.\nThe TMS Board governs a registry of members and affiliated working groups."
+    "objectID": "resources.html#papers-of-interest",
+    "href": "resources.html#papers-of-interest",
+    "title": "Resources",
+    "section": "Papers of Interest",
+    "text": "Papers of Interest\nSee the TMS Zotero library to access a bibliography of relevant papers."
   },
   {
-    "objectID": "about.html#article-4.-members-and-representatives",
-    "href": "about.html#article-4.-members-and-representatives",
-    "title": "About",
-    "section": "Article 4. Members and Representatives",
-    "text": "Article 4. Members and Representatives\nEach member has one vote in General Assembly meetings.\nMembers may form local, national, or thematic working groups within TMS. Working groups are established by notification of the Board, which votes on the approval of the working group at the next board meeting. If working groups require funding, their budget must be submitted annually and also be subject to a Board vote.\nEach working group selects its own Representative to communicate with the TMS Board.\nThe Board can set and change membership conditions, dues, and collection policies via a regular majority vote.\nVoting regularities are described in Article 8."
+    "objectID": "resources.html#media",
+    "href": "resources.html#media",
+    "title": "Resources",
+    "section": "Media",
+    "text": "Media\n\nPodcast Nullius in Verba\nNullius in Verba is a podcast about science—what it is and what it could be. It is hosted by Smriti Mehta from UC Berkeley and Daniël Lakens from Eindhoven University of Technology.\nhttps://nulliusinverba.podbean.com/"
   },
   {
-    "objectID": "about.html#article-5.-tms-board",
-    "href": "about.html#article-5.-tms-board",
-    "title": "About",
-    "section": "Article 5. TMS Board",
-    "text": "Article 5. TMS Board\nThe TMS Board (hereinafter referred to as the Board) manages TMS and is legally responsible for the society.\nIn addition to executing legal obligations associated with managing a charitable organization (Stichting), the Board is responsible for:\n\nadvancing the mission of TMS;\norganizing elections and meetings;\nmaintaining external relations;\nensuring financial accountability;\nenforcing the code of conduct, https://berlincodeofconduct.org/en\n\nThe Board roles consist of:\n\nA Chair, who oversees meetings, sets agendas, and ensures decisions are implemented.\nA Vice-Chair, who supports and substitutes for the Chair when needed.\nA Treasurer, who manages the finances and prepares budgets and reports.\nA Secretary, who manages internal communications, plans meetings, oversees membership registries, and keeps meeting records.\nA Community Manager, who manages external communication to the members and serves as the point-of-contact for violations of the code of conduct"
+    "objectID": "resources.html#software",
+    "href": "resources.html#software",
+    "title": "Resources",
+    "section": "Software",
+    "text": "Software\n\ntheorytools (R package)\nR-package for creating, maintaining, and reusing FAIR theories. The package enables users to formalize theories, track changes with version control, assess pre-empirical coherence, derive testable hypotheses, and facilitates the systematic improvement of theoretical frameworks within open science frameworks. Please feel free to contribute datasets, tutorial exercises, and new functions to this package!\nhttps://cjvanlissa.github.io/theorytools\n\n\nInsight Maker\nAn online and free software package for ABM and system dynamics modeling. It is user-friendly, intuitive, and has a nice GUI.\nhttps://insightmaker.com/\n\n\nLoopy\nLoopy is an open-source online software tool developed by Nicky Case for drawing and running simple stock-and-flow models.\nhttps://ncase.me/loopy/"
   },
   {
-    "objectID": "about.html#article-6.-elections-and-formation-of-the-board",
-    "href": "about.html#article-6.-elections-and-formation-of-the-board",
-    "title": "About",
-    "section": "Article 6. Elections and Formation of the Board",
-    "text": "Article 6. Elections and Formation of the Board\nBoard members are elected biannually and serve two-year terms.\nAll members of TMS are eligible to run for election to the Board.\nNo Board member may serve more than two consecutive terms.\nIf vacancies arise mid-term, the Board may either hold an ad hoc election or redistribute responsibilities until the next regular election."
-  },
-  {
-    "objectID": "about.html#article-7.-meetings",
-    "href": "about.html#article-7.-meetings",
-    "title": "About",
-    "section": "Article 7. Meetings",
-    "text": "Article 7. Meetings\nThe board will organize at least one annual General Assembly of Members, virtually or physically while allowing for virtual attendance.\nThe Board shall meet at least quarterly, virtually or physically while allowing for virtual attendance."
-  },
-  {
-    "objectID": "about.html#article-8.-decision-making",
-    "href": "about.html#article-8.-decision-making",
-    "title": "About",
-    "section": "Article 8. Decision-Making",
-    "text": "Article 8. Decision-Making\nBoard decisions require a quorum of three board members present. All present Board members have one vote.\nGeneral Assembly decisions do not require a quorum as long as the meeting is announced two months in advance and all members, in principle, have an opportunity to participate physically or virtually. All present members of the General Assembly have one vote.\nDecisions are made by a simple majority of present (board) members, unless specified otherwise in the bylaws.\nIn case of a tie in Board decisions, the matter is put to debate, followed by a second vote. If the second vote ends in a tie, the matter is put to a vote in the General Assembly. In case the General Assembly vote results in a tie, the decision is not adopted.\nBoard decisions may be made outside of meetings if all Board members are consulted in writing."
-  },
-  {
-    "objectID": "about.html#article-9.-termination-of-membership",
-    "href": "about.html#article-9.-termination-of-membership",
-    "title": "About",
-    "section": "Article 9. Termination of Membership",
-    "text": "Article 9. Termination of Membership\nMembership ends when a member either:\n\nresigns voluntarily;\nfails to comply with the TMS Code of Conduct, see Article 13;\nor is dismissed by a two-thirds vote of the General Assembly."
-  },
-  {
-    "objectID": "about.html#article-10.-tms-working-groups",
-    "href": "about.html#article-10.-tms-working-groups",
-    "title": "About",
-    "section": "Article 10. TMS Working Groups",
-    "text": "Article 10. TMS Working Groups\nWorking Groups are specific projects or communities of practice within TMS.\nAny member may propose a Working Group, subject to Board approval.\nWorking Groups report regularly to the Board and the General Assembly."
-  },
-  {
-    "objectID": "about.html#article-11.-modification-of-bylaws",
-    "href": "about.html#article-11.-modification-of-bylaws",
-    "title": "About",
-    "section": "Article 11. Modification of Bylaws",
-    "text": "Article 11. Modification of Bylaws\nThe bylaws may be modified by a two-thirds vote of the Board.\nModifications shall be registered with the legal authorities, if applicable."
-  },
-  {
-    "objectID": "about.html#article-12.-dissolution",
-    "href": "about.html#article-12.-dissolution",
-    "title": "About",
-    "section": "Article 12. Dissolution",
-    "text": "Article 12. Dissolution\nThe Board may propose the dissolution of TMS. This requires approval by a two-thirds majority of the General Assembly.\nIn case of dissolution, any remaining funds or assets shall be allocated to an organization with similar aims."
-  },
-  {
-    "objectID": "about.html#article-13.-code-of-conduct",
-    "href": "about.html#article-13.-code-of-conduct",
-    "title": "About",
-    "section": "Article 13. Code of Conduct",
-    "text": "Article 13. Code of Conduct\nThe TMS adopts the Berlin Code of Conduct to ensure a safe and inclusive community, https://berlincodeofconduct.org/en.\nThe point of contact for reporting CC violations is the Community Manager. The Community Manager solicits written evidence and counterevidence, and - if possible - anonymizes them.\nThe Board is presented with the (anonymized) evidence and votes on action to be taken. Enforcement options include:\n\nA written warning\nProbationary period\nWithdrawal of membership as described under Article 9."
+    "objectID": "resources.html#educational-materials",
+    "href": "resources.html#educational-materials",
+    "title": "Resources",
+    "section": "Educational Materials",
+    "text": "Educational Materials\n\nTheory Construction and Statistical Modeling\nA free, open source GitBook for a Structural Equation Modeling course with attention to theory. Includes video lectures and formative assessments.\nhttps://cjvanlissa.github.io/TCSM\n\n\nFundamentals: Becoming better at explaining and understanding\nCourse material for a Honours Programme course for bachelor students (from any program) at the UvA and VU in Amsterdam, the Netherlands. It is a “hands on” course on scientific theory development. It takes students from figuring out which effects/phenomena/findings they would like to explain with a theory, through verbally describing and formalizing their theory, to deriving hypotheses and designing experiments to test their theories.\nhttps://osf.io/abxut/\n\n\nFOMO-Psy: Formal Modeling of Psychological Theories\nThis is a 14-week course, instructed by Felix Schönbrodt at the LMU Munich in winter term 2023 and 2024, with contributions from Daniel Leising and Aaron Peikert, with many inspirations taken from a course from Noah van Dongen. The material is work in progress and will be continuously updated along with each new run of the course.\nhttps://nicebread.github.io/FOMO-Psy/"
   }
 ]

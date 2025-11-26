@@ -1,1 +1,22 @@
 /* css styles */
+
+/* Add TMS logo to the right of the site title in the navbar */
+.navbar-brand::after {
+  content: "";
+  display: inline-block;
+  margin-left: 8px;
+  width: 28px;
+  height: 28px;
+/*  background-image: url('TMS_logo_white.png');*/
+  background-repeat: no-repeat;
+  background-size: contain;
+  vertical-align: middle;
+}
+
+/* Slightly adjust on very small screens */
+@media (max-width: 576px) {
+  .navbar-brand::after {
+    width: 22px;
+    height: 22px;
+  }
+}
