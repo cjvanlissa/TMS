@@ -8,4 +8,6 @@ The bylaws and governance structure of the society will be established in due co
 
 By participating in the *Theory Methods Society*, you agree to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/), a code of conduct designed to ensure safety and accountability in communities.
 
+ <p align="center"><img src="TMS_logo.png" alt="TMS logo" style= "max-width:280px;width:40%;min-width:180px;height:auto;"></p>
+
 {{< include bylaws.md >}}
