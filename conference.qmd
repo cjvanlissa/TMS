@@ -1,0 +1,92 @@
+---
+title: "Conference"
+---
+
+**Date:** Sept 30-Oct 2nd, 2026  
+**Location:** Tilburg University, The Netherlands  
+**Venue:** Simon Building, Prof. Cobbenhagenlaan 225
+
+Tilburg University will host the first annual meeting of the Theory Methods Society. The conference will last two days, with an optional social program and a preconference workshop (to be announced).
+
+## Important Dates
+
+```{r}
+tab <- c("Submissions Open", "01-01-2026",
+"Submission Deadline", "27-02-2026",
+"Reviews due", "27-03-2026",
+"Review Decision Notifications", "10-04-2026",
+"Registration Deadline", "08-05-2026",
+"Preconference Workshop", "30-09-2026",
+"Conference day 1", "01-10-2026",
+"Conference day 2", "02-10-2026")
+
+tab <- matrix(tab, ncol = 2, byrow = T)
+tab <- data.frame(tab)
+tab$X2 <- as.Date(tab$X2, format = "%d-%m-%Y")
+library(lubridate)
+tab$X2 <- ymd(tab$X2)
+tab$X2[1:5] %m+% months(1) -> tab$X2[1:5]
+names(tab) <- c("Milestone", "Date")
+knitr::kable(tab)
+```
+
+
+## Preliminary Program
+
+```{r}
+sched <- structure(list(V1 = c("30-29-2026", "01-10-2026", "01-10-2026", 
+"01-10-2026", "01-10-2026", "01-10-2026", "01-10-2026", "01-10-2026", 
+"01-10-2026", "01-10-2026", "02-10-2026", "02-10-2026", "02-10-2026", 
+"02-10-2026", "02-10-2026", "02-10-2026", "02-10-2026", "02-10-2026"
+), V2 = c("12:00", "9:00", "10:00", "11:00", "12:00", "13:00", 
+"14:00", "14:30", "15:30", "18:00", "9:00", "10:00", "11:00", 
+"12:00", "13:00", "14:00", "15:00", "16:00"), V3 = c("17:00", 
+"10:00", "11:00", "12:00", "13:00", "14:00", "14:30", "15:30", 
+"17:00", "22:00", "10:00", "11:00", "12:00", "13:00", "14:00", 
+"15:00", "16:00", "17:00"), V4 = c("Preconference workshop", 
+"Coffee/socializing", "Keynote 1", "2 submitted talks (20 min talk + 10 min Q&A)", 
+"2 submitted talks (20 min talk + 10 min Q&A)", "Lunch + Posters", 
+"Posters", "Keynote 2", "Workshops/hackathons", "Conference Dinner", 
+"General Assembly (with coffee)", "Keynote 3", "2 submitted talks (20 min talk + 10 min Q&A)", 
+"2 submitted talks (20 min talk + 10 min Q&A)", "Lunch", "Keynote 4", 
+"8x5 minute lightning talks + general discussion", "Closing session"
+)), class = "data.frame", row.names = c(NA, -18L))
+names(sched) <- c("Date", "Start", "End", "Topic")
+knitr::kable(sched)
+```
+
+## Types of Events
+
+### Keynotes
+
+An invited talk of approximately 40 minutes, followed by 20 minutes of discussion.
+
+### Keynotes
+
+An invited format, where participants work on an interactive activity in smaller groups, with the aim to bring multiple perspectives to bear on an urgent issue in theory (methods).
+
+### Submitted Talks
+
+This format is a 20 minute talk, plus 10 minute discussion or Q&A. Anyone can submit a talk like this, and multiple presenters can share the stage to present a join project or discuss opposing views. Optionally, indicate whether your submitted talk should be considered for a Lightning Talk or Poster slot, if it is not selected for a Submitted Talk.
+
+### Lightning Talks
+
+This format is a 5 minute elevator pitch to present a paper, idea, software, or other resource.
+
+### Poster
+
+There is a 1.5 hour slot for poster presentations, during which there is a walking lunch in the same room to stimulate conversations.
+
+
+## Participation Costs
+
+*Expected: 50-100 euros*
+
+This covers participation in all sessions, catering during the conference days, and participation in the conference dinner.
+
+
+## Registration
+
+You can apply for the summer school via *link to be anounced*.
+
+We can accommodate a maximum of 40 participants. Please note that participants will be selected on a first-come, first-served basis, and registration is only confirmed after you have received an email from us. We maintain a waiting list for participants who sign up beyond the first 40.

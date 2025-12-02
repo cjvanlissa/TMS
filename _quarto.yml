@@ -11,8 +11,14 @@ website:
       - events.qmd
       - people.qmd
       - resources.qmd
+      - conference.qmd
       - summer_school.qmd
       - about.qmd
+
+execute:
+  echo: false
+  warning: false
+  message: false
 
 format:
   html:
