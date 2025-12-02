@@ -147,18 +147,46 @@
     "text": "Article 13. Code of Conduct\nThe TMS adopts the Berlin Code of Conduct to ensure a safe and inclusive community, https://berlincodeofconduct.org/en.\nThe point of contact for reporting CC violations is the Community Manager. The Community Manager solicits written evidence and counterevidence, and - if possible - anonymizes them.\nThe Board is presented with the (anonymized) evidence and votes on action to be taken. Enforcement options include:\n\nA written warning\nProbationary period\nWithdrawal of membership as described under Article 9."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Theory Methods Society",
+    "objectID": "conference.html",
+    "href": "conference.html",
+    "title": "Conference",
     "section": "",
-    "text": "The Theory Methods Society is a new scholarly community dedicated to advancing theory development across the (social) sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining, and reusing theory, or developing the methods to do so.\n\nWhether you are developing novel theoretical frameworks, exploring computational modeling, or seeking better ways to integrate theory and data, our society provides a platform for connecting with like-minded others, critical engagement, and methodological innovation. Join us in shaping the future of theory in the social sciences!\n\n\n\n\n\n\nTipJoin us if you have an interest in:\n\n\n\n\nTheory development\nFormal theories\nToy models\nPhilosophy of science\n(Interpretable) machine learning\nSimulation studies\nMeta-science\nOpen science\n\n\n\n\nSign up or contribute to website\nAll members can contribute to the Theory Methods Society by adding an item to this Google form. To prevent abuse by bots and malicious actors, you must first request permission to fill out the form.\nTo join the Theory Methods Society, add yourself in the category “People”. It is helpful if you include a link to your personal website, to an image of yourself, and your email address (to receive communications from us)."
+    "text": "Date: Sept 30-Oct 2nd, 2026\nLocation: Tilburg University, The Netherlands\nVenue: Simon Building, Prof. Cobbenhagenlaan 225\nTilburg University will host the first annual meeting of the Theory Methods Society. The conference will last two days, with an optional social program and a preconference workshop (to be announced)."
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "Warning in calendar::ic_event(uid = cal$title[i], start_time =\nas.POSIXct(cal$date[i]), : no value provided for end time\nWarning in calendar::ic_event(uid = cal$title[i], start_time =\nas.POSIXct(cal$date[i]), : no value provided for end time\n\n\nDownload the calendar"
+    "objectID": "conference.html#important-dates",
+    "href": "conference.html#important-dates",
+    "title": "Conference",
+    "section": "Important Dates",
+    "text": "Important Dates\n\n\n\n\n\nMilestone\nDate\n\n\n\n\nSubmissions Open\n2026-02-01\n\n\nSubmission Deadline\n2026-03-27\n\n\nReviews due\n2026-04-27\n\n\nReview Decision Notifications\n2026-05-10\n\n\nRegistration Deadline\n2026-06-08\n\n\nPreconference Workshop\n2026-09-30\n\n\nConference day 1\n2026-10-01\n\n\nConference day 2\n2026-10-02"
+  },
+  {
+    "objectID": "conference.html#preliminary-program",
+    "href": "conference.html#preliminary-program",
+    "title": "Conference",
+    "section": "Preliminary Program",
+    "text": "Preliminary Program\n\n\n\n\n\n\n\n\n\n\n\nDate\nStart\nEnd\nTopic\n\n\n\n\n30-29-2026\n12:00\n17:00\nPreconference workshop\n\n\n01-10-2026\n9:00\n10:00\nCoffee/socializing\n\n\n01-10-2026\n10:00\n11:00\nKeynote 1\n\n\n01-10-2026\n11:00\n12:00\n2 submitted talks (20 min talk + 10 min Q&A)\n\n\n01-10-2026\n12:00\n13:00\n2 submitted talks (20 min talk + 10 min Q&A)\n\n\n01-10-2026\n13:00\n14:00\nLunch + Posters\n\n\n01-10-2026\n14:00\n14:30\nPosters\n\n\n01-10-2026\n14:30\n15:30\nKeynote 2\n\n\n01-10-2026\n15:30\n17:00\nWorkshops/hackathons\n\n\n01-10-2026\n18:00\n22:00\nConference Dinner\n\n\n02-10-2026\n9:00\n10:00\nGeneral Assembly (with coffee)\n\n\n02-10-2026\n10:00\n11:00\nKeynote 3\n\n\n02-10-2026\n11:00\n12:00\n2 submitted talks (20 min talk + 10 min Q&A)\n\n\n02-10-2026\n12:00\n13:00\n2 submitted talks (20 min talk + 10 min Q&A)\n\n\n02-10-2026\n13:00\n14:00\nLunch\n\n\n02-10-2026\n14:00\n15:00\nKeynote 4\n\n\n02-10-2026\n15:00\n16:00\n8x5 minute lightning talks + general discussion\n\n\n02-10-2026\n16:00\n17:00\nClosing session"
+  },
+  {
+    "objectID": "conference.html#types-of-events",
+    "href": "conference.html#types-of-events",
+    "title": "Conference",
+    "section": "Types of Events",
+    "text": "Types of Events\n\nKeynotes\nAn invited talk of approximately 40 minutes, followed by 20 minutes of discussion.\n\n\nKeynotes\nAn invited format, where participants work on an interactive activity in smaller groups, with the aim to bring multiple perspectives to bear on an urgent issue in theory (methods).\n\n\nSubmitted Talks\nThis format is a 20 minute talk, plus 10 minute discussion or Q&A. Anyone can submit a talk like this, and multiple presenters can share the stage to present a join project or discuss opposing views. Optionally, indicate whether your submitted talk should be considered for a Lightning Talk or Poster slot, if it is not selected for a Submitted Talk.\n\n\nLightning Talks\nThis format is a 5 minute elevator pitch to present a paper, idea, software, or other resource.\n\n\nPoster\nThere is a 1.5 hour slot for poster presentations, during which there is a walking lunch in the same room to stimulate conversations."
+  },
+  {
+    "objectID": "conference.html#participation-costs",
+    "href": "conference.html#participation-costs",
+    "title": "Conference",
+    "section": "Participation Costs",
+    "text": "Participation Costs\nExpected: 50-100 euros\nThis covers participation in all sessions, catering during the conference days, and participation in the conference dinner."
+  },
+  {
+    "objectID": "conference.html#registration",
+    "href": "conference.html#registration",
+    "title": "Conference",
+    "section": "Registration",
+    "text": "Registration\nYou can apply for the summer school via link to be anounced.\nWe can accommodate a maximum of 40 participants. Please note that participants will be selected on a first-come, first-served basis, and registration is only confirmed after you have received an email from us. We maintain a waiting list for participants who sign up beyond the first 40."
   },
   {
     "objectID": "bylaws.html",
@@ -264,6 +292,20 @@
     "title": "By-laws of the Theory Methods Society (TMS)",
     "section": "",
     "text": "The TMS adopts the Berlin Code of Conduct to ensure a safe and inclusive community, https://berlincodeofconduct.org/en.\nThe point of contact for reporting CC violations is the Community Manager. The Community Manager solicits written evidence and counterevidence, and - if possible - anonymizes them.\nThe Board is presented with the (anonymized) evidence and votes on action to be taken. Enforcement options include:\n\nA written warning\nProbationary period\nWithdrawal of membership as described under Article 9."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Download the calendar"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Theory Methods Society",
+    "section": "",
+    "text": "The Theory Methods Society is a new scholarly community dedicated to advancing theory development across the (social) sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining, and reusing theory, or developing the methods to do so.\n\nWhether you are developing novel theoretical frameworks, exploring computational modeling, or seeking better ways to integrate theory and data, our society provides a platform for connecting with like-minded others, critical engagement, and methodological innovation. Join us in shaping the future of theory in the social sciences!\n\n\n\n\n\n\nTipJoin us if you have an interest in:\n\n\n\n\nTheory development\nFormal theories\nToy models\nPhilosophy of science\n(Interpretable) machine learning\nSimulation studies\nMeta-science\nOpen science\n\n\n\n\nSign up or contribute to website\nAll members can contribute to the Theory Methods Society by adding an item to this Google form. To prevent abuse by bots and malicious actors, you must first request permission to fill out the form.\nTo join the Theory Methods Society, add yourself in the category “People”. It is helpful if you include a link to your personal website, to an image of yourself, and your email address (to receive communications from us)."
   },
   {
     "objectID": "summer_school.html",
