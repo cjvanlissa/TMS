@@ -36,7 +36,7 @@ The following topics and more will be covered during the summer school:
 
 
 ## Requirements
-This summer school is designed for participants at the doctoral (i.e., PhD) or postdoctoral level who possess familiarity with the R programming language. Participants are expected to bring their own laptop. Familiarity with mathematics beyond the high school level is not required. If you do not fulfill these requirements, registration is at your own risk. 
+This summer school is designed for participants at the doctoral (PhD student) level or higher who possess familiarity with the R programming language. Participants are expected to bring their own laptop. Familiarity with mathematics beyond the high school level is not required. If you do not fulfill these requirements, registration is at your own risk. 
 
 ## Participation Costs
 800.00 euros. The costs include participation in all lectures and practical sessions (from 09:00 to 17:00), lunch, drinks on Monday, and dinner on Thursday.
