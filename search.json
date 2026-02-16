@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
-  },
-  {
-    "objectID": "resources.html#connect-on-discord",
-    "href": "resources.html#connect-on-discord",
-    "title": "Resources",
-    "section": "",
-    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
-  },
-  {
-    "objectID": "resources.html#papers-of-interest",
-    "href": "resources.html#papers-of-interest",
-    "title": "Resources",
-    "section": "Papers of Interest",
-    "text": "Papers of Interest\nSee the TMS Zotero library to access a bibliography of relevant papers."
-  },
-  {
-    "objectID": "resources.html#media",
-    "href": "resources.html#media",
-    "title": "Resources",
-    "section": "Media",
-    "text": "Media\n\nPodcast Nullius in Verba\nNullius in Verba is a podcast about science—what it is and what it could be. It is hosted by Smriti Mehta from UC Berkeley and Daniël Lakens from Eindhoven University of Technology.\nhttps://nulliusinverba.podbean.com/"
-  },
-  {
-    "objectID": "resources.html#software",
-    "href": "resources.html#software",
-    "title": "Resources",
-    "section": "Software",
-    "text": "Software\n\ntheorytools (R package)\nR-package for creating, maintaining, and reusing FAIR theories. The package enables users to formalize theories, track changes with version control, assess pre-empirical coherence, derive testable hypotheses, and facilitates the systematic improvement of theoretical frameworks within open science frameworks. Please feel free to contribute datasets, tutorial exercises, and new functions to this package!\nhttps://cjvanlissa.github.io/theorytools\n\n\nInsight Maker\nAn online and free software package for ABM and system dynamics modeling. It is user-friendly, intuitive, and has a nice GUI.\nhttps://insightmaker.com/\n\n\nLoopy\nLoopy is an open-source online software tool developed by Nicky Case for drawing and running simple stock-and-flow models.\nhttps://ncase.me/loopy/"
-  },
-  {
-    "objectID": "resources.html#educational-materials",
-    "href": "resources.html#educational-materials",
-    "title": "Resources",
-    "section": "Educational Materials",
-    "text": "Educational Materials\n\nTheory Construction and Statistical Modeling\nA free, open source GitBook for a Structural Equation Modeling course with attention to theory. Includes video lectures and formative assessments.\nhttps://cjvanlissa.github.io/TCSM\n\n\nFundamentals: Becoming better at explaining and understanding\nCourse material for a Honours Programme course for bachelor students (from any program) at the UvA and VU in Amsterdam, the Netherlands. It is a “hands on” course on scientific theory development. It takes students from figuring out which effects/phenomena/findings they would like to explain with a theory, through verbally describing and formalizing their theory, to deriving hypotheses and designing experiments to test their theories.\nhttps://osf.io/abxut/\n\n\nFOMO-Psy: Formal Modeling of Psychological Theories\nThis is a 14-week course, instructed by Felix Schönbrodt at the LMU Munich in winter term 2023 and 2024, with contributions from Daniel Leising and Aaron Peikert, with many inspirations taken from a course from Noah van Dongen. The material is work in progress and will be continuously updated along with each new run of the course.\nhttps://nicebread.github.io/FOMO-Psy/"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -147,167 +105,6 @@
     "text": "Article 13. Code of Conduct\nThe TMS adopts the Berlin Code of Conduct to ensure a safe and inclusive community, https://berlincodeofconduct.org/en.\nThe point of contact for reporting CC violations is the Community Manager. The Community Manager solicits written evidence and counterevidence, and - if possible - anonymizes them.\nThe Board is presented with the (anonymized) evidence and votes on action to be taken. Enforcement options include:\n\nA written warning\nProbationary period\nWithdrawal of membership as described under Article 9."
   },
   {
-    "objectID": "conference.html",
-    "href": "conference.html",
-    "title": "Conference",
-    "section": "",
-    "text": "Date: Sept 30-Oct 2nd, 2026\nLocation: Tilburg University, The Netherlands\nVenue: Simon Building, Prof. Cobbenhagenlaan 225\nTilburg University will host the first annual meeting of the Theory Methods Society. The conference will last two days, with an optional social program and a preconference workshop (to be announced)."
-  },
-  {
-    "objectID": "conference.html#important-dates",
-    "href": "conference.html#important-dates",
-    "title": "Conference",
-    "section": "Important Dates",
-    "text": "Important Dates\n\n\n\n\n\nMilestone\nDate\n\n\n\n\nSubmissions Open\n2026-02-01\n\n\nSubmission Deadline\n2026-03-27\n\n\nReviews due\n2026-04-27\n\n\nReview Decision Notifications\n2026-05-10\n\n\nRegistration Deadline\n2026-06-08\n\n\nPreconference Workshop\n2026-09-30\n\n\nConference day 1\n2026-10-01\n\n\nConference day 2\n2026-10-02"
-  },
-  {
-    "objectID": "conference.html#preliminary-program",
-    "href": "conference.html#preliminary-program",
-    "title": "Conference",
-    "section": "Preliminary Program",
-    "text": "Preliminary Program\n\n\n\n\n\n\n\n\n\n\n\nDate\nStart\nEnd\nTopic\n\n\n\n\n30-29-2026\n12:00\n17:00\nPreconference workshop\n\n\n01-10-2026\n9:00\n10:00\nCoffee/socializing\n\n\n01-10-2026\n10:00\n11:00\nKeynote 1\n\n\n01-10-2026\n11:00\n12:00\n2 submitted talks (20 min talk + 10 min Q&A)\n\n\n01-10-2026\n12:00\n13:00\n2 submitted talks (20 min talk + 10 min Q&A)\n\n\n01-10-2026\n13:00\n14:00\nLunch + Posters\n\n\n01-10-2026\n14:00\n14:30\nPosters\n\n\n01-10-2026\n14:30\n15:30\nKeynote 2\n\n\n01-10-2026\n15:30\n17:00\nWorkshops/hackathons\n\n\n01-10-2026\n18:00\n22:00\nConference Dinner\n\n\n02-10-2026\n9:00\n10:00\nGeneral Assembly (with coffee)\n\n\n02-10-2026\n10:00\n11:00\nKeynote 3\n\n\n02-10-2026\n11:00\n12:00\n2 submitted talks (20 min talk + 10 min Q&A)\n\n\n02-10-2026\n12:00\n13:00\n2 submitted talks (20 min talk + 10 min Q&A)\n\n\n02-10-2026\n13:00\n14:00\nLunch\n\n\n02-10-2026\n14:00\n15:00\nKeynote 4\n\n\n02-10-2026\n15:00\n16:00\n8x5 minute lightning talks + general discussion\n\n\n02-10-2026\n16:00\n17:00\nClosing session"
-  },
-  {
-    "objectID": "conference.html#types-of-events",
-    "href": "conference.html#types-of-events",
-    "title": "Conference",
-    "section": "Types of Events",
-    "text": "Types of Events\n\nKeynotes\nAn invited talk of approximately 40 minutes, followed by 20 minutes of discussion.\n\n\nKeynotes\nAn invited format, where participants work on an interactive activity in smaller groups, with the aim to bring multiple perspectives to bear on an urgent issue in theory (methods).\n\n\nSubmitted Talks\nThis format is a 20 minute talk, plus 10 minute discussion or Q&A. Anyone can submit a talk like this, and multiple presenters can share the stage to present a join project or discuss opposing views. Optionally, indicate whether your submitted talk should be considered for a Lightning Talk or Poster slot, if it is not selected for a Submitted Talk.\n\n\nLightning Talks\nThis format is a 5 minute elevator pitch to present a paper, idea, software, or other resource.\n\n\nPoster\nThere is a 1.5 hour slot for poster presentations, during which there is a walking lunch in the same room to stimulate conversations."
-  },
-  {
-    "objectID": "conference.html#participation-costs",
-    "href": "conference.html#participation-costs",
-    "title": "Conference",
-    "section": "Participation Costs",
-    "text": "Participation Costs\nExpected: 50-100 euros\nThis covers participation in all sessions, catering during the conference days, and participation in the conference dinner."
-  },
-  {
-    "objectID": "conference.html#registration",
-    "href": "conference.html#registration",
-    "title": "Conference",
-    "section": "Registration",
-    "text": "Registration\nYou can apply for the summer school via link to be anounced.\nWe can accommodate a maximum of 40 participants. Please note that participants will be selected on a first-come, first-served basis, and registration is only confirmed after you have received an email from us. We maintain a waiting list for participants who sign up beyond the first 40."
-  },
-  {
-    "objectID": "bylaws.html",
-    "href": "bylaws.html",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "Version 1.0.0 (September 2025)\n\n\nResearch on Theory is gaining momentum in the social sciences; there is a critical mass of scholars to establish a society dedicated to the topic. Caspar van Lissa and Noah van Dongen both acquired funds to establish (under different names) a “Theory Methods Society” (TMS); they decided to join forces and recruit early adopters. The Lorentz workshop “Taskforce Theoretical Psychology”, organized in September 2025, offers a timely opportunity to formalize the organizational structure of the TMS and set a course for its future. This document is a first draft of the bylaws for the TMS, and we actively invite community feedback to further improve it.\n\n\n\nThe Theory Methods Society (hereafter referred to as TMS) is a scholarly society that unites researchers, educators, and practitioners with an interest in advancing theoretical and methodological innovation across disciplines and nationalities.\nTMS is registered in the Netherlands as a “stichting”, i.e., a charitable organization.\n\n\n\nThe mission of the Theory Methods Society is to build a global scholarly community dedicated to advancing theory development across the social sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining and reusing theory, or developing the methods to do so.\nThe TMS’ objectives are to:\n\nfacilitate exchange between scholars working on theoretical and methodological issues;\npromote education and training in theory and methods;\nsupport transparency, rigor, and innovation in research practices.\npromoting interdisciplinary collaboration and building bridges to other disciplines.\n\nTMS pursues these objectives by:\n\nEnsuring the continued existence of the TMS\nGrowing its membership and engaging in community building\nServing members’ needs by organizing meetings and providing a platform for knowledge exchange. What members’ needs are, and whether the Society succeeds in meeting these, ought to be assessed at least annually.\n\n\n\n\nTMS consists of Members, a General Assembly, a TMS Board, and TMS Working Groups.\nMembership is open to anyone with an interest in theory and methods who agrees to abide by the bylaws and Code of Conduct, regardless of background, identity, or experience, and regardless of discipline, career stage, or institutional affiliation.\nMembers are entitled to participate in elections, working groups, and events organized by TMS.\nThe TMS Board governs a registry of members and affiliated working groups.\n\n\n\nEach member has one vote in General Assembly meetings.\nMembers may form local, national, or thematic working groups within TMS. Working groups are established by notification of the Board, which votes on the approval of the working group at the next board meeting. If working groups require funding, their budget must be submitted annually and also be subject to a Board vote.\nEach working group selects its own Representative to communicate with the TMS Board.\nThe Board can set and change membership conditions, dues, and collection policies via a regular majority vote.\nVoting regularities are described in Article 8.\n\n\n\nThe TMS Board (hereinafter referred to as the Board) manages TMS and is legally responsible for the society.\nIn addition to executing legal obligations associated with managing a charitable organization (Stichting), the Board is responsible for:\n\nadvancing the mission of TMS;\norganizing elections and meetings;\nmaintaining external relations;\nensuring financial accountability;\nenforcing the code of conduct, https://berlincodeofconduct.org/en\n\nThe Board roles consist of:\n\nA Chair, who oversees meetings, sets agendas, and ensures decisions are implemented.\nA Vice-Chair, who supports and substitutes for the Chair when needed.\nA Treasurer, who manages the finances and prepares budgets and reports.\nA Secretary, who manages internal communications, plans meetings, oversees membership registries, and keeps meeting records.\nA Community Manager, who manages external communication to the members and serves as the point-of-contact for violations of the code of conduct\n\n\n\n\nBoard members are elected biannually and serve two-year terms.\nAll members of TMS are eligible to run for election to the Board.\nNo Board member may serve more than two consecutive terms.\nIf vacancies arise mid-term, the Board may either hold an ad hoc election or redistribute responsibilities until the next regular election.\n\n\n\nThe board will organize at least one annual General Assembly of Members, virtually or physically while allowing for virtual attendance.\nThe Board shall meet at least quarterly, virtually or physically while allowing for virtual attendance.\n\n\n\nBoard decisions require a quorum of three board members present. All present Board members have one vote.\nGeneral Assembly decisions do not require a quorum as long as the meeting is announced two months in advance and all members, in principle, have an opportunity to participate physically or virtually. All present members of the General Assembly have one vote.\nDecisions are made by a simple majority of present (board) members, unless specified otherwise in the bylaws.\nIn case of a tie in Board decisions, the matter is put to debate, followed by a second vote. If the second vote ends in a tie, the matter is put to a vote in the General Assembly. In case the General Assembly vote results in a tie, the decision is not adopted.\nBoard decisions may be made outside of meetings if all Board members are consulted in writing.\n\n\n\nMembership ends when a member either:\n\nresigns voluntarily;\nfails to comply with the TMS Code of Conduct, see Article 13;\nor is dismissed by a two-thirds vote of the General Assembly.\n\n\n\n\nWorking Groups are specific projects or communities of practice within TMS.\nAny member may propose a Working Group, subject to Board approval.\nWorking Groups report regularly to the Board and the General Assembly.\n\n\n\nThe bylaws may be modified by a two-thirds vote of the Board.\nModifications shall be registered with the legal authorities, if applicable.\n\n\n\nThe Board may propose the dissolution of TMS. This requires approval by a two-thirds majority of the General Assembly.\nIn case of dissolution, any remaining funds or assets shall be allocated to an organization with similar aims.\n\n\n\nThe TMS adopts the Berlin Code of Conduct to ensure a safe and inclusive community, https://berlincodeofconduct.org/en.\nThe point of contact for reporting CC violations is the Community Manager. The Community Manager solicits written evidence and counterevidence, and - if possible - anonymizes them.\nThe Board is presented with the (anonymized) evidence and votes on action to be taken. Enforcement options include:\n\nA written warning\nProbationary period\nWithdrawal of membership as described under Article 9."
-  },
-  {
-    "objectID": "bylaws.html#context",
-    "href": "bylaws.html#context",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "Research on Theory is gaining momentum in the social sciences; there is a critical mass of scholars to establish a society dedicated to the topic. Caspar van Lissa and Noah van Dongen both acquired funds to establish (under different names) a “Theory Methods Society” (TMS); they decided to join forces and recruit early adopters. The Lorentz workshop “Taskforce Theoretical Psychology”, organized in September 2025, offers a timely opportunity to formalize the organizational structure of the TMS and set a course for its future. This document is a first draft of the bylaws for the TMS, and we actively invite community feedback to further improve it."
-  },
-  {
-    "objectID": "bylaws.html#article-1.-denomination-and-domicile",
-    "href": "bylaws.html#article-1.-denomination-and-domicile",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "The Theory Methods Society (hereafter referred to as TMS) is a scholarly society that unites researchers, educators, and practitioners with an interest in advancing theoretical and methodological innovation across disciplines and nationalities.\nTMS is registered in the Netherlands as a “stichting”, i.e., a charitable organization."
-  },
-  {
-    "objectID": "bylaws.html#article-2.-mission-and-objectives",
-    "href": "bylaws.html#article-2.-mission-and-objectives",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "The mission of the Theory Methods Society is to build a global scholarly community dedicated to advancing theory development across the social sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining and reusing theory, or developing the methods to do so.\nThe TMS’ objectives are to:\n\nfacilitate exchange between scholars working on theoretical and methodological issues;\npromote education and training in theory and methods;\nsupport transparency, rigor, and innovation in research practices.\npromoting interdisciplinary collaboration and building bridges to other disciplines.\n\nTMS pursues these objectives by:\n\nEnsuring the continued existence of the TMS\nGrowing its membership and engaging in community building\nServing members’ needs by organizing meetings and providing a platform for knowledge exchange. What members’ needs are, and whether the Society succeeds in meeting these, ought to be assessed at least annually."
-  },
-  {
-    "objectID": "bylaws.html#article-3.-membership-and-administration",
-    "href": "bylaws.html#article-3.-membership-and-administration",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "TMS consists of Members, a General Assembly, a TMS Board, and TMS Working Groups.\nMembership is open to anyone with an interest in theory and methods who agrees to abide by the bylaws and Code of Conduct, regardless of background, identity, or experience, and regardless of discipline, career stage, or institutional affiliation.\nMembers are entitled to participate in elections, working groups, and events organized by TMS.\nThe TMS Board governs a registry of members and affiliated working groups."
-  },
-  {
-    "objectID": "bylaws.html#article-4.-members-and-representatives",
-    "href": "bylaws.html#article-4.-members-and-representatives",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "Each member has one vote in General Assembly meetings.\nMembers may form local, national, or thematic working groups within TMS. Working groups are established by notification of the Board, which votes on the approval of the working group at the next board meeting. If working groups require funding, their budget must be submitted annually and also be subject to a Board vote.\nEach working group selects its own Representative to communicate with the TMS Board.\nThe Board can set and change membership conditions, dues, and collection policies via a regular majority vote.\nVoting regularities are described in Article 8."
-  },
-  {
-    "objectID": "bylaws.html#article-5.-tms-board",
-    "href": "bylaws.html#article-5.-tms-board",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "The TMS Board (hereinafter referred to as the Board) manages TMS and is legally responsible for the society.\nIn addition to executing legal obligations associated with managing a charitable organization (Stichting), the Board is responsible for:\n\nadvancing the mission of TMS;\norganizing elections and meetings;\nmaintaining external relations;\nensuring financial accountability;\nenforcing the code of conduct, https://berlincodeofconduct.org/en\n\nThe Board roles consist of:\n\nA Chair, who oversees meetings, sets agendas, and ensures decisions are implemented.\nA Vice-Chair, who supports and substitutes for the Chair when needed.\nA Treasurer, who manages the finances and prepares budgets and reports.\nA Secretary, who manages internal communications, plans meetings, oversees membership registries, and keeps meeting records.\nA Community Manager, who manages external communication to the members and serves as the point-of-contact for violations of the code of conduct"
-  },
-  {
-    "objectID": "bylaws.html#article-6.-elections-and-formation-of-the-board",
-    "href": "bylaws.html#article-6.-elections-and-formation-of-the-board",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "Board members are elected biannually and serve two-year terms.\nAll members of TMS are eligible to run for election to the Board.\nNo Board member may serve more than two consecutive terms.\nIf vacancies arise mid-term, the Board may either hold an ad hoc election or redistribute responsibilities until the next regular election."
-  },
-  {
-    "objectID": "bylaws.html#article-7.-meetings",
-    "href": "bylaws.html#article-7.-meetings",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "The board will organize at least one annual General Assembly of Members, virtually or physically while allowing for virtual attendance.\nThe Board shall meet at least quarterly, virtually or physically while allowing for virtual attendance."
-  },
-  {
-    "objectID": "bylaws.html#article-8.-decision-making",
-    "href": "bylaws.html#article-8.-decision-making",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "Board decisions require a quorum of three board members present. All present Board members have one vote.\nGeneral Assembly decisions do not require a quorum as long as the meeting is announced two months in advance and all members, in principle, have an opportunity to participate physically or virtually. All present members of the General Assembly have one vote.\nDecisions are made by a simple majority of present (board) members, unless specified otherwise in the bylaws.\nIn case of a tie in Board decisions, the matter is put to debate, followed by a second vote. If the second vote ends in a tie, the matter is put to a vote in the General Assembly. In case the General Assembly vote results in a tie, the decision is not adopted.\nBoard decisions may be made outside of meetings if all Board members are consulted in writing."
-  },
-  {
-    "objectID": "bylaws.html#article-9.-termination-of-membership",
-    "href": "bylaws.html#article-9.-termination-of-membership",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "Membership ends when a member either:\n\nresigns voluntarily;\nfails to comply with the TMS Code of Conduct, see Article 13;\nor is dismissed by a two-thirds vote of the General Assembly."
-  },
-  {
-    "objectID": "bylaws.html#article-10.-tms-working-groups",
-    "href": "bylaws.html#article-10.-tms-working-groups",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "Working Groups are specific projects or communities of practice within TMS.\nAny member may propose a Working Group, subject to Board approval.\nWorking Groups report regularly to the Board and the General Assembly."
-  },
-  {
-    "objectID": "bylaws.html#article-11.-modification-of-bylaws",
-    "href": "bylaws.html#article-11.-modification-of-bylaws",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "The bylaws may be modified by a two-thirds vote of the Board.\nModifications shall be registered with the legal authorities, if applicable."
-  },
-  {
-    "objectID": "bylaws.html#article-12.-dissolution",
-    "href": "bylaws.html#article-12.-dissolution",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "The Board may propose the dissolution of TMS. This requires approval by a two-thirds majority of the General Assembly.\nIn case of dissolution, any remaining funds or assets shall be allocated to an organization with similar aims."
-  },
-  {
-    "objectID": "bylaws.html#article-13.-code-of-conduct",
-    "href": "bylaws.html#article-13.-code-of-conduct",
-    "title": "By-laws of the Theory Methods Society (TMS)",
-    "section": "",
-    "text": "The TMS adopts the Berlin Code of Conduct to ensure a safe and inclusive community, https://berlincodeofconduct.org/en.\nThe point of contact for reporting CC violations is the Community Manager. The Community Manager solicits written evidence and counterevidence, and - if possible - anonymizes them.\nThe Board is presented with the (anonymized) evidence and votes on action to be taken. Enforcement options include:\n\nA written warning\nProbationary period\nWithdrawal of membership as described under Article 9."
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "Download the calendar"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Theory Methods Society",
-    "section": "",
-    "text": "The Theory Methods Society is a new scholarly community dedicated to advancing theory development across the (social) sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining, and reusing theory, or developing the methods to do so.\n\nWhether you are developing novel theoretical frameworks, exploring computational modeling, or seeking better ways to integrate theory and data, our society provides a platform for connecting with like-minded others, critical engagement, and methodological innovation. Join us in shaping the future of theory in the social sciences!\n\n\n\n\n\n\nTipJoin us if you have an interest in:\n\n\n\n\nTheory development\nFormal theories\nToy models\nPhilosophy of science\n(Interpretable) machine learning\nSimulation studies\nMeta-science\nOpen science\n\n\n\n\nSign up or contribute to website\nAll members can contribute to the Theory Methods Society by adding an item to this Google form. To prevent abuse by bots and malicious actors, you must first request permission to fill out the form.\nTo join the Theory Methods Society, add yourself in the category “People”. It is helpful if you include a link to your personal website, to an image of yourself, and your email address (to receive communications from us)."
-  },
-  {
     "objectID": "summer_school.html",
     "href": "summer_school.html",
     "title": "Summerschool",
@@ -376,6 +173,104 @@
     "title": "Summerschool",
     "section": "",
     "text": "For any questions, please email theorybuildingsummerschool@gmail.com"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
+  },
+  {
+    "objectID": "resources.html#connect-on-discord",
+    "href": "resources.html#connect-on-discord",
+    "title": "Resources",
+    "section": "",
+    "text": "If you haven’t already, consider joining our Discord server: a space to connect with others, discuss theory development, and exchange ideas. The link is shared with those who join the Society."
+  },
+  {
+    "objectID": "resources.html#papers-of-interest",
+    "href": "resources.html#papers-of-interest",
+    "title": "Resources",
+    "section": "Papers of Interest",
+    "text": "Papers of Interest\nSee the TMS Zotero library to access a bibliography of relevant papers."
+  },
+  {
+    "objectID": "resources.html#media",
+    "href": "resources.html#media",
+    "title": "Resources",
+    "section": "Media",
+    "text": "Media\n\nPodcast Nullius in Verba\nNullius in Verba is a podcast about science—what it is and what it could be. It is hosted by Smriti Mehta from UC Berkeley and Daniël Lakens from Eindhoven University of Technology.\nhttps://nulliusinverba.podbean.com/"
+  },
+  {
+    "objectID": "resources.html#software",
+    "href": "resources.html#software",
+    "title": "Resources",
+    "section": "Software",
+    "text": "Software\n\ntheorytools (R package)\nR-package for creating, maintaining, and reusing FAIR theories. The package enables users to formalize theories, track changes with version control, assess pre-empirical coherence, derive testable hypotheses, and facilitates the systematic improvement of theoretical frameworks within open science frameworks. Please feel free to contribute datasets, tutorial exercises, and new functions to this package!\nhttps://cjvanlissa.github.io/theorytools\n\n\nInsight Maker\nAn online and free software package for ABM and system dynamics modeling. It is user-friendly, intuitive, and has a nice GUI.\nhttps://insightmaker.com/\n\n\nLoopy\nLoopy is an open-source online software tool developed by Nicky Case for drawing and running simple stock-and-flow models.\nhttps://ncase.me/loopy/"
+  },
+  {
+    "objectID": "resources.html#educational-materials",
+    "href": "resources.html#educational-materials",
+    "title": "Resources",
+    "section": "Educational Materials",
+    "text": "Educational Materials\n\nTheory Construction and Statistical Modeling\nA free, open source GitBook for a Structural Equation Modeling course with attention to theory. Includes video lectures and formative assessments.\nhttps://cjvanlissa.github.io/TCSM\n\n\nFundamentals: Becoming better at explaining and understanding\nCourse material for a Honours Programme course for bachelor students (from any program) at the UvA and VU in Amsterdam, the Netherlands. It is a “hands on” course on scientific theory development. It takes students from figuring out which effects/phenomena/findings they would like to explain with a theory, through verbally describing and formalizing their theory, to deriving hypotheses and designing experiments to test their theories.\nhttps://osf.io/abxut/\n\n\nFOMO-Psy: Formal Modeling of Psychological Theories\nThis is a 14-week course, instructed by Felix Schönbrodt at the LMU Munich in winter term 2023 and 2024, with contributions from Daniel Leising and Aaron Peikert, with many inspirations taken from a course from Noah van Dongen. The material is work in progress and will be continuously updated along with each new run of the course.\nhttps://nicebread.github.io/FOMO-Psy/"
+  },
+  {
+    "objectID": "conference.html",
+    "href": "conference.html",
+    "title": "Conference",
+    "section": "",
+    "text": "Date: Sept 30-Oct 2nd, 2026\nLocation: Tilburg University, The Netherlands\nVenue: Simon Building, Prof. Cobbenhagenlaan 225\nTilburg University will host the first annual meeting of the Theory Methods Society. The conference will last two days, with an optional social program and a preconference workshop (to be announced)."
+  },
+  {
+    "objectID": "conference.html#important-dates",
+    "href": "conference.html#important-dates",
+    "title": "Conference",
+    "section": "Important Dates",
+    "text": "Important Dates\n\n\n\n\n\nMilestone\nDate\n\n\n\n\nSubmissions Open\n2026-02-01\n\n\nSubmission Deadline\n2026-03-27\n\n\nReviews due\n2026-04-27\n\n\nReview Decision Notifications\n2026-05-10\n\n\nRegistration Deadline\n2026-06-08\n\n\nPreconference Workshop\n2026-09-30\n\n\nConference day 1\n2026-10-01\n\n\nConference day 2\n2026-10-02"
+  },
+  {
+    "objectID": "conference.html#preliminary-program",
+    "href": "conference.html#preliminary-program",
+    "title": "Conference",
+    "section": "Preliminary Program",
+    "text": "Preliminary Program\n\n\n\n\n\n\n\n\n\n\n\nDate\nStart\nEnd\nTopic\n\n\n\n\n30-29-2026\n12:00\n17:00\nPreconference workshop\n\n\n01-10-2026\n9:00\n10:00\nCoffee/socializing\n\n\n01-10-2026\n10:00\n11:00\nKeynote 1\n\n\n01-10-2026\n11:00\n12:00\n2 submitted talks (20 min talk + 10 min Q&A)\n\n\n01-10-2026\n12:00\n13:00\n2 submitted talks (20 min talk + 10 min Q&A)\n\n\n01-10-2026\n13:00\n14:00\nLunch + Posters\n\n\n01-10-2026\n14:00\n14:30\nPosters\n\n\n01-10-2026\n14:30\n15:30\nKeynote 2\n\n\n01-10-2026\n15:30\n17:00\nWorkshops/hackathons\n\n\n01-10-2026\n18:00\n22:00\nConference Dinner\n\n\n02-10-2026\n9:00\n10:00\nGeneral Assembly (with coffee)\n\n\n02-10-2026\n10:00\n11:00\nKeynote 3\n\n\n02-10-2026\n11:00\n12:00\n2 submitted talks (20 min talk + 10 min Q&A)\n\n\n02-10-2026\n12:00\n13:00\n2 submitted talks (20 min talk + 10 min Q&A)\n\n\n02-10-2026\n13:00\n14:00\nLunch\n\n\n02-10-2026\n14:00\n15:00\nKeynote 4\n\n\n02-10-2026\n15:00\n16:00\n8x5 minute lightning talks + general discussion\n\n\n02-10-2026\n16:00\n17:00\nClosing session"
+  },
+  {
+    "objectID": "conference.html#types-of-events",
+    "href": "conference.html#types-of-events",
+    "title": "Conference",
+    "section": "Types of Events",
+    "text": "Types of Events\n\nKeynotes\nAn invited talk of approximately 40 minutes, followed by 20 minutes of discussion.\n\n\nKeynotes\nAn invited format, where participants work on an interactive activity in smaller groups, with the aim to bring multiple perspectives to bear on an urgent issue in theory (methods).\n\n\nSubmitted Talks\nThis format is a 20 minute talk, plus 10 minute discussion or Q&A. Anyone can submit a talk like this, and multiple presenters can share the stage to present a join project or discuss opposing views. Optionally, indicate whether your submitted talk should be considered for a Lightning Talk or Poster slot, if it is not selected for a Submitted Talk.\n\n\nLightning Talks\nThis format is a 5 minute elevator pitch to present a paper, idea, software, or other resource.\n\n\nPoster\nThere is a 1.5 hour slot for poster presentations, during which there is a walking lunch in the same room to stimulate conversations."
+  },
+  {
+    "objectID": "conference.html#participation-costs",
+    "href": "conference.html#participation-costs",
+    "title": "Conference",
+    "section": "Participation Costs",
+    "text": "Participation Costs\nExpected: 50-100 euros\nThis covers participation in all sessions, catering during the conference days, and participation in the conference dinner."
+  },
+  {
+    "objectID": "conference.html#registration",
+    "href": "conference.html#registration",
+    "title": "Conference",
+    "section": "Registration",
+    "text": "Registration\nYou can apply for the summer school via link to be anounced.\nWe can accommodate a maximum of 40 participants. Please note that participants will be selected on a first-come, first-served basis, and registration is only confirmed after you have received an email from us. We maintain a waiting list for participants who sign up beyond the first 40."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Theory Methods Society",
+    "section": "",
+    "text": "The Theory Methods Society is a new scholarly community dedicated to advancing theory development across the (social) sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining, and reusing theory, or developing the methods to do so.\n\nWhether you are developing novel theoretical frameworks, exploring computational modeling, or seeking better ways to integrate theory and data, our society provides a platform for connecting with like-minded others, critical engagement, and methodological innovation. Join us in shaping the future of theory in the social sciences!\n\n\n\n\n\n\nTipJoin us if you have an interest in:\n\n\n\n\nTheory development\nFormal theories\nToy models\nPhilosophy of science\n(Interpretable) machine learning\nSimulation studies\nMeta-science\nOpen science\n\n\n\n\nSign up or contribute to website\nAll members can contribute to the Theory Methods Society by adding an item to this Google form. To prevent abuse by bots and malicious actors, you must first request permission to fill out the form.\nTo join the Theory Methods Society, add yourself in the category “People”. It is helpful if you include a link to your personal website, to an image of yourself, and your email address (to receive communications from us)."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Download the calendar"
   },
   {
     "objectID": "people.html",
@@ -726,5 +621,110 @@
     "title": "People",
     "section": "Yuki Yamada",
     "text": "Yuki Yamada\n\n\n\n\n\n\n \n\n\nI am currently working as an associate professor at Kyushu University and have a background in cognitive psychology. One that loves meta science, open science, and dogs."
+  },
+  {
+    "objectID": "bylaws.html",
+    "href": "bylaws.html",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "Version 1.0.0 (September 2025)\n\n\nResearch on Theory is gaining momentum in the social sciences; there is a critical mass of scholars to establish a society dedicated to the topic. Caspar van Lissa and Noah van Dongen both acquired funds to establish (under different names) a “Theory Methods Society” (TMS); they decided to join forces and recruit early adopters. The Lorentz workshop “Taskforce Theoretical Psychology”, organized in September 2025, offers a timely opportunity to formalize the organizational structure of the TMS and set a course for its future. This document is a first draft of the bylaws for the TMS, and we actively invite community feedback to further improve it.\n\n\n\nThe Theory Methods Society (hereafter referred to as TMS) is a scholarly society that unites researchers, educators, and practitioners with an interest in advancing theoretical and methodological innovation across disciplines and nationalities.\nTMS is registered in the Netherlands as a “stichting”, i.e., a charitable organization.\n\n\n\nThe mission of the Theory Methods Society is to build a global scholarly community dedicated to advancing theory development across the social sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining and reusing theory, or developing the methods to do so.\nThe TMS’ objectives are to:\n\nfacilitate exchange between scholars working on theoretical and methodological issues;\npromote education and training in theory and methods;\nsupport transparency, rigor, and innovation in research practices.\npromoting interdisciplinary collaboration and building bridges to other disciplines.\n\nTMS pursues these objectives by:\n\nEnsuring the continued existence of the TMS\nGrowing its membership and engaging in community building\nServing members’ needs by organizing meetings and providing a platform for knowledge exchange. What members’ needs are, and whether the Society succeeds in meeting these, ought to be assessed at least annually.\n\n\n\n\nTMS consists of Members, a General Assembly, a TMS Board, and TMS Working Groups.\nMembership is open to anyone with an interest in theory and methods who agrees to abide by the bylaws and Code of Conduct, regardless of background, identity, or experience, and regardless of discipline, career stage, or institutional affiliation.\nMembers are entitled to participate in elections, working groups, and events organized by TMS.\nThe TMS Board governs a registry of members and affiliated working groups.\n\n\n\nEach member has one vote in General Assembly meetings.\nMembers may form local, national, or thematic working groups within TMS. Working groups are established by notification of the Board, which votes on the approval of the working group at the next board meeting. If working groups require funding, their budget must be submitted annually and also be subject to a Board vote.\nEach working group selects its own Representative to communicate with the TMS Board.\nThe Board can set and change membership conditions, dues, and collection policies via a regular majority vote.\nVoting regularities are described in Article 8.\n\n\n\nThe TMS Board (hereinafter referred to as the Board) manages TMS and is legally responsible for the society.\nIn addition to executing legal obligations associated with managing a charitable organization (Stichting), the Board is responsible for:\n\nadvancing the mission of TMS;\norganizing elections and meetings;\nmaintaining external relations;\nensuring financial accountability;\nenforcing the code of conduct, https://berlincodeofconduct.org/en\n\nThe Board roles consist of:\n\nA Chair, who oversees meetings, sets agendas, and ensures decisions are implemented.\nA Vice-Chair, who supports and substitutes for the Chair when needed.\nA Treasurer, who manages the finances and prepares budgets and reports.\nA Secretary, who manages internal communications, plans meetings, oversees membership registries, and keeps meeting records.\nA Community Manager, who manages external communication to the members and serves as the point-of-contact for violations of the code of conduct\n\n\n\n\nBoard members are elected biannually and serve two-year terms.\nAll members of TMS are eligible to run for election to the Board.\nNo Board member may serve more than two consecutive terms.\nIf vacancies arise mid-term, the Board may either hold an ad hoc election or redistribute responsibilities until the next regular election.\n\n\n\nThe board will organize at least one annual General Assembly of Members, virtually or physically while allowing for virtual attendance.\nThe Board shall meet at least quarterly, virtually or physically while allowing for virtual attendance.\n\n\n\nBoard decisions require a quorum of three board members present. All present Board members have one vote.\nGeneral Assembly decisions do not require a quorum as long as the meeting is announced two months in advance and all members, in principle, have an opportunity to participate physically or virtually. All present members of the General Assembly have one vote.\nDecisions are made by a simple majority of present (board) members, unless specified otherwise in the bylaws.\nIn case of a tie in Board decisions, the matter is put to debate, followed by a second vote. If the second vote ends in a tie, the matter is put to a vote in the General Assembly. In case the General Assembly vote results in a tie, the decision is not adopted.\nBoard decisions may be made outside of meetings if all Board members are consulted in writing.\n\n\n\nMembership ends when a member either:\n\nresigns voluntarily;\nfails to comply with the TMS Code of Conduct, see Article 13;\nor is dismissed by a two-thirds vote of the General Assembly.\n\n\n\n\nWorking Groups are specific projects or communities of practice within TMS.\nAny member may propose a Working Group, subject to Board approval.\nWorking Groups report regularly to the Board and the General Assembly.\n\n\n\nThe bylaws may be modified by a two-thirds vote of the Board.\nModifications shall be registered with the legal authorities, if applicable.\n\n\n\nThe Board may propose the dissolution of TMS. This requires approval by a two-thirds majority of the General Assembly.\nIn case of dissolution, any remaining funds or assets shall be allocated to an organization with similar aims.\n\n\n\nThe TMS adopts the Berlin Code of Conduct to ensure a safe and inclusive community, https://berlincodeofconduct.org/en.\nThe point of contact for reporting CC violations is the Community Manager. The Community Manager solicits written evidence and counterevidence, and - if possible - anonymizes them.\nThe Board is presented with the (anonymized) evidence and votes on action to be taken. Enforcement options include:\n\nA written warning\nProbationary period\nWithdrawal of membership as described under Article 9."
+  },
+  {
+    "objectID": "bylaws.html#context",
+    "href": "bylaws.html#context",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "Research on Theory is gaining momentum in the social sciences; there is a critical mass of scholars to establish a society dedicated to the topic. Caspar van Lissa and Noah van Dongen both acquired funds to establish (under different names) a “Theory Methods Society” (TMS); they decided to join forces and recruit early adopters. The Lorentz workshop “Taskforce Theoretical Psychology”, organized in September 2025, offers a timely opportunity to formalize the organizational structure of the TMS and set a course for its future. This document is a first draft of the bylaws for the TMS, and we actively invite community feedback to further improve it."
+  },
+  {
+    "objectID": "bylaws.html#article-1.-denomination-and-domicile",
+    "href": "bylaws.html#article-1.-denomination-and-domicile",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "The Theory Methods Society (hereafter referred to as TMS) is a scholarly society that unites researchers, educators, and practitioners with an interest in advancing theoretical and methodological innovation across disciplines and nationalities.\nTMS is registered in the Netherlands as a “stichting”, i.e., a charitable organization."
+  },
+  {
+    "objectID": "bylaws.html#article-2.-mission-and-objectives",
+    "href": "bylaws.html#article-2.-mission-and-objectives",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "The mission of the Theory Methods Society is to build a global scholarly community dedicated to advancing theory development across the social sciences. We strive to bring together researchers from diverse disciplines who share a commitment to building, refining and reusing theory, or developing the methods to do so.\nThe TMS’ objectives are to:\n\nfacilitate exchange between scholars working on theoretical and methodological issues;\npromote education and training in theory and methods;\nsupport transparency, rigor, and innovation in research practices.\npromoting interdisciplinary collaboration and building bridges to other disciplines.\n\nTMS pursues these objectives by:\n\nEnsuring the continued existence of the TMS\nGrowing its membership and engaging in community building\nServing members’ needs by organizing meetings and providing a platform for knowledge exchange. What members’ needs are, and whether the Society succeeds in meeting these, ought to be assessed at least annually."
+  },
+  {
+    "objectID": "bylaws.html#article-3.-membership-and-administration",
+    "href": "bylaws.html#article-3.-membership-and-administration",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "TMS consists of Members, a General Assembly, a TMS Board, and TMS Working Groups.\nMembership is open to anyone with an interest in theory and methods who agrees to abide by the bylaws and Code of Conduct, regardless of background, identity, or experience, and regardless of discipline, career stage, or institutional affiliation.\nMembers are entitled to participate in elections, working groups, and events organized by TMS.\nThe TMS Board governs a registry of members and affiliated working groups."
+  },
+  {
+    "objectID": "bylaws.html#article-4.-members-and-representatives",
+    "href": "bylaws.html#article-4.-members-and-representatives",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "Each member has one vote in General Assembly meetings.\nMembers may form local, national, or thematic working groups within TMS. Working groups are established by notification of the Board, which votes on the approval of the working group at the next board meeting. If working groups require funding, their budget must be submitted annually and also be subject to a Board vote.\nEach working group selects its own Representative to communicate with the TMS Board.\nThe Board can set and change membership conditions, dues, and collection policies via a regular majority vote.\nVoting regularities are described in Article 8."
+  },
+  {
+    "objectID": "bylaws.html#article-5.-tms-board",
+    "href": "bylaws.html#article-5.-tms-board",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "The TMS Board (hereinafter referred to as the Board) manages TMS and is legally responsible for the society.\nIn addition to executing legal obligations associated with managing a charitable organization (Stichting), the Board is responsible for:\n\nadvancing the mission of TMS;\norganizing elections and meetings;\nmaintaining external relations;\nensuring financial accountability;\nenforcing the code of conduct, https://berlincodeofconduct.org/en\n\nThe Board roles consist of:\n\nA Chair, who oversees meetings, sets agendas, and ensures decisions are implemented.\nA Vice-Chair, who supports and substitutes for the Chair when needed.\nA Treasurer, who manages the finances and prepares budgets and reports.\nA Secretary, who manages internal communications, plans meetings, oversees membership registries, and keeps meeting records.\nA Community Manager, who manages external communication to the members and serves as the point-of-contact for violations of the code of conduct"
+  },
+  {
+    "objectID": "bylaws.html#article-6.-elections-and-formation-of-the-board",
+    "href": "bylaws.html#article-6.-elections-and-formation-of-the-board",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "Board members are elected biannually and serve two-year terms.\nAll members of TMS are eligible to run for election to the Board.\nNo Board member may serve more than two consecutive terms.\nIf vacancies arise mid-term, the Board may either hold an ad hoc election or redistribute responsibilities until the next regular election."
+  },
+  {
+    "objectID": "bylaws.html#article-7.-meetings",
+    "href": "bylaws.html#article-7.-meetings",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "The board will organize at least one annual General Assembly of Members, virtually or physically while allowing for virtual attendance.\nThe Board shall meet at least quarterly, virtually or physically while allowing for virtual attendance."
+  },
+  {
+    "objectID": "bylaws.html#article-8.-decision-making",
+    "href": "bylaws.html#article-8.-decision-making",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "Board decisions require a quorum of three board members present. All present Board members have one vote.\nGeneral Assembly decisions do not require a quorum as long as the meeting is announced two months in advance and all members, in principle, have an opportunity to participate physically or virtually. All present members of the General Assembly have one vote.\nDecisions are made by a simple majority of present (board) members, unless specified otherwise in the bylaws.\nIn case of a tie in Board decisions, the matter is put to debate, followed by a second vote. If the second vote ends in a tie, the matter is put to a vote in the General Assembly. In case the General Assembly vote results in a tie, the decision is not adopted.\nBoard decisions may be made outside of meetings if all Board members are consulted in writing."
+  },
+  {
+    "objectID": "bylaws.html#article-9.-termination-of-membership",
+    "href": "bylaws.html#article-9.-termination-of-membership",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "Membership ends when a member either:\n\nresigns voluntarily;\nfails to comply with the TMS Code of Conduct, see Article 13;\nor is dismissed by a two-thirds vote of the General Assembly."
+  },
+  {
+    "objectID": "bylaws.html#article-10.-tms-working-groups",
+    "href": "bylaws.html#article-10.-tms-working-groups",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "Working Groups are specific projects or communities of practice within TMS.\nAny member may propose a Working Group, subject to Board approval.\nWorking Groups report regularly to the Board and the General Assembly."
+  },
+  {
+    "objectID": "bylaws.html#article-11.-modification-of-bylaws",
+    "href": "bylaws.html#article-11.-modification-of-bylaws",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "The bylaws may be modified by a two-thirds vote of the Board.\nModifications shall be registered with the legal authorities, if applicable."
+  },
+  {
+    "objectID": "bylaws.html#article-12.-dissolution",
+    "href": "bylaws.html#article-12.-dissolution",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "The Board may propose the dissolution of TMS. This requires approval by a two-thirds majority of the General Assembly.\nIn case of dissolution, any remaining funds or assets shall be allocated to an organization with similar aims."
+  },
+  {
+    "objectID": "bylaws.html#article-13.-code-of-conduct",
+    "href": "bylaws.html#article-13.-code-of-conduct",
+    "title": "By-laws of the Theory Methods Society (TMS)",
+    "section": "",
+    "text": "The TMS adopts the Berlin Code of Conduct to ensure a safe and inclusive community, https://berlincodeofconduct.org/en.\nThe point of contact for reporting CC violations is the Community Manager. The Community Manager solicits written evidence and counterevidence, and - if possible - anonymizes them.\nThe Board is presented with the (anonymized) evidence and votes on action to be taken. Enforcement options include:\n\nA written warning\nProbationary period\nWithdrawal of membership as described under Article 9."
   }
 ]
