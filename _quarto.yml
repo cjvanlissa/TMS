@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: '<img src="TMS_logo_white.png" width="66" height="95">'
