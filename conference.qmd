@@ -2,20 +2,24 @@
 title: "Conference"
 ---
 
-**Date:** Sept 30-Oct 2nd, 2026  
-**Location:** Tilburg University, The Netherlands  
-**Venue:** Simon Building, Prof. Cobbenhagenlaan 225
+**Date:** Sept 30-Oct 2nd, 2026\
+**Location:** Tilburg University, The Netherlands\
+**Venue:** Simon Building, Prof. Cobbenhagenlaan 225\
+**Submission page:** <https://edu.nl/mj9x6>
 
-Tilburg University will host the first annual meeting of the Theory Methods Society. The conference will last two days, with an optional social program and a preconference workshop (to be announced).
+Tilburg University will host the first annual meeting of the Theory Methods Society. The conference will last two days, with an optional social program and a preconference workshop.
+
+![](campus.jpg)
 
 ## Important Dates
 
 ```{r}
-tab <- c("Submissions Open", "01-01-2026",
-"Submission Deadline", "27-02-2026",
-"Reviews due", "27-03-2026",
-"Review Decision Notifications", "10-04-2026",
-"Registration Deadline", "08-05-2026",
+tab <- c("Submissions Open", "20-02-2026",
+"Submission Deadline", "18-04-2026",
+"Registration opens", "18-04-2026",
+"Decision Notifications", "16-05-2026",
+"Program announced", "30-05-2026",
+"Registration Deadline", "17-07-2026",
 "Preconference Workshop", "30-09-2026",
 "Conference day 1", "01-10-2026",
 "Conference day 2", "02-10-2026")
@@ -30,40 +34,40 @@ names(tab) <- c("Milestone", "Date")
 knitr::kable(tab)
 ```
 
-
 ## Preliminary Program
 
 ```{r}
-sched <- structure(list(V1 = c("30-29-2026", "01-10-2026", "01-10-2026", 
-"01-10-2026", "01-10-2026", "01-10-2026", "01-10-2026", "01-10-2026", 
-"01-10-2026", "01-10-2026", "02-10-2026", "02-10-2026", "02-10-2026", 
-"02-10-2026", "02-10-2026", "02-10-2026", "02-10-2026", "02-10-2026"
-), V2 = c("12:00", "9:00", "10:00", "11:00", "12:00", "13:00", 
-"14:00", "14:30", "15:30", "18:00", "9:00", "10:00", "11:00", 
-"12:00", "13:00", "14:00", "15:00", "16:00"), V3 = c("17:00", 
-"10:00", "11:00", "12:00", "13:00", "14:00", "14:30", "15:30", 
-"17:00", "22:00", "10:00", "11:00", "12:00", "13:00", "14:00", 
-"15:00", "16:00", "17:00"), V4 = c("Preconference workshop", 
-"Coffee/socializing", "Keynote 1", "2 submitted talks (20 min talk + 10 min Q&A)", 
-"2 submitted talks (20 min talk + 10 min Q&A)", "Lunch + Posters", 
-"Posters", "Keynote 2", "Workshops/hackathons", "Conference Dinner", 
-"General Assembly (with coffee)", "Keynote 3", "2 submitted talks (20 min talk + 10 min Q&A)", 
-"2 submitted talks (20 min talk + 10 min Q&A)", "Lunch", "Keynote 4", 
-"8x5 minute lightning talks + general discussion", "Closing session"
-)), class = "data.frame", row.names = c(NA, -18L))
+sched <- read.table("conference_program.csv", sep = "\t", header = FALSE)
+#   structure(list(V1 = c("30-29-2026", "01-10-2026", "01-10-2026", 
+# "01-10-2026", "01-10-2026", "01-10-2026", "01-10-2026", "01-10-2026", 
+# "01-10-2026", "01-10-2026", "02-10-2026", "02-10-2026", "02-10-2026", 
+# "02-10-2026", "02-10-2026", "02-10-2026", "02-10-2026", "02-10-2026"
+# ), V2 = c("12:00", "9:00", "10:00", "11:00", "12:00", "13:00", 
+# "14:00", "14:30", "15:30", "18:00", "9:00", "10:00", "11:00", 
+# "12:00", "13:00", "14:00", "15:00", "16:00"), V3 = c("17:00", 
+# "10:00", "11:00", "12:00", "13:00", "14:00", "14:30", "15:30", 
+# "17:00", "22:00", "10:00", "11:00", "12:00", "13:00", "14:00", 
+# "15:00", "16:00", "17:00"), V4 = c("Preconference workshop", 
+# "Coffee/socializing", "Keynote 1", "2 submitted talks (20 min talk + 10 min Q&A)", 
+# "2 submitted talks (20 min talk + 10 min Q&A)", "Lunch + Posters", 
+# "Posters", "Keynote 2", "Workshops/hackathons", "Conference Dinner", 
+# "General Assembly (with coffee)", "Keynote 3", "2 submitted talks (20 min talk + 10 min Q&A)", 
+# "2 submitted talks (20 min talk + 10 min Q&A)", "Lunch", "Keynote 4", 
+# "8x5 minute lightning talks + general discussion", "Closing session"
+# )), class = "data.frame", row.names = c(NA, -18L))
 names(sched) <- c("Date", "Start", "End", "Topic")
-knitr::kable(sched)
+DT::datatable(sched, rownames = FALSE, options = list(pageLength = nrow(sched)))
 ```
 
-## Types of Events
+## Submission formats
 
 ### Keynotes
 
 An invited talk of approximately 40 minutes, followed by 20 minutes of discussion.
 
-### Keynotes
+<!-- ### Keynotes -->
 
-An invited format, where participants work on an interactive activity in smaller groups, with the aim to bring multiple perspectives to bear on an urgent issue in theory (methods).
+<!-- An invited format, where participants work on an interactive activity in smaller groups, with the aim to bring multiple perspectives to bear on an urgent issue in theory (methods). -->
 
 ### Submitted Talks
 
@@ -71,19 +75,21 @@ This format is a 20 minute talk, plus 10 minute discussion or Q&A. Anyone can su
 
 ### Lightning Talks
 
-This format is a 5 minute elevator pitch to present a paper, idea, software, or other resource.
+This format is a 5 minute elevator pitch designed to inspire and spark discussion. Speakers can present a paper, idea, software, or other resource.
 
 ### Poster
 
 There is a 1.5 hour slot for poster presentations, during which there is a walking lunch in the same room to stimulate conversations.
 
-
 ## Participation Costs
 
-*Expected: 50-100 euros*
+*Expected: 100-140 euros*
 
 This covers participation in all sessions, catering during the conference days, and participation in the conference dinner.
 
+We want to be inclusive, so the registration form will include an option to apply for a registration fee waiver if you do not have a conference budget, optionally in exchange for volunteering at the conference.
+
+Waivers will be awarded subject to our financial position and the number of applicants.
 
 ## Registration
 
