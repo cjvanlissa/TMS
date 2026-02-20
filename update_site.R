@@ -29,3 +29,5 @@ get_data <- function(){
 }
 
 get_data()
+quarto::quarto_render()
+worcs::git_update()

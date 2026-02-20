@@ -2,12 +2,23 @@
 title: "About"
 ---
 
-The *Theory Methods Society* was founded by Caspar van Lissa and Noah van Dongen, who received NWO Vidi- and Veni-grants, respectively, for research on theory methods in the social sciences. Both applied for funds to advance community building, which will be used to kick-start this society.
+The *Theory Methods Society* is presided by a democratically elected board:
 
-The bylaws and governance structure of the society will be established in due course, most likely during the planned Lorentz workshop on theory methods.
+* **Chair:** Caspar van Lissa
+* **Vice-chair:** Noah van Dongen
+* **Treasurer:** Jason Nak
+* **Operations manager:** Luiza Yuan
+* **Communications Manager:** Ward Eiling
+
+
+## Code of Conduct
 
 By participating in the *Theory Methods Society*, you agree to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/), a code of conduct designed to ensure safety and accountability in communities.
 
- <p align="center"><img src="TMS_logo.png" alt="TMS logo" style= "max-width:160px;width:40%;min-width:100px;height:auto;"></p>
+<p align="center">
+
+<img src="TMS_logo.png" alt="TMS logo" style="max-width:160px;width:40%;min-width:100px;height:auto;"/>
+
+</p>
 
 {{< include bylaws.md >}}
