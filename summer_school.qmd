@@ -34,6 +34,27 @@ The following topics and more will be covered during the summer school:
 * The value and pitfalls of formal models used in contemporary psychological research
 * New developments in the field to improve psychological theory
 
+## Preliminary Schedule:**  
+**Monday, July 6**
+* Opening (Jason Nak)  
+* Analogical reasoning (Denny Borsboom)
+
+**Tuesday, July 7**
+* Phenomena and concept specification (Markus Eronen & Laura Bringmann)  
+* Exploratory theories (Willem Frankenhuis & Nicole Walasek)
+
+**Wednesday, July 8**
+* Theory specification (Andreas Glöckner)  
+* TheorAIzer & sdbuildR (Meike Waaijers & Kyra Evers)
+
+**Thursday, July 9**
+* Differential equation modelling  (Jonas Haslbeck)  
+* Symposium: Contemporary perspectives on formalized theory in psychology
+
+**Friday, July 10**
+* Model creation and agent-based model (Han van der Maas)  
+* Productive explanation (Noah van Dongen)
+* Closing
 
 ## Requirements
 This summer school is designed for participants at the doctoral (i.e., PhD) or postdoctoral level who possess familiarity with the R programming language. Participants are expected to bring their own laptop. Familiarity with mathematics beyond the high school level is not required. If you do not fulfill these requirements, registration is at your own risk. 
