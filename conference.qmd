@@ -26,10 +26,10 @@ tab <- c("Submissions Open", "20-02-2026",
 
 tab <- matrix(tab, ncol = 2, byrow = T)
 tab <- data.frame(tab)
-tab$X2 <- as.Date(tab$X2, format = "%d-%m-%Y")
-library(lubridate)
-tab$X2 <- ymd(tab$X2)
-tab$X2[1:5] %m+% months(1) -> tab$X2[1:5]
+# tab$X2 <- as.Date(tab$X2, format = "%d-%m-%Y")
+# library(lubridate)
+# tab$X2 <- ymd(tab$X2)
+# #tab$X2[1:5] %m+% months(1) -> tab$X2[1:5]
 names(tab) <- c("Milestone", "Date")
 knitr::kable(tab)
 ```
