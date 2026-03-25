@@ -1,18 +1,3 @@
----
-title: "People"
-format:
-  html:
-    toc: true
----
-
-```{r}
-#| output: asis
-#| echo: false
-#| warning: false
-ppl <- readRDS("websitedata.RData")
-ppl <- ppl[which(ppl$category == "People"), , drop = FALSE]
-ppl <- ppl[order(ppl$title), , drop = FALSE]
-
 library(ggplot2)
 library(svglite)
 ppl$filename <- NA
@@ -25,6 +10,7 @@ for(p in 1:nrow(ppl)){
 }
 
 for(p in which(is.na(ppl$filename))){
+  # p = 34
 
   success <- FALSE
 
@@ -35,7 +21,7 @@ for(p in which(is.na(ppl$filename))){
       destfile <- paste0(fnams[p], ".", fext)
       dld <- try(download.file(sourcefile, file.path("images", destfile), method = "wget"))
       success <- isTRUE(dld == 0)
-    } 
+    }
   }
 
   if(!success){
@@ -47,13 +33,3 @@ for(p in which(is.na(ppl$filename))){
   ppl$filename[p] <- destfile
 }
 
-
-if(nrow(ppl) > 0){
-  cat('',
-      glue::glue('\n\n## [{{ppl$title}}]({{ppl$link}})\n\n::: {layout="[20,-2,20]" layout-valign="center"}\n\n![](images/{{ppl$filename}})\n\n{{ppl$description}}\n\n:::', .open = "{{", .close = "}}"),
-      "\n",
-      "",
-      sep = ""
-  )
-}
-```

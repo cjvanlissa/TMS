@@ -91,8 +91,8 @@ We want to be inclusive, so the registration form will include an option to appl
 
 Waivers will be awarded subject to our financial position and the number of applicants.
 
-## Registration
+<!-- ## Registration -->
 
-You can apply for the summer school via *link to be anounced*.
+<!-- You can apply for the summer school via *link to be anounced*. -->
 
-We can accommodate a maximum of 40 participants. Please note that participants will be selected on a first-come, first-served basis, and registration is only confirmed after you have received an email from us. We maintain a waiting list for participants who sign up beyond the first 40.
+<!-- We can accommodate a maximum of 40 participants. Please note that participants will be selected on a first-come, first-served basis, and registration is only confirmed after you have received an email from us. We maintain a waiting list for participants who sign up beyond the first 40. -->

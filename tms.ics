@@ -4,15 +4,9 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:FOS Conference 2025 - Theory Development
-DTSTART:20250515T000000
-DTEND:20250316T000000
-SUMMARY:University of Freiburg Open Science mini-conference. The focus of the meeting will be on theory development and its intersections with Open Science. Invited speakers: Prof. Daniel Lakens (Technical University Eindhoven, Netherlands), Dr. Priya Silverstein (Ashland University & Psychological Science Accelerator, USA), Freek Oude Maatman (University of Groningen & Radboud University Nijmegen, Netherlands), Sajedeh Rasti (Technical University Eindhoven, Netherlands).
-END:VEVENT
-BEGIN:VEVENT
 UID:NA
-DTSTART:20260305T130000
-DTEND:20260305T140000
+DTSTART:20260325T100000
+DTEND:20260325T110000
 SUMMARY:ical event
 END:VEVENT
 END:VCALENDAR
