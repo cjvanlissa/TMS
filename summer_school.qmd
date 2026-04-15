@@ -39,7 +39,7 @@ The following topics and more will be covered during the summer school:
 * The value and pitfalls of formal models used in contemporary psychological research
 * New developments in the field to improve psychological theory
 
-## Preliminary Schedule:
+## Preliminary Schedule
 
 **Monday, July 6**
 
@@ -54,7 +54,7 @@ The following topics and more will be covered during the summer school:
 **Wednesday, July 8**
 
 * Theory specification (Andreas Glöckner)  
-* TheorAIzer & sdbuildR (Meike Waaijers & Kyra Evers)
+* Causal Loop Diagrams & Stock-and-flow modelling (Meike Waaijers & Kyra Evers)
 
 **Thursday, July 9**
 
@@ -75,9 +75,9 @@ This summer school is designed for participants at the doctoral (i.e., PhD) or p
 
 800.00 euros. The costs include participation in all lectures and practical sessions (from 09:00 to 17:00), lunch, drinks on Monday, and dinner on Thursday.
 
-## Registration
+## Register for waiting list
 
-You can apply for the summer school via [this registration link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05VdsRYEQLS1Kh6tZxF6D6DZUMEhZUkhYTTlVTkk1WTJGRjRDTlNRM0NPNi4u). Please note that participants will be selected on a first-come, first-served basis, and registration is only confirmed after you have received an email from us. You can expect to receive information regarding your registration in April (2026). If the minimum number of participants is not reached, the summer school will unfortunately be cancelled.
+You can register for the waiting list via [this link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=zcrxoIxhA0S5RXb7PWh05VdsRYEQLS1Kh6tZxF6D6DZUMEhZUkhYTTlVTkk1WTJGRjRDTlNRM0NPNi4u). Please note that participants will be selected on a first-come, first-served basis, and registration is only confirmed after you have received an email from us. 
 
 ## Stay Informed
 
