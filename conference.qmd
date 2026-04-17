@@ -15,11 +15,11 @@ Tilburg University will host the first annual meeting of the Theory Methods Soci
 
 ```{r}
 tab <- c("Submissions Open", "20-02-2026",
-"Submission Deadline", "18-04-2026",
-"Registration opens", "18-04-2026",
-"Decision Notifications", "16-05-2026",
-"Program announced", "30-05-2026",
-"Registration Deadline", "17-07-2026",
+"Submission Deadline", "18-06-2026",
+"Registration opens", "18-06-2026",
+"Decision Notifications", "rolling",
+"Program announced", "rolling",
+"Registration Deadline", "17-08-2026",
 "Preconference Workshop", "30-09-2026",
 "Conference day 1", "01-10-2026",
 "Conference day 2", "02-10-2026")
@@ -58,6 +58,19 @@ sched <- read.table("conference_program.csv", sep = "\t", header = FALSE)
 names(sched) <- c("Date", "Start", "End", "Topic")
 DT::datatable(sched, rownames = FALSE, options = list(pageLength = nrow(sched)))
 ```
+
+## Preconference Workshop
+
+This workshop is organized in collaboration with the eScience Center and the Open Science Community Tilburg.
+
+Teachers: MSc [Rasoul Norouzi](https://www.tilburguniversity.edu/staff/r-norouzinikjeh) (Tilburg University), dr. [Erik Tjong Kim Sang](https://www.esciencecenter.nl/team/dr-ir-erik-tjong-kim-sang/) (eScience Center)
+
+For our preconference workshop, we partnered with the eScience Center NL. Thanks to their expertise, you can now learn four main skills:
+
+1. Automatically downloading published papers in bulk for systematic review, text mining, bibliometric analysis, etc., using the COSMAS tool developed by the eScience Center
+1. Constructing theories based on causal claims in published papers, downloaded using the COSMAS tool
+1. Harmonizing social science concepts (e.g., recognizing that "sleep disorder" and "insomnia" refer to the same concept)
+1. Knowledge extraction of other relevant information from published papers using specialized models with known validity and reliability (so, not ChatGPT) - like p-values, sample sizes, etc.
 
 ## Submission formats
 
