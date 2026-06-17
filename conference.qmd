@@ -5,11 +5,54 @@ title: "Conference"
 **Date:** Sept 30-Oct 2nd, 2026\
 **Location:** Tilburg University, The Netherlands\
 **Venue:** Simon Building, Prof. Cobbenhagenlaan 225\
-**Submission page:** <https://edu.nl/mj9x6>
+**Registration:** <https://edu.nl/guntn>
+<!-- **Submission page:** <https://edu.nl/mj9x6> -->
 
 Tilburg University will host the first annual meeting of the Theory Methods Society. The conference will last two days, with an optional social program and a preconference workshop.
 
 ![](campus.jpg)
+
+
+## Preliminary Program
+
+**Note: The program is still preliminary and subject to change.**
+
+```{r}
+dt_wrap <- function(dat, childrow, options = NULL){
+  colnum <- which(names(dat) == childrow)
+  datatable(
+    cbind(' ' = '<img src="https://datatables.net/examples/resources/details_open.png"/>', dat), escape = -1,
+    options = c(list(
+      columnDefs = list(
+        list(visible = FALSE, targets = colnum),
+        list(orderable = FALSE, className = 'details-control', targets = 0)
+      )
+    ), options),
+    callback = JS(paste0("table.column(0).nodes().to$().css({cursor: 'pointer'});
+  var format = function(d) {
+    return '<div style=\"background-color:#eee; padding: .5em;\"> ' +
+            d[", colnum, "] + '</div>';
+  };
+  table.on('click', 'td.details-control', function() {
+    var td = $(this), row = table.row(td.closest('tr'));
+    if (row.child.isShown()) {
+      row.child.hide();
+      td.html('<img src=\"https://datatables.net/examples/resources/details_open.png\"/>');
+    } else {
+      row.child(format(row.data())).show();
+      td.html('<img src=\"https://datatables.net/examples/resources/details_close.png\"/>');
+    }
+  });")
+    ), rownames = FALSE)
+}
+sched <- read.csv("conference_program.csv", stringsAsFactors = FALSE)
+row.names(sched) <- NULL
+sched$Description[is.na(sched$Description)] <- "Not (yet) available"
+sched <- sched[ , c("Start", "Duration", "Type", "Speaker", "Title", "Description")]
+names(sched)[1:2] <- c("Start", "Mins")
+library(DT)
+dt_wrap(sched, "Description", options = list(dom = 't', "pageLength" = nrow(sched)))
+```
 
 ## Important Dates
 
@@ -34,30 +77,6 @@ names(tab) <- c("Milestone", "Date")
 knitr::kable(tab)
 ```
 
-## Preliminary Program
-
-```{r}
-sched <- read.table("conference_program.csv", sep = "\t", header = FALSE)
-#   structure(list(V1 = c("30-29-2026", "01-10-2026", "01-10-2026", 
-# "01-10-2026", "01-10-2026", "01-10-2026", "01-10-2026", "01-10-2026", 
-# "01-10-2026", "01-10-2026", "02-10-2026", "02-10-2026", "02-10-2026", 
-# "02-10-2026", "02-10-2026", "02-10-2026", "02-10-2026", "02-10-2026"
-# ), V2 = c("12:00", "9:00", "10:00", "11:00", "12:00", "13:00", 
-# "14:00", "14:30", "15:30", "18:00", "9:00", "10:00", "11:00", 
-# "12:00", "13:00", "14:00", "15:00", "16:00"), V3 = c("17:00", 
-# "10:00", "11:00", "12:00", "13:00", "14:00", "14:30", "15:30", 
-# "17:00", "22:00", "10:00", "11:00", "12:00", "13:00", "14:00", 
-# "15:00", "16:00", "17:00"), V4 = c("Preconference workshop", 
-# "Coffee/socializing", "Keynote 1", "2 submitted talks (20 min talk + 10 min Q&A)", 
-# "2 submitted talks (20 min talk + 10 min Q&A)", "Lunch + Posters", 
-# "Posters", "Keynote 2", "Workshops/hackathons", "Conference Dinner", 
-# "General Assembly (with coffee)", "Keynote 3", "2 submitted talks (20 min talk + 10 min Q&A)", 
-# "2 submitted talks (20 min talk + 10 min Q&A)", "Lunch", "Keynote 4", 
-# "8x5 minute lightning talks + general discussion", "Closing session"
-# )), class = "data.frame", row.names = c(NA, -18L))
-names(sched) <- c("Date", "Start", "End", "Topic")
-DT::datatable(sched, rownames = FALSE, options = list(pageLength = nrow(sched)))
-```
 
 ## Preconference Workshop
 
@@ -71,6 +90,8 @@ For our preconference workshop, we partnered with the eScience Center NL. Thanks
 1. Constructing theories based on causal claims in published papers, downloaded using the COSMAS tool
 1. Harmonizing social science concepts (e.g., recognizing that "sleep disorder" and "insomnia" refer to the same concept)
 1. Knowledge extraction of other relevant information from published papers using specialized models with known validity and reliability (so, not ChatGPT) - like p-values, sample sizes, etc.
+
+
 
 ## Submission formats
 
