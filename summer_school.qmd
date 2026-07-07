@@ -58,7 +58,7 @@ The following topics and more will be covered during the summer school:
 
 **Thursday, July 9**
 
-* Differential equation modelling  (Jonas Haslbeck)  
+* Dynamical systems modelling  (Jonas Haslbeck)  
 * Symposium: Contemporary perspectives on formalized theory in psychology
 
 **Friday, July 10**
