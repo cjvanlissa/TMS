@@ -14,5 +14,5 @@ df$Duration <- as.difftime(df$Duration, units="mins")
 
 if(!all((df$End - df$Start) == df$Duration, na.rm = TRUE)) stop()
 df$Description <- prog$Abstract[match(df$Title, prog$Title)]
-
+df$email <- prog$Email[match(df$Title, prog$Title)]
 write.csv(df, "conference_program.csv", row.names = FALSE)
