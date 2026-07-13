@@ -23,10 +23,52 @@ table(df$type, df$Presentation)
 # write.csv(df, "submissions.csv", row.names = FALSE)
 
 library(gmailr)
-gm_auth_configure(path = "/home/cjvanlissa/Nextcloud/client_secret_229801455603-ev9m00bd3beqdqp2dan3c43dnm4q81ut.apps.googleusercontent.com.json")
+# gm_auth_configure(path = "/home/cjvanlissa/Nextcloud/client_secret_229801455603-ev9m00bd3beqdqp2dan3c43dnm4q81ut.apps.googleusercontent.com.json")
 gm_auth()
 # Email students ----------------------------------------------------------
 # i = sample.int(nrow(df_comb), 1)
+
+for(i in 2:nrow(df)){
+  thisrow <- df[i, ]
+  if(is.na(thisrow$Email)) next
+  bd <- glue::glue('Dear {thisrow["Presenting"]},
+
+Thank you for submitting your proposed {thisrow["Presentation"]} titled "{thisrow["Title"]}" for the inaugural Theory Methods Conference in Tilburg, September 30th - October 2nd!
+
+Congratulations: two reviewers have rated your presentation, and recommended you be included in the program!
+
+{c(" ", "Since we received many more excellent submissions than slots for full presentations, we would like to ask you to prepare a **lightning talk** instead.")[(thisrow["type"] != thisrow["Presentation"]) + 1L]}
+
+You can register for the conference here:  https://edu.nl/guntn
+
+After you fill out the form, Tilburg University will contact you for payment and provide you with a receipt.
+
+The conference program can be seen here: https://theorymethodssociety.org/conference.html
+
+We look forward to receiving you at this vibrant and inspiring event on the green campus of Tilburg University!
+
+Sincerely,
+the TMS board
+
+Caspar van Lissa
+Noah van Dongen
+Jason Nak
+Luiza Yuan
+Ward Eiling')
+
+  my_email_message <- gm_mime() |>
+    gm_to(thisrow[1,"Email"]) |>
+    gm_from("c.j.vanlissa@gmail.com") |>
+    gm_subject("Decision Notification Theory Methods Conference") |>
+    gm_text_body(bd)
+
+  ## send it
+  gm_send_message(my_email_message)
+  Sys.sleep(2)
+
+}
+
+
 for(i in 1:nrow(df)){
   thisrow <- df[i, ]
   if(is.na(thisrow$Email)) next
@@ -38,7 +80,7 @@ Congratulations: two reviewers have rated your presentation, and recommended you
 
 {c(" ", "Since we received many more excellent submissions than slots for full presentations, we would like to ask you to prepare a **lightning talk** instead.")[(thisrow["type"] != thisrow["Presentation"]) + 1L]}
 
-Early registration is available here:  https://edu.nl/guntn
+You can register for the conference here:  https://edu.nl/guntn
 
 After you fill out the form, Tilburg University will contact you for payment and provide you with a receipt.
 
