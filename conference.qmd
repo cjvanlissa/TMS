@@ -13,9 +13,7 @@ Tilburg University will host the first annual meeting of the Theory Methods Soci
 ![](campus.jpg)
 
 
-## Preliminary Program
-
-**Note: The program is still preliminary and subject to change.**
+## Definitive Program
 
 ```{r}
 dt_wrap <- function(dat, childrow, options = NULL){
