@@ -52,6 +52,8 @@ library(DT)
 dt_wrap(sched, "Description", options = list(dom = 't', "pageLength" = nrow(sched)))
 ```
 
+{{< include posters.md >}}
+
 ## Important Dates
 
 ```{r}
