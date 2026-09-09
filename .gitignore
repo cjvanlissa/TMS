@@ -9,3 +9,6 @@
 newsletter.txt
 
 **/*.quarto_ipynb
+registered.csv
+make_nametage.R
+make_nametags.R

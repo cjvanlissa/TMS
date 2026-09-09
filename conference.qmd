@@ -15,6 +15,11 @@ Tilburg University will host the first annual meeting of the Theory Methods Soci
 
 ## Definitive Program
 
+**Location preconference workshop:** Koopmans Building, room K1201, 12th floor. Warandelaan 2, 5037 AB Tilburg
+
+
+**Location main conference:** Simon Building, room S8, ground floor. Prof. Cobbenhagenlaan 225, 5037 DB Tilburg
+
 ```{r}
 dt_wrap <- function(dat, childrow, options = NULL){
   colnum <- which(names(dat) == childrow)
@@ -79,6 +84,8 @@ knitr::kable(tab)
 
 
 ## Preconference Workshop
+
+**Venue:** Koopmans Building, room K1201, 12th floor. Warandelaan 2, 5037 AB Tilburg
 
 This workshop is organized in collaboration with the eScience Center and the Open Science Community Tilburg.
 
