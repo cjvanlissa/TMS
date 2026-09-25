@@ -12,6 +12,9 @@ Title: Specifying meaningful joint hypotheses across studies: Bayesian evidence 
 Presenter: Aline Korver
 Title: Some problems for SEM evaluation practices
 
+Presenter: Anouk Bouma
+Title: Get to know the Platform for Young Meta-Scientists (PYMS)
+
 ### Posters Day 2:
 
 Presenter: Nathaniel R. Choukas
@@ -22,8 +25,4 @@ Title: PsychoModels  - Database of Formal Models, Theories and Phenomena
 
 Presenter: Vuk Kolarević
 Title: Does Formalising Psychological Theories Advance Scientific Understanding?
-
-Presenter: Anouk Bouma
-Title: Get to know the Platform for Young Meta-Scientists (PYMS)
-
 
