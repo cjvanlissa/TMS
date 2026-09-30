@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: '<img src="TMS_logo_white.png" width="66" height="95">'
+  title: '<img src="TMS_logo_white.png" width="29" height="42">'
   navbar:
     left:
       - href: index.qmd

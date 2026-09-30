@@ -4,7 +4,7 @@ title: "Conference"
 
 **Date:** Sept 30-Oct 2nd, 2026\
 **Location:** Tilburg University, The Netherlands\
-**Venue:** Simon Building, Prof. Cobbenhagenlaan 225\
+**Venue:** Simon Building, Prof. Cobbenhagenlaan 225 (the building marked "S" on the [campus map](https://www.tilburguniversity.edu/sites/default/files/download/TiU_campusplattegrond_jan-2024.pdf))\
 **Registration:** <https://edu.nl/guntn>
 <!-- **Submission page:** <https://edu.nl/mj9x6> -->
 
@@ -15,10 +15,10 @@ Tilburg University will host the first annual meeting of the Theory Methods Soci
 
 ## Definitive Program
 
-**Location preconference workshop:** Koopmans Building, room K1201, 12th floor. Warandelaan 2, 5037 AB Tilburg
+**Location preconference workshop:** Koopmans Building, room K1201, 12th floor. Warandelaan 2, 5037 AB Tilburg (the building marked "K" on the [campus map](https://www.tilburguniversity.edu/sites/default/files/download/TiU_campusplattegrond_jan-2024.pdf))
 
 
-**Location main conference:** Simon Building, room S8, ground floor. Prof. Cobbenhagenlaan 225, 5037 DB Tilburg
+**Location main conference:** Simon Building, room S8, ground floor. Prof. Cobbenhagenlaan 225, 5037 DB Tilburg (the building marked "S" on the [campus map](https://www.tilburguniversity.edu/sites/default/files/download/TiU_campusplattegrond_jan-2024.pdf))
 
 ```{r}
 dt_wrap <- function(dat, childrow, options = NULL){
@@ -85,7 +85,7 @@ knitr::kable(tab)
 
 ## Preconference Workshop
 
-**Venue:** Koopmans Building, room K1201, 12th floor. Warandelaan 2, 5037 AB Tilburg
+**Venue:** Koopmans Building, room K1201, 12th floor. Warandelaan 2, 5037 AB Tilburg (the building marked "K" on the [campus map](https://www.tilburguniversity.edu/sites/default/files/download/TiU_campusplattegrond_jan-2024.pdf))
 
 This workshop is organized in collaboration with the eScience Center and the Open Science Community Tilburg.
 
