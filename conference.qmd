@@ -20,6 +20,8 @@ Tilburg University will host the first annual meeting of the Theory Methods Soci
 
 **Location main conference:** Simon Building, room S8, ground floor. Prof. Cobbenhagenlaan 225, 5037 DB Tilburg (the building marked "S" on the [campus map](https://www.tilburguniversity.edu/sites/default/files/download/TiU_campusplattegrond_jan-2024.pdf))
 
+**Location conference dinner:** Focus Foodbar, Heuvelstraat 122, 5038 AH Tilburg 225, 5037 DB Tilburg [Google maps](https://maps.app.goo.gl/JsrWDx6eqVffKmwv6)
+
 ```{r}
 dt_wrap <- function(dat, childrow, options = NULL){
   colnum <- which(names(dat) == childrow)
