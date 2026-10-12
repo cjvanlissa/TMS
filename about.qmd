@@ -11,10 +11,6 @@ The *Theory Methods Society* is presided by a democratically elected board:
 * **Communications Manager:** Ward Eiling
 
 
-## Code of Conduct
-
-By participating in the *Theory Methods Society*, you agree to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/), a code of conduct designed to ensure safety and accountability in communities.
-
 <p align="center">
 
 <img src="TMS_logo.png" alt="TMS logo" style="max-width:160px;width:40%;min-width:100px;height:auto;"/>

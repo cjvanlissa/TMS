@@ -1,6 +1,6 @@
 # By-laws of the Theory Methods Society (TMS)
 
-Version 1.0.0 (September 2025)
+Version 1.0.1 (October 2026)
 
 
 ## Context
@@ -131,12 +131,20 @@ In case of dissolution, any remaining funds or assets shall be allocated to an o
 
 ## Article 13. Code of Conduct
 
-The TMS adopts the Berlin Code of Conduct to ensure a safe and inclusive community, https://berlincodeofconduct.org/en.
+By participating in the *Theory Methods Society*, you agree to adhere to the [Berlin Code of Conduct](https://berlincodeofconduct.org/en), a code of conduct designed to ensure safety and accountability in communities.
 
-The point of contact for reporting CC violations is the Community Manager. The Community Manager solicits written evidence and counterevidence, and - if possible - anonymizes them. 
+The point of contact for reporting CC violations is the Communications Manager (currently: Ward Eiling). The Communications Manager solicits written evidence and counterevidence, and - if possible - anonymizes them. 
 
 The Board is presented with the (anonymized) evidence and votes on action to be taken. Enforcement options include:
 
 * A written warning
 * Probationary period
 * Withdrawal of membership as described under Article 9.
+
+At events organized by TMS:
+
+* The organizers will remind attendees of this Article of the bylaws, and of the Code of Conduct governing participation, at the start of the event
+* The organisers will identify a **designated contact** for reporting actual or suspected breaches of the Code of Conduct. This contact will be the Communications Manager, or in case of their absence, an on-site representative designated by the Communications Manager.
+* **Session Chairs** are responsible for notifying the Communications Manager (or their representative) of any (suspected) breaches of the Code of Conduct that they observe during the sessions they chair.
+* In the event of (suspected) breaches of the Code of Conduct, session chairs should take reasonable steps to ensure a safe environment, including reminding participants of the Code of Conduct, calling out the behavior as inappropriate using clear, non-confrontational language (example: I think this comment is inappropriate), pausing the session, or excluding a suspected violator from further participation until the case can be handled according to the bylaws. Note that a Chair’s role is to manage the session and refer concerns, not to investigate reports or adjudicate (suspected) breaches without due process.
+
